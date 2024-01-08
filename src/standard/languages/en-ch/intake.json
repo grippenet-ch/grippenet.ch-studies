@@ -1,0 +1,617 @@
+{
+  "intake.name.0": {
+    "en": "Intake questionnaire"
+  },
+  "intake.description.0": {
+    "en": "The purpose of the intake questionnaire is to learn a little more about each user."
+  },
+  "intake.typicalDuration.0": {
+    "en": "Duration 5-10 minutes"
+  },
+  "intake.Q1.title.0": {
+    "en": "What is your gender?"
+  },
+  "intake.Q1.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q1.helpGroup.text.1": {
+    "en": "In order to examine the differences between genders."
+  },
+  "intake.Q1.rg.scg.option.0": {
+    "en": "Male"
+  },
+  "intake.Q1.rg.scg.option.1": {
+    "en": "Female"
+  },
+  "intake.Q1.rg.scg.option.2": {
+    "en": "Other"
+  },
+  "intake.Q2.title.0": {
+    "en": "What is your date of birth (month and year)?"
+  },
+  "intake.Q2.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q2.helpGroup.text.1": {
+    "en": "In order to examine the differences between age groups."
+  },
+  "intake.Q2.rg.feedback.text.1": {
+    "en": " years old"
+  },
+  "intake.Q3.title.0": {
+    "en": "What is your postal code (place of residence)?"
+  },
+  "intake.Q3.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q3.helpGroup.text.1": {
+    "en": "In order to verify the representativeness of our cohort (the group of participants in this study) and to examine the geographical differences in the spread of the coronavirus and influenza."
+  },
+  "intake.Q3.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q3.helpGroup.text.3": {
+    "en": "Insert the postal code of your place of residence"
+  },
+  "intake.Q3.rg.scg.input.0": {
+    "en": "Postal code:"
+  },
+  "intake.Q3.rg.scg.description.input.0": {
+    "en": "Postal code"
+  },
+  "intake.Q3.rg.scg.option.1": {
+    "en": "I prefer not to answer this question"
+  },
+  "intake.Q3.error.3": {
+    "en": "Please enter the four digits of your postal code"
+  },
+  "intake.Q3.error.4": {
+    "en": "Please enter at most 4 digits"
+  },
+  "intake.Q4.title.0": {
+    "en": "What is your current professional status?"
+  },
+  "intake.Q4.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q4.helpGroup.text.1": {
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting infected with the flu (Influenza) is different for people in different types of occupation."
+  },
+  "intake.Q4.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q4.helpGroup.text.3": {
+    "en": "Please, tick the box that most precisely describes your main occupation. For pre-school children who don't go to daycare tick the \"other\" box."
+  },
+  "intake.Q4.rg.scg.option.0": {
+    "en": "Paid employment, full time"
+  },
+  "intake.Q4.rg.scg.option.1": {
+    "en": "Paid employment, part time"
+  },
+  "intake.Q4.rg.scg.option.2": {
+    "en": "Self-employed (businessman, farmer, tradesman, etc.)"
+  },
+  "intake.Q4.rg.scg.option.3": {
+    "en": "Attending daycare/school/college/university"
+  },
+  "intake.Q4.rg.scg.option.4": {
+    "en": "Home-maker (e.g. housewife)"
+  },
+  "intake.Q4.rg.scg.option.5": {
+    "en": "Unemployed"
+  },
+  "intake.Q4.rg.scg.option.6": {
+    "en": "Long-term sick-leave or parental leave"
+  },
+  "intake.Q4.rg.scg.option.7": {
+    "en": "Retired"
+  },
+  "intake.Q4.rg.scg.option.8": {
+    "en": "Other"
+  },
+  "intake.Q4b.title.0": {
+    "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?"
+  },
+  "intake.Q4b.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q4b.helpGroup.text.1": {
+    "en": "To be able to determine the distance you regularly travel during your daily movements."
+  },
+  "intake.Q4b.rg.scg.input.0": {
+    "en": "Postal code (of your school/work/university etc.)"
+  },
+  "intake.Q4b.rg.scg.description.input.0": {
+    "en": "Postal code (of your school/work/university etc.)"
+  },
+  "intake.Q4b.rg.scg.option.1": {
+    "en": "I don’t know"
+  },
+  "intake.Q4b.rg.scg.option.2": {
+    "en": "Not applicable (e.g. I don’t have a fixed workplace)"
+  },
+  "intake.Q4b.error.3": {
+    "en": "Please enter the four digits of your postal code"
+  },
+  "intake.Q4b.error.4": {
+    "en": "Please enter at most four digits"
+  },
+  "intake.Q4h.title.0": {
+    "en": "Which of the following descriptions most closely describes your main occupation? "
+  },
+  "intake.Q4h.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q4h.helpGroup.text.1": {
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting the flu (Influenza) is different for people in different types of occupation."
+  },
+  "intake.Q4h.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q4h.helpGroup.text.3": {
+    "en": "Please tick the box that most closely describes your main occupation."
+  },
+  "intake.Q4h.rg.scg.option.0": {
+    "en": "Services and Sales Workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)"
+  },
+  "intake.Q4h.rg.scg.option.1": {
+    "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)"
+  },
+  "intake.Q4h.rg.scg.option.2": {
+    "en": "Armed Forces Occupations (Commissioned armed forces officers; Armed forces occupations other ranks; Non-commissioned armed forces officers)"
+  },
+  "intake.Q4h.rg.scg.option.3": {
+    "en": "Managers (Chief Executives, Senior Officials and Legislators; Administrative and Commercial Managers; Production and Specialized Services Managers; Hospitality, Retail and Other Services Managers)"
+  },
+  "intake.Q4h.rg.scg.option.4": {
+    "en": "Professionals (Science and Engineering Professionals; Health Professional; Teaching Professionals; Business and Administration Professionals; Information and Communications Technology Professionals; Legal, Social and Cultural Professionals)"
+  },
+  "intake.Q4h.rg.scg.option.5": {
+    "en": "Technicians and Associate Professionals (Science and Engineering Associate Professionals; Health Associate Professionals; Business and Administration Associate Professionals; Legal, Social, Cultural and Related Associate Professionals; Information and Communications Technicians)"
+  },
+  "intake.Q4h.rg.scg.option.6": {
+    "en": "Clerical Support Workers (General and Keyboard Clerks; Customer Services Clerks;  Numerical and Material Recording Clerks; Other Clerical Support Workers)"
+  },
+  "intake.Q4h.rg.scg.option.7": {
+    "en": "Skilled Agricultural, Forestry and Fishery Workers"
+  },
+  "intake.Q4h.rg.scg.option.8": {
+    "en": "Plant and Machine Operators and Assemblers (Stationary Plant and Machine Operators; Assemblers; Drivers and Mobile Plant Operators)"
+  },
+  "intake.Q4h.rg.scg.option.9": {
+    "en": "Elementary Occupations (Cleaners and Helpers; Agricultural, Forestry and Fishery Labourers; Labourers in Mining, Construction, Manufacturing and Transport; Food Preparation Assistants; Street and Related Sales and Services Workers; Refuse Workers and Other Elementary Workers)"
+  },
+  "intake.Q4h.rg.scg.input.10": {
+    "en": "Other"
+  },
+  "intake.Q4h.rg.scg.description.input.10": {
+    "en": "Describe here (optional)"
+  },
+  "intake.Q4d.title.0": {
+    "en": "What is the highest level of formal education/qualification that you have?"
+  },
+  "intake.Q4d.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q4d.helpGroup.text.1": {
+    "en": "To check how representative our sample is compared to the population as a whole of other countries like the UK (Italy, Belgium..)."
+  },
+  "intake.Q4d.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q4d.helpGroup.text.3": {
+    "en": "Please choose the box that represents your HIGHEST academic/educational level/qualification. The different option rougly correspond to: 1 - no qualifications, 2 - school - leaving school at around 16 years of age, 3 - school - leaving school at around 18 years of age, 4 - University degree or equivalent professional qualification (Bachelor Degree etc.), 5 - Higher degree or advanced professional qualification (Master Degree, PhD etc.). If you are an adult who is currently undergoing part - time training (e.g.night school) then tick the box that represents your current highest level of education."
+  },
+  "intake.Q4d.rg.nUk7.text.0": {
+    "en": "Select all options that apply"
+  },
+  "intake.Q4d.rg.mcg.option.0": {
+    "en": "I have no formal degree"
+  },
+  "intake.Q4d.rg.mcg.option.1": {
+    "en": "Elementary School Diploma"
+  },
+  "intake.Q4d.rg.mcg.option.2": {
+    "en": "High School Diploma (Matura, Technical Matura or equivalent) or Apprenticeship "
+  },
+  "intake.Q4d.rg.mcg.option.3": {
+    "en": "Bachelor Degree (BA, BSc) or equivalent"
+  },
+  "intake.Q4d.rg.mcg.option.4": {
+    "en": "Higher Degree or equivalent (e.g. Masters Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)"
+  },
+  "intake.Q4d.rg.mcg.option.5": {
+    "en": "I am still in training/education"
+  },
+  "intake.Q5.title.0": {
+    "en": "Except people you meet on public transportation, do you have contact with any of the following people during the course of a typical day (presumed no COVID-19 measures are in place)?"
+  },
+  "intake.Q5.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q5.helpGroup.text.1": {
+    "en": "To determine whether you are likely to be exposed to a higher infection risk than the average person (e.g. work with children, or patients)."
+  },
+  "intake.Q5.helpGroup.text.2": {
+    "en": "Hint"
+  },
+  "intake.Q5.helpGroup.text.3": {
+    "en": "Such groups of people include any setting where one comes into contact with larger numbers of people at once, e.g. a teacher who may be in contact with many children during a day."
+  },
+  "intake.Q5.rg.dwL8.text.0": {
+    "en": "Select all options that apply"
+  },
+  "intake.Q5.rg.mcg.option.0": {
+    "en": "More than 10 children or teenagers (without counting your own children)"
+  },
+  "intake.Q5.rg.mcg.option.1": {
+    "en": "More than 10 people over 65 years of age"
+  },
+  "intake.Q5.rg.mcg.option.2": {
+    "en": "Patients"
+  },
+  "intake.Q5.rg.mcg.option.3": {
+    "en": "Groups of people (more than 10 individuals at any one time)"
+  },
+  "intake.Q5.rg.mcg.option.4": {
+    "en": "None of the above"
+  },
+  "intake.Q6.title.0": {
+    "en": "INCLUDING YOU, how many people in each of the following age groups live in your household?"
+  },
+  "intake.Q6.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q6.helpGroup.text.1": {
+    "en": "Members of larger households, or people living with children, are exposed to a higher infection risk than others."
+  },
+  "intake.Q6.rg.mat.row0.l.label.0": {
+    "en": "0 - 4 years"
+  },
+  "intake.Q6.rg.mat.row1.l.label.0": {
+    "en": "5 - 18 years"
+  },
+  "intake.Q6.rg.mat.row2.l.label.0": {
+    "en": "19 - 44 years"
+  },
+  "intake.Q6.rg.mat.row3.l.label.0": {
+    "en": "45 - 64 years"
+  },
+  "intake.Q6.rg.mat.row4.l.label.0": {
+    "en": "65+"
+  },
+  "intake.Q6c.title.0": {
+    "en": "Is one or several of these people at risk of complications in case of the flu (influenza) or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?"
+  },
+  "intake.Q6c.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q6c.helpGroup.text.1": {
+    "en": ""
+  },
+  "intake.Q6c.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q6c.helpGroup.text.3": {
+    "en": ""
+  },
+  "intake.Q6c.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "intake.Q6c.rg.scg.option.1": {
+    "en": "No"
+  },
+  "intake.Q6c.rg.scg.option.2": {
+    "en": "I don't know/I would rather not answer"
+  },
+  "intake.Q6b.title.0": {
+    "en": "How many of the children in your household attend school or day-care?"
+  },
+  "intake.Q6b.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q6b.helpGroup.text.1": {
+    "en": "Attending school, daycare or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue."
+  },
+  "intake.Q6b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q6b.helpGroup.text.3": {
+    "en": "If your child attends school, daycare or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count."
+  },
+  "intake.Q6b.rg.scg.option.0": {
+    "en": "None"
+  },
+  "intake.Q6b.rg.scg.option.6": {
+    "en": "More than 5"
+  },
+  "intake.Q7.title.0": {
+    "en": "What means of transportation do you typically use for your daily activities?"
+  },
+  "intake.Q7.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q7.helpGroup.text.1": {
+    "en": "We want to investigate whether people who regularly use public transportation have a higher risk of infection."
+  },
+  "intake.Q7.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q7.helpGroup.text.3": {
+    "en": "Check the box that best matches the means of transportation you most frequently use."
+  },
+  "intake.Q7.rg.9JtQ.text.0": {
+    "en": "Please select the transportation means you use the most."
+  },
+  "intake.Q7.rg.scg.option.0": {
+    "en": "Walking"
+  },
+  "intake.Q7.rg.scg.option.1": {
+    "en": "Bike"
+  },
+  "intake.Q7.rg.scg.option.2": {
+    "en": "Motorbike/scooter"
+  },
+  "intake.Q7.rg.scg.option.3": {
+    "en": "Car"
+  },
+  "intake.Q7.rg.scg.option.4": {
+    "en": "Public transportation (bus, train, tube, etc)"
+  },
+  "intake.Q7.rg.scg.option.5": {
+    "en": "Other"
+  },
+  "intake.Q8.title.0": {
+    "en": "How often do you suffer from common colds or flu-like illnesses?"
+  },
+  "intake.Q8.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q8.helpGroup.text.1": {
+    "en": "We want to know if certain people have an increased risk of infection."
+  },
+  "intake.Q8.rg.scg.option.0": {
+    "en": "Never"
+  },
+  "intake.Q8.rg.scg.option.1": {
+    "en": "Once or twice a year"
+  },
+  "intake.Q8.rg.scg.option.2": {
+    "en": "Between 3 and 5 times a year"
+  },
+  "intake.Q8.rg.scg.option.3": {
+    "en": "Between 6 and 10 times a year"
+  },
+  "intake.Q8.rg.scg.option.4": {
+    "en": "More than 10 times a year"
+  },
+  "intake.Q8.rg.scg.option.5": {
+    "en": "I don't know"
+  },
+  "intake.Q11.title.0": {
+    "en": "Do you take regular medication for any of the following medical conditions?"
+  },
+  "intake.Q11.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q11.helpGroup.text.1": {
+    "en": "This question allows us to investigate whether you have other/underlying medical conditions that may increase your risk of suffering a more severe illness if you are infected."
+  },
+  "intake.Q11.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "intake.Q11.helpGroup.text.3": {
+    "en": "Only answer \"yes\" if you take regular medication to treat your medical problem. If, for instance, you only occasionally use an asthma inhaler, then do not answer \"yes\" for asthma."
+  },
+  "intake.Q11.rg.hYo0.text.0": {
+    "en": "Select all options that apply"
+  },
+  "intake.Q11.rg.mcg.option.0": {
+    "en": "No"
+  },
+  "intake.Q11.rg.mcg.option.1": {
+    "en": "Asthma"
+  },
+  "intake.Q11.rg.mcg.option.2": {
+    "en": "Diabetes"
+  },
+  "intake.Q11.rg.mcg.option.3": {
+    "en": "Chronic lung disorders besides asthma e.g. COPD, emphysema, or other disorders that affect your breathing"
+  },
+  "intake.Q11.rg.mcg.option.4": {
+    "en": "Heart disorder"
+  },
+  "intake.Q11.rg.mcg.option.5": {
+    "en": "Kidney disorder"
+  },
+  "intake.Q11.rg.mcg.option.6": {
+    "en": "An immunocompromising condition (e.g. splenectomy, organ transplant, acquired immune deficiency, cancer treatment)"
+  },
+  "intake.Q11.rg.mcg.option.7": {
+    "en": "I would rather not answer"
+  },
+  "intake.Q12.title.0": {
+    "en": "Are you currently pregnant?"
+  },
+  "intake.Q12.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q12.helpGroup.text.1": {
+    "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection with influenza or COVID-19."
+  },
+  "intake.Q12.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "intake.Q12.rg.scg.option.1": {
+    "en": "No"
+  },
+  "intake.Q12.rg.scg.option.2": {
+    "en": "I don't know/I would rather not answer"
+  },
+  "intake.Q12b.title.0": {
+    "en": "What trimester of the pregnancy are you in?"
+  },
+  "intake.Q12b.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q12b.helpGroup.text.1": {
+    "en": "The risk of severe symptoms can vary depending on the trimester of the pregnancy. Still, this link has not yet been clearly established."
+  },
+  "intake.Q12b.rg.scg.option.0": {
+    "en": "First trimester (week 1-12)"
+  },
+  "intake.Q12b.rg.scg.option.1": {
+    "en": "Second trimester (week 13-28)"
+  },
+  "intake.Q12b.rg.scg.option.2": {
+    "en": "Third trimester (week 29-delivery)"
+  },
+  "intake.Q12b.rg.scg.option.3": {
+    "en": "I don't know/I would rather not answer"
+  },
+  "intake.Q13.title.0": {
+    "en": "Do you smoke tobacco?"
+  },
+  "intake.Q13.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q13.helpGroup.text.1": {
+    "en": "Smoking might make you more likely to get a more severe dose of virus (viral load). We would like to test this."
+  },
+  "intake.Q13.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "intake.Q13.helpGroup.text.3": {
+    "en": "Please, answer as accurately as possible."
+  },
+  "intake.Q13.rg.scg.option.0": {
+    "en": "No"
+  },
+  "intake.Q13.rg.scg.option.1": {
+    "en": "Yes, occasionally"
+  },
+  "intake.Q13.rg.scg.option.2": {
+    "en": "Yes, daily - fewer than 10 cigarettes per day"
+  },
+  "intake.Q13.rg.scg.option.3": {
+    "en": "Yes, daily - 10 or more cigarettes per day"
+  },
+  "intake.Q13.rg.scg.option.4": {
+    "en": "Yes, but only e-cigarettes"
+  },
+  "intake.Q13.rg.scg.option.5": {
+    "en": "I dont know/I would rather not answer"
+  },
+  "intake.Q14.title.0": {
+    "en": "Do you have one of the following allergies that can cause respiratory symptoms?"
+  },
+  "intake.Q14.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q14.helpGroup.text.1": {
+    "en": "Certain allergies provoke the same/similar symptoms as respiratory infections."
+  },
+  "intake.Q14.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "intake.Q14.helpGroup.text.3": {
+    "en": "Multiple answers are possible, check all that apply."
+  },
+  "intake.Q14.rg.7tXM.text.0": {
+    "en": "Check all options that apply"
+  },
+  "intake.Q14.rg.mcg.option.0": {
+    "en": "Hay fever"
+  },
+  "intake.Q14.rg.mcg.option.1": {
+    "en": "Allergy against house dust mite"
+  },
+  "intake.Q14.rg.mcg.option.2": {
+    "en": "Allergy against domestic animals or pets"
+  },
+  "intake.Q14.rg.mcg.option.3": {
+    "en": "Other allergies that cause respiratory symptoms (e.g. sneezing, runny eyes)"
+  },
+  "intake.Q14.rg.mcg.option.4": {
+    "en": "I do not have an allergy that causes respiratory symptoms"
+  },
+  "intake.Q15.title.0": {
+    "en": "Do you follow a special diet?"
+  },
+  "intake.Q15.rg.mVmB.text.0": {
+    "en": "Check all options that apply"
+  },
+  "intake.Q15.rg.mcg.option.0": {
+    "en": "No special diet"
+  },
+  "intake.Q15.rg.mcg.option.1": {
+    "en": "Vegetarian"
+  },
+  "intake.Q15.rg.mcg.option.2": {
+    "en": "Vegan"
+  },
+  "intake.Q15.rg.mcg.option.3": {
+    "en": "Low-calorie diet"
+  },
+  "intake.Q15.rg.mcg.option.4": {
+    "en": "Other"
+  },
+  "intake.Q26.title.0": {
+    "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?"
+  },
+  "intake.Q26.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q26.helpGroup.text.1": {
+    "en": "We are interested to know more about your health-related habits"
+  },
+  "intake.Q26.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "intake.Q26.rg.scg.option.1": {
+    "en": "No"
+  },
+  "intake.Q26.rg.scg.option.2": {
+    "en": "I don't know"
+  },
+  "intake.Q26.rg.scg.option.3": {
+    "en": "I don't want to answer"
+  },
+  "intake.Q17.title.0": {
+    "en": "Where did you first hear about this platform?"
+  },
+  "intake.Q17.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "intake.Q17.helpGroup.text.1": {
+    "en": "We would like to know how you found out about our website."
+  },
+  "intake.Q17.rg.hIai.text.0": {
+    "en": "Select all options that apply"
+  },
+  "intake.Q17.rg.mcg.option.0": {
+    "en": "Radio or television"
+  },
+  "intake.Q17.rg.mcg.option.1": {
+    "en": "In the newspaper or in a magazine"
+  },
+  "intake.Q17.rg.mcg.option.2": {
+    "en": "The internet (a website, link, a search engine)"
+  },
+  "intake.Q17.rg.mcg.option.3": {
+    "en": "By poster/flyer"
+  },
+  "intake.Q17.rg.mcg.option.4": {
+    "en": "Via family and/or friends"
+  },
+  "intake.Q17.rg.mcg.option.5": {
+    "en": "Via school/work"
+  },
+  "intake.Q17.rg.mcg.option.6": {
+    "en": "Other"
+  },
+  "intake.surveyEnd.title.0": {
+    "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experienced during the last week."
+  }
+}

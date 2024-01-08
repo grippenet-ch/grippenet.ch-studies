@@ -1,0 +1,8 @@
+build
+node_modules
+output
+report.*.json
+*.log
+.env
+venv
+src/*/secret*

@@ -1,0 +1,512 @@
+{
+  "vaccination.name.0": {
+    "en": "Vaccination Questionnaire"
+  },
+  "vaccination.description.0": {
+    "en": "The purpose of this Vaccination Questionnaire is to find out more about the immune-protection established through the vaccine and monitor the vaccination uptake in Switzerland."
+  },
+  "vaccination.typicalDuration.0": {
+    "en": "Duration 5-10 minutes"
+  },
+  "vaccination.Q0.title.0": {
+    "en": "Four weeks ago you received a questionnaire about your vaccination status. This new questionnaire is to monitor any further changes. Please check the option that applies to you."
+  },
+  "vaccination.Q0.rg.scg.option.0": {
+    "en": "In the meantime I received a new vaccine dose or a new invitation to get vaccinated."
+  },
+  "vaccination.Q0.rg.scg.option.1": {
+    "en": "In the meantime nothing has changed in regards to my vaccination-status."
+  },
+  "vaccination.Q0.rg.scg.option.2": {
+    "en": "I'm not sure and would like to answer the following questions to make sure the information about my vaccination-status is up to date."
+  },
+  "vaccination.HV.Q9.title.0": {
+    "en": "Did you receive a flu vaccine (Influenza) during the previous flu (Influenza) season (2022-2023)?"
+  },
+  "vaccination.HV.Q9.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q9.helpGroup.text.1": {
+    "en": "We want to understand what level of protection the vaccine provides. Additionally we want to understand, whether there is any longterm protection from vaccines received in previous years."
+  },
+  "vaccination.HV.Q9.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q9.helpGroup.text.3": {
+    "en": "Answer \"yes\" if you were vaccinated in autumn/winter (2022-2023)."
+  },
+  "vaccination.HV.Q9.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "vaccination.HV.Q9.rg.scg.option.1": {
+    "en": "No"
+  },
+  "vaccination.HV.Q9.rg.scg.option.2": {
+    "en": "I don't know/I can't remember"
+  },
+  "vaccination.HV.Q10.title.0": {
+    "en": "Have you received a flu vaccine (influenza) this autumn/winter (2023-2024)?"
+  },
+  "vaccination.HV.Q10.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q10.helpGroup.text.1": {
+    "en": "We want to investigate how much immune-protection the vaccine provides."
+  },
+  "vaccination.HV.Q10.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "vaccination.HV.Q10.helpGroup.text.3": {
+    "en": "Select \"yes\", if you got vaccinated this season (usually in autumn). If you'll get vaccinated after completing this survey please return to this questionnaire and update your answer."
+  },
+  "vaccination.HV.Q10.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "vaccination.HV.Q10.rg.scg.option.1": {
+    "en": "No"
+  },
+  "vaccination.HV.Q10.rg.scg.option.2": {
+    "en": "I don't know/I can't remember"
+  },
+  "vaccination.HV.Q10b.title.0": {
+    "en": "When were you vaccinated against flu (inlfuenza) this season (2023-2024)?"
+  },
+  "vaccination.HV.Q10b.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q10b.helpGroup.text.1": {
+    "en": "Knowing when people get vaccinated tells us how the vaccination program is being followed and provides us with information about the effectiveness of the vaccine."
+  },
+  "vaccination.HV.Q10b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q10b.helpGroup.text.3": {
+    "en": "Try to answer as precisely as possible. If you do not know the exact date, provide an estimate as close as possible. For example, if you remember the month, try to recall if it was in the beginning or end of the month. Did any important events take place (such as holidays or birthdays) that may help you to refresh your memory?"
+  },
+  "vaccination.HV.Q10b.rg.scg.description.dateInput.0": {
+    "en": "Choose date"
+  },
+  "vaccination.HV.Q10b.rg.scg.option.1": {
+    "en": "I don't remember (anymore)"
+  },
+  "vaccination.HV.Q10c.title.0": {
+    "en": "What were your reasons to get vaccinated against the seasonal flue (influenza) this year?"
+  },
+  "vaccination.HV.Q10c.rg.LlBq.text.0": {
+    "en": "Select the options that are most applicable"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.0": {
+    "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc.)"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.1": {
+    "en": "Vaccination decreases my risk of getting influenza"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.2": {
+    "en": "Vaccination decreases the risk of spreading influenza to others"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.3": {
+    "en": "My doctor recommended it"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.4": {
+    "en": "It was recommended at my workplace/school"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.5": {
+    "en": "The vaccine was readily available and the vaccine administration was convenient"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.6": {
+    "en": "The vaccine was free (no cost)"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.7": {
+    "en": "I don't want to miss work/school"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.8": {
+    "en": "I always get vaccinated"
+  },
+  "vaccination.HV.Q10c.rg.mcg.option.9": {
+    "en": "I try to protect myself against infections because of the ongoing COVID-19 pandemic"
+  },
+  "vaccination.HV.Q10c.rg.mcg.input.10": {
+    "en": "Other reason(s)"
+  },
+  "vaccination.HV.Q10c.rg.mcg.description.input.10": {
+    "en": "Describe here (optional)"
+  },
+  "vaccination.HV.Q10d.title.0": {
+    "en": "What were your reasons for NOT getting the seasonal influenza vaccination this season (2023/2024)?"
+  },
+  "vaccination.HV.Q10d.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q10d.helpGroup.text.1": {
+    "en": "We would like to know why some people get vaccinated and others do not."
+  },
+  "vaccination.HV.Q10d.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "vaccination.HV.Q10d.helpGroup.text.3": {
+    "en": "Select all the reasons that influenced your decision."
+  },
+  "vaccination.HV.Q10d.rg.t2y2.text.0": {
+    "en": "Select the options that are most applicable"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.0": {
+    "en": "I am planning to be vaccinated, but haven't been yet"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.1": {
+    "en": "I haven't been offered the vaccine"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.2": {
+    "en": "I don't belong to a risk group"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.3": {
+    "en": "I think it is better for the body to build it's own natural immunity against the flu (Influenza)"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.4": {
+    "en": "I doubt that the Influenza vaccine is effective"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.5": {
+    "en": "The flu (Influenza) is a minor illness"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.6": {
+    "en": "I don't think I am likely to get influenza"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.7": {
+    "en": "I believe that the influenza vaccine can cause Influenza"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.8": {
+    "en": "I am worried that the vaccine is not safe or will cause illness/other adverse events"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.9": {
+    "en": "I don't like getting vaccinated"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.10": {
+    "en": "The vaccine is not readily available to me"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.11": {
+    "en": "The vaccine is not free of charge"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.12": {
+    "en": "No particular reason"
+  },
+  "vaccination.HV.Q10d.rg.mcg.option.13": {
+    "en": "Although my doctor recommended the vaccine, I did not get one"
+  },
+  "vaccination.HV.Q10d.rg.mcg.input.14": {
+    "en": "Other reason(s)"
+  },
+  "vaccination.HV.Q10d.rg.mcg.description.input.14": {
+    "en": "Describe here (optional)"
+  },
+  "vaccination.HV.Q35.title.0": {
+    "en": "Have you received a COVID-19 vaccine?"
+  },
+  "vaccination.HV.Q35.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35.helpGroup.text.1": {
+    "en": "We would like to investigate how much protection the vaccines provide."
+  },
+  "vaccination.HV.Q35.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35.helpGroup.text.3": {
+    "en": "Check yes, if you have received at least one dose of the COVID-19 vaccine (since December 2020)."
+  },
+  "vaccination.HV.Q35.rg.scg.option.0": {
+    "en": "Yes, I have received at least one COVID-19 vaccine"
+  },
+  "vaccination.HV.Q35.rg.scg.option.1": {
+    "en": "No, so far I did not receive the COVID-19 vaccine"
+  },
+  "vaccination.HV.Q35.rg.scg.option.2": {
+    "en": "I don't know/I can't remember."
+  },
+  "vaccination.HV.Q35i.title.0": {
+    "en": "Which COVID-19 vaccine(s) (of which producer) did you receive?"
+  },
+  "vaccination.HV.Q35i.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35i.helpGroup.text.1": {
+    "en": "We want to know how many people got vaccinated with which vaccine (of which producer)"
+  },
+  "vaccination.HV.Q35i.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35i.helpGroup.text.3": {
+    "en": "Specify with which vaccine of which producer (or vaccines if you had different ones) you got vaccinated"
+  },
+  "vaccination.HV.Q35i.rg.LMsj.text.0": {
+    "en": "Select more than one option if you have received different vaccines of different producers"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.0": {
+    "en": "Pfizer/BioNTech"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.1": {
+    "en": "Moderna"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.2": {
+    "en": "AstraZeneca"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.3": {
+    "en": "Janssen Pharmaceutica (Johnson & Johnson)"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.4": {
+    "en": "CureVac"
+  },
+  "vaccination.HV.Q35i.rg.mcg.option.5": {
+    "en": "I Don't know/I can't remember"
+  },
+  "vaccination.HV.Q35c.title.0": {
+    "en": "How many doses of the vaccine did you receive?"
+  },
+  "vaccination.HV.Q35c.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35c.helpGroup.text.1": {
+    "en": "We want to understand how much protection a complete vaccination cylce provides."
+  },
+  "vaccination.HV.Q35c.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35c.helpGroup.text.3": {
+    "en": "Report the number of doses you have received so far (which corresponds to the number of times you were vaccinated against COVID-19 )."
+  },
+  "vaccination.HV.Q35c.rg.scg.option.0": {
+    "en": "One"
+  },
+  "vaccination.HV.Q35c.rg.scg.option.1": {
+    "en": "Two"
+  },
+  "vaccination.HV.Q35c.rg.scg.option.2": {
+    "en": "Three"
+  },
+  "vaccination.HV.Q35c.rg.scg.option.3": {
+    "en": "More than three"
+  },
+  "vaccination.HV.Q35c.rg.scg.option.4": {
+    "en": "I Don't know/I can't remember"
+  },
+  "vaccination.HV.Q35j.title.0": {
+    "en": "When did you receive your last dose of a vaccine against COVID-19? If you do not know the exact date please provide an estimate."
+  },
+  "vaccination.HV.Q35j.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35j.helpGroup.text.1": {
+    "en": "Knowing when people are getting vaccinated provides us with information about how well the vaccination program is being carried out."
+  },
+  "vaccination.HV.Q35j.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35j.helpGroup.text.3": {
+    "en": "Please try and answer as precise as possible. If you do not know the exact date, please provide an estimate (month & year) of the vaccination."
+  },
+  "vaccination.HV.Q35j.rg.scg.dateInput.0": {
+    "en": "Choose date"
+  },
+  "vaccination.HV.Q35j.rg.scg.option.1": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "vaccination.HV.Q35k.title.0": {
+    "en": "Do you plan to receive a second dose in the upcoming weeks?"
+  },
+  "vaccination.HV.Q35k.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35k.helpGroup.text.1": {
+    "en": "We want to investigate how long it takes for people to get the second dose after having received the first one"
+  },
+  "vaccination.HV.Q35k.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35k.helpGroup.text.3": {
+    "en": "Select the option that describes your situation the most accurate"
+  },
+  "vaccination.HV.Q35k.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "vaccination.HV.Q35k.rg.scg.option.1": {
+    "en": "No"
+  },
+  "vaccination.HV.Q35k.rg.scg.option.2": {
+    "en": "I don't know"
+  },
+  "vaccination.HV.Q35l.title.0": {
+    "en": "Why have you only received one single dose so far?"
+  },
+  "vaccination.HV.Q35l.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35l.helpGroup.text.1": {
+    "en": "We would like to understand the reasons for only getting one dose"
+  },
+  "vaccination.HV.Q35l.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35l.helpGroup.text.3": {
+    "en": "Select the option that best describes your situation"
+  },
+  "vaccination.HV.Q35l.rg.scg.option.0": {
+    "en": "I had a COVID-19 infection already before my first dose."
+  },
+  "vaccination.HV.Q35l.rg.scg.option.1": {
+    "en": "I had a COVID-19 infection shortly after my first dose, and have to wait several months to be able to get the second dose."
+  },
+  "vaccination.HV.Q35l.rg.scg.option.2": {
+    "en": " I received Janssen vaccine, which requires only one dose."
+  },
+  "vaccination.HV.Q35l.rg.scg.option.3": {
+    "en": "A second injection was contraindicated for me by a doctor (I had a severe allergic reaction/a severe adverse effect after the first dose, or I have a temporary contraindication due to a treatment or a disease)."
+  },
+  "vaccination.HV.Q35l.rg.scg.option.4": {
+    "en": "I changed my mind and don’t want to be vaccinated anymore."
+  },
+  "vaccination.HV.Q35l.rg.scg.input.5": {
+    "en": "Other"
+  },
+  "vaccination.HV.Q35l.rg.scg.description.input.5": {
+    "en": "Describe here (optional)"
+  },
+  "vaccination.HV.Q35l.rg.scg.option.6": {
+    "en": "I don't know"
+  },
+  "vaccination.HV.Q35f.title.0": {
+    "en": "What are your reason(s) for getting vaccinated against COVID-19?"
+  },
+  "vaccination.HV.Q35f.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35f.helpGroup.text.1": {
+    "en": "We would like to understand the main reasons why people get vaccinated."
+  },
+  "vaccination.HV.Q35f.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35f.helpGroup.text.3": {
+    "en": "Please select the options that have influenced your decision the most."
+  },
+  "vaccination.HV.Q35f.rg.T5UL.text.0": {
+    "en": "Select the options that are most applicable"
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.0": {
+    "en": "The vaccination is recommended by public health authorities."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.1": {
+    "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.)."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.2": {
+    "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff, etc.…)."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.3": {
+    "en": "Vaccination decreases my risk of getting COVID-19."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.4": {
+    "en": "Vaccination decreases the risk of spreading COVID-19 to others."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.5": {
+    "en": "My doctor recommended it."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.6": {
+    "en": "It was recommended at my workplace/school."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.7": {
+    "en": "The vaccine was readily available and the vaccine administration was convenient."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.8": {
+    "en": "The vaccine was free (no cost)."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.9": {
+    "en": "I don’t want to miss work/school."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.10": {
+    "en": "I always get vaccinated when possible."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.11": {
+    "en": "I have to be vaccinated to work."
+  },
+  "vaccination.HV.Q35f.rg.mcg.option.12": {
+    "en": "To obtain a valid vaccination passport (COVID-19 Certificate)."
+  },
+  "vaccination.HV.Q35f.rg.mcg.input.13": {
+    "en": "Other"
+  },
+  "vaccination.HV.Q35f.rg.mcg.description.input.13": {
+    "en": "Describe here (optional)"
+  },
+  "vaccination.HV.Q35m.title.0": {
+    "en": "What are your reasons for NOT getting vaccinated against COVID-19? Select the options that are most applicable."
+  },
+  "vaccination.HV.Q35m.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "vaccination.HV.Q35m.helpGroup.text.1": {
+    "en": "We would like understand the main reasons why people choose not to get vaccinated against COVID-19."
+  },
+  "vaccination.HV.Q35m.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "vaccination.HV.Q35m.helpGroup.text.3": {
+    "en": "Please select the options that influenced your decision."
+  },
+  "vaccination.HV.Q35m.rg.nm76.text.0": {
+    "en": "Select the options that are most applicable"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.0": {
+    "en": "I am planning to get vaccinated but I haven’t gotten around to do it yet"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.1": {
+    "en": "I haven't been offered the vaccine"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.2": {
+    "en": "I have been discouraged from being vaccinated because I am pregnant"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.3": {
+    "en": "I am pregnant and I fear the vaccine could be dangerous for my baby"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.4": {
+    "en": "I don’t belong to a risk group"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.5": {
+    "en": "It is better to build up your body's own natural immunity against COVID-19"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.6": {
+    "en": "I doubt that the COVID-19 vaccine is effective"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.7": {
+    "en": "COVID-19 is a mild disease"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.8": {
+    "en": "Because of the COVID-19 pandemic, I avoid seeking medical help or going to the pharmacy"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.9": {
+    "en": "I don't think I am likely to get COVID-19"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.10": {
+    "en": "I believe that the COVID-19 vaccine can cause COVID-19"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.11": {
+    "en": "I am worried that the vaccine is not safe/will cause illness or other adverse events"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.12": {
+    "en": "I don't like getting vaccinated"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.13": {
+    "en": "The vaccine is not readily available to me"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.14": {
+    "en": "I disagree with the current vaccine policy"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.15": {
+    "en": "The vaccine is not free of charge"
+  },
+  "vaccination.HV.Q35m.rg.mcg.option.16": {
+    "en": "I don't know"
+  },
+  "vaccination.HV.Q35m.rg.mcg.input.17": {
+    "en": "Other reason(s)"
+  },
+  "vaccination.HV.Q35m.rg.mcg.description.input.17": {
+    "en": "Describe here (optional)"
+  }
+}

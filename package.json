@@ -1,0 +1,37 @@
+{
+  "name": "grippenetch-studies",
+  "version": "2.0.0",
+  "main": "build/index.js",
+  "private": true,
+  "scripts": {
+    "build-packages": "yarn workspaces run build",
+    "build": "yarn build-packages && tsc",
+    "generate": "yarn build && node  --report-uncaught-exception build/generate.js && yarn run copy-files",
+    "copy-files": "copyfiles -u 1 src/*/props.yaml src/*/secret* output"
+  },
+  "dependencies": {
+    "@types/jest": "29.0.3",
+    "@types/node": "^16.10.3",
+    "@typescript-eslint/eslint-plugin": "^6.18.1",
+    "@typescript-eslint/parser": "^6.18.1",
+    "case-editor-tools": "^1.6.4",
+    "copyfiles": "^2.4.1",
+    "date-fns": "^2.29.3",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "influenzanet-common-study": "^0.1.0",
+    "moment": "^2.30.1",
+    "prettier": "^3.2.4",
+    "survey-engine": "^1.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "ts-jest": "^29.0.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@1.22.22"
+}

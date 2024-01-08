@@ -1,0 +1,18 @@
+{
+  "intake.Q3.error.4": {
+    "en": "Please enter at most 5 digits",
+    "it": "Per favore, inserisci un massimo di 4 cifre"
+  },
+  "intake.Q4b.error.4": {
+    "en": "Please enter at most 5 digits",
+    "it": "Per favore, inserisci un massimo di 4 cifre"
+  },
+  "intake.Q6c.helpGroup.text.1": {
+    "en": "",
+    "it": ""
+  },
+    "intake.Q6c.helpGroup.text.3": {
+    "en": "",
+    "it": ""
+  }
+}

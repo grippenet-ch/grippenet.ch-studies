@@ -1,0 +1,1181 @@
+{
+  "weekly.name.0": {
+    "en": "Weekly questionnaire"
+  },
+  "weekly.description.0": {
+    "en": "Please also report if you had/have no complaints."
+  },
+  "weekly.typicalDuration.0": {
+    "en": "Duration 1-5 minutes"
+  },
+  "weekly.Q1.title.0": {
+    "en": "Have you suffered from any of the following symptoms since your last completion of the weekly questionnaire (or in the past week if this the first time you are filling out this questionnaire)?"
+  },
+  "weekly.Q1.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.Q1.helpGroup.text.1": {
+    "en": "The most important part of this study is following up on the symptoms you have reported."
+  },
+  "weekly.Q1.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.Q1.helpGroup.text.3": {
+    "en": "If you suffer from a chronic illness only indicate the symptoms that have changed. For example, if you suffer from chronic shortness of breath only report this symptom if it has recently gotten worse. Multiple answers are possible."
+  },
+  "weekly.Q1.rg.cGJZ.text.0": {
+    "en": "Multiple answers are possible. If you suffer from a chronic illness, only indicate the symptoms that have changed. For example, if you suffer from chronic shortness of breath, only mark this symptom if it has recently gotten worse."
+  },
+  "weekly.Q1.rg.mcg.option.0": {
+    "en": "No symptoms"
+  },
+  "weekly.Q1.rg.mcg.option.1": {
+    "en": "Fever"
+  },
+  "weekly.Q1.rg.mcg.option.2": {
+    "en": "Chills"
+  },
+  "weekly.Q1.rg.mcg.option.3": {
+    "en": "Runny or blocked nose"
+  },
+  "weekly.Q1.rg.mcg.option.4": {
+    "en": "Sneezing"
+  },
+  "weekly.Q1.rg.mcg.option.5": {
+    "en": "Sore throat"
+  },
+  "weekly.Q1.rg.mcg.option.6": {
+    "en": "Cough"
+  },
+  "weekly.Q1.rg.mcg.option.7": {
+    "en": "Shortness of breath"
+  },
+  "weekly.Q1.rg.mcg.option.8": {
+    "en": "Headache"
+  },
+  "weekly.Q1.rg.mcg.option.9": {
+    "en": "Muscle/joint pain"
+  },
+  "weekly.Q1.rg.mcg.option.10": {
+    "en": "Chest pain"
+  },
+  "weekly.Q1.rg.mcg.option.11": {
+    "en": "Feeling tired or exhausted (malaise)"
+  },
+  "weekly.Q1.rg.mcg.option.12": {
+    "en": "Loss of appetite"
+  },
+  "weekly.Q1.rg.mcg.option.13": {
+    "en": "Coloured sputum/phlegm"
+  },
+  "weekly.Q1.rg.mcg.option.14": {
+    "en": "Watery, bloodshot eyes"
+  },
+  "weekly.Q1.rg.mcg.option.15": {
+    "en": "Nausea"
+  },
+  "weekly.Q1.rg.mcg.option.16": {
+    "en": "Vomiting"
+  },
+  "weekly.Q1.rg.mcg.option.17": {
+    "en": "Diarrhoea"
+  },
+  "weekly.Q1.rg.mcg.option.18": {
+    "en": "Stomach ache"
+  },
+  "weekly.Q1.rg.mcg.option.19": {
+    "en": "Loss of smell"
+  },
+  "weekly.Q1.rg.mcg.option.20": {
+    "en": "Loss of taste"
+  },
+  "weekly.Q1.rg.mcg.option.21": {
+    "en": "Nose bleed"
+  },
+  "weekly.Q1.rg.mcg.option.22": {
+    "en": "Rash"
+  },
+  "weekly.Q1.rg.mcg.option.23": {
+    "en": "Other symptoms"
+  },
+  "weekly.HS.Q2.title.0": {
+    "en": "When you filled out the previous questionnaire, you indicated that you were still sick. Are the symptoms you are reporting now from the same timeframe as the symptoms you reported the last time?"
+  },
+  "weekly.HS.Q2.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q2.helpGroup.text.1": {
+    "en": "To speed up the completion of the rest of the questionnaire."
+  },
+  "weekly.HS.Q2.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q2.helpGroup.text.3": {
+    "en": "If you think that the complaints you are indicating today are caused by the same infection or the same problem (the same period during which you experienced the complaints), answer 'yes'."
+  },
+  "weekly.HS.Q2.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Q2.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Q2.rg.scg.option.2": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Q2.rg.scg.option.3": {
+    "en": "This does not apply to me"
+  },
+  "weekly.HS.Qcov3.title.0": {
+    "en": "In the 14 days before your symptoms started, have you been in close contact with someone who has tested positive for COVID-19 with an antigenic or PCR test?"
+  },
+  "weekly.HS.Qcov3.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Qcov3.helpGroup.text.1": {
+    "en": "In  order to investigate how the coronavirus spreads within the general population."
+  },
+  "weekly.HS.Qcov3.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Qcov3.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Qcov3.rg.scg.option.2": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Qcov3b.title.0": {
+    "en": "Was this person or one of these persons a member of your household?"
+  },
+  "weekly.HS.Qcov3b.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Qcov3b.helpGroup.text.1": {
+    "en": "The coronavirus and the flu (influenza) spread quickly indoors."
+  },
+  "weekly.HS.Qcov3b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Qcov3b.helpGroup.text.3": {
+    "en": "A member of the household is defined as a person (not necessarily a family member) who lives at the same address as you, and with whom you share the kitchen, the living room, the family room/dining room."
+  },
+  "weekly.HS.Qcov3b.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Qcov3b.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Qcov3b.rg.scg.option.2": {
+    "en": "I don’t know"
+  },
+  "weekly.HS.Q3.title.0": {
+    "en": "On what day did you experience the first symptoms? If you do not recall the exact date, please provide an approximate date."
+  },
+  "weekly.HS.Q3.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q3.helpGroup.text.1": {
+    "en": "This question will help us to determine how many people are experiencing flu-like symptoms per day/week."
+  },
+  "weekly.HS.Q3.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q3.helpGroup.text.3": {
+    "en": "Answer as precisely as possible."
+  },
+  "weekly.HS.Q3.rg.scg.dateInput.0": {
+    "en": "Choose date"
+  },
+  "weekly.HS.Q3.rg.scg.option.1": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.HS.Q4.title.0": {
+    "en": "When did your symptoms end?"
+  },
+  "weekly.HS.Q4.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q4.helpGroup.text.1": {
+    "en": "We can use the first and last dates of the occurance of your symptoms to calculate how long your symptoms lasted. "
+  },
+  "weekly.HS.Q4.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q4.helpGroup.text.3": {
+    "en": "Answer as precisely as possible."
+  },
+  "weekly.HS.Q4.rg.scg.dateInput.0": {
+    "en": "Choose date"
+  },
+  "weekly.HS.Q4.rg.scg.option.1": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.HS.Q4.rg.scg.option.2": {
+    "en": "I am still ill"
+  },
+  "weekly.HS.Q5.title.0": {
+    "en": "Did your symptoms develop suddenly over a few hours?"
+  },
+  "weekly.HS.Q5.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q5.helpGroup.text.1": {
+    "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza."
+  },
+  "weekly.HS.Q5.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q5.helpGroup.text.3": {
+    "en": "Answer \"yes\" if your symptoms appeared within a few hours, and not gradually over a period of several days."
+  },
+  "weekly.HS.Q5.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Q5.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Q5.rg.scg.option.2": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Q6.title.0": {
+    "en": "On what day did your fever start? If you do not recall the exact date, please provide an approximate date."
+  },
+  "weekly.HS.Q6.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q6.helpGroup.text.1": {
+    "en": "Fever is an important diagnostic symptom - therefore we would like to know when the fever first appeared."
+  },
+  "weekly.HS.Q6.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q6.helpGroup.text.3": {
+    "en": "Answer as precisely as possible."
+  },
+  "weekly.HS.Q6.rg.scg.dateInput.0": {
+    "en": "Choose date"
+  },
+  "weekly.HS.Q6.rg.scg.option.1": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Q6b.title.0": {
+    "en": "Did your fever develop suddenly over a few hours?"
+  },
+  "weekly.HS.Q6b.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q6b.helpGroup.text.1": {
+    "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza."
+  },
+  "weekly.HS.Q6b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q6b.helpGroup.text.3": {
+    "en": "Answer \"yes\" if your symptoms appeared within a few hours, and not gradually over a period of several days."
+  },
+  "weekly.HS.Q6b.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Q6b.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Q6b.rg.scg.option.2": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Q6c.title.0": {
+    "en": "Did you measure your temperature (fever)?"
+  },
+  "weekly.HS.Q6c.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q6c.helpGroup.text.1": {
+    "en": "If you have measured your temperature (fever), we would like to know the highest body temperature that you have measured."
+  },
+  "weekly.HS.Q6c.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "weekly.HS.Q6c.helpGroup.text.3": {
+    "en": "Answer yes, if you measured your temperature (fever) using a thermometer."
+  },
+  "weekly.HS.Q6c.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Q6c.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.HS.Q6c.rg.scg.option.2": {
+    "en": "I don’t know/I can’t remember"
+  },
+  "weekly.HS.Q6d.title.0": {
+    "en": "What was the highest temperature you have measured?"
+  },
+  "weekly.HS.Q6d.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.HS.Q6d.helpGroup.text.1": {
+    "en": "Certain infectious diseases cause a raised body-temperature (fever)."
+  },
+  "weekly.HS.Q6d.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.HS.Q6d.helpGroup.text.3": {
+    "en": "Please indicate the highest temperature you have measured during the period in which you have experienced flu-like symptoms."
+  },
+  "weekly.HS.Q6d.rg.scg.option.0": {
+    "en": "Below 37.0°C"
+  },
+  "weekly.HS.Q6d.rg.scg.option.1": {
+    "en": "37.0°C - 37.4°C"
+  },
+  "weekly.HS.Q6d.rg.scg.option.2": {
+    "en": "37.5°C - 37.9°C"
+  },
+  "weekly.HS.Q6d.rg.scg.option.3": {
+    "en": "38.0°C - 38.9°C"
+  },
+  "weekly.HS.Q6d.rg.scg.option.4": {
+    "en": "39.0°C - 39.9°C"
+  },
+  "weekly.HS.Q6d.rg.scg.option.5": {
+    "en": "40.0°C or higher"
+  },
+  "weekly.HS.Q6d.rg.scg.option.6": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.HS.Q36.title.0": {
+    "en": "Thank you for all this information. It will help us estimate the frequency of symptoms within the general population. You can stop here. If you have some more time, we propose to you to answer some further questions about your symptoms and care. Do you wish to continue to answer these additional questions?"
+  },
+  "weekly.HS.Q36.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "weekly.HS.Q36.helpGroup.text.1": {
+    "en": "We want to know if you are willing to answer some further questions. Your answers to these follow-up questions assist our research."
+  },
+  "weekly.HS.Q36.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.HS.Q36.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.EX.Q7.title.0": {
+    "en": "Because of your symptoms, did you VISIT (see face to face or teleconsultation) any medical services?"
+  },
+  "weekly.EX.Q7.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "weekly.EX.Q7.helpGroup.text.1": {
+    "en": "To find out whether people contact health services because of their symptoms."
+  },
+  "weekly.EX.Q7.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q7.helpGroup.text.3": {
+    "en": "Check all of the answers that apply. If you have already made an appointment then check the final option."
+  },
+  "weekly.EX.Q7.rg.DTpM.text.0": {
+    "en": "Multiple answers possible"
+  },
+  "weekly.EX.Q7.rg.mcg.option.0": {
+    "en": "No"
+  },
+  "weekly.EX.Q7.rg.mcg.option.1": {
+    "en": "Generalist medical practitioners or nurse practitioner"
+  },
+  "weekly.EX.Q7.rg.mcg.option.2": {
+    "en": "Hospital admission"
+  },
+  "weekly.EX.Q7.rg.mcg.option.3": {
+    "en": "Hospital accident & emergency department - out of hours service"
+  },
+  "weekly.EX.Q7.rg.mcg.option.4": {
+    "en": "Other medical services"
+  },
+  "weekly.EX.Q7.rg.mcg.option.5": {
+    "en": "No, but I have an appointment scheduled"
+  },
+  "weekly.EX.Q7b.title.0": {
+    "en": "How soon after your symptoms appeared did you first VISIT medical support?"
+  },
+  "weekly.EX.Q7b.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "weekly.EX.Q7b.helpGroup.text.1": {
+    "en": "To find out how quickly people with flu-like symptoms seek medical help."
+  },
+  "weekly.EX.Q7b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q7b.helpGroup.text.3": {
+    "en": "Only indicate the time until your FIRST contact with the health services."
+  },
+  "weekly.EX.Q7b.rg.sFcN.text.0": {
+    "en": "Select the correct number of days"
+  },
+  "weekly.EX.Q7b.rg.mat.header.col0.text.0": {
+    "en": "Medical Service"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col0.label.0": {
+    "en": "Generalist medical practitioners or nurse practitioner"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.0": {
+    "en": "Same day"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.1": {
+    "en": "1 day after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.2": {
+    "en": "2 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.3": {
+    "en": "3 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.4": {
+    "en": "4 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.5": {
+    "en": "5 - 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.6": {
+    "en": "More than 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r1.col1.option.7": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col0.label.0": {
+    "en": "Hospital accident & emergency department - out of hours service"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.0": {
+    "en": "Same day"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.1": {
+    "en": "1 day after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.2": {
+    "en": "2 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.3": {
+    "en": "3 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.4": {
+    "en": "4 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.5": {
+    "en": "5 - 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.6": {
+    "en": "More than 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r2.col1.option.7": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col0.label.0": {
+    "en": "Hospital admission"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.0": {
+    "en": "Same day"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.1": {
+    "en": "1 day after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.2": {
+    "en": "2 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.3": {
+    "en": "3 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.4": {
+    "en": "4 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.5": {
+    "en": "5 - 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.6": {
+    "en": "More than 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r3.col1.option.7": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col0.label.0": {
+    "en": "Other medical services"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.0": {
+    "en": "Same day"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.1": {
+    "en": "1 day after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.2": {
+    "en": "2 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.3": {
+    "en": "3 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.4": {
+    "en": "4 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.5": {
+    "en": "5 - 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.6": {
+    "en": "More than 7 days after"
+  },
+  "weekly.EX.Q7b.rg.mat.r4.col1.option.7": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.EX.Qcov18.title.0": {
+    "en": "What is the main reason why you did not consult any health professional in regards to the symptoms you have listed today?"
+  },
+  "weekly.EX.Qcov18.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov18.helpGroup.text.1": {
+    "en": "To understand why some people do not consult a doctor/seek medical help."
+  },
+  "weekly.EX.Qcov18.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Qcov18.helpGroup.text.3": {
+    "en": "Multiple answers are possible."
+  },
+  "weekly.EX.Qcov18.rg.4opV.text.0": {
+    "en": "Multiple answers possible"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.0": {
+    "en": "My symptoms appeared very recently"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.1": {
+    "en": "My symptoms are mild"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.2": {
+    "en": "I have these symptoms often"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.3": {
+    "en": "I think I know what I have and I self-medicate"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.4": {
+    "en": "I believe there is no effective treatment for the disease I have"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.5": {
+    "en": "It is too hard to get an appointment quickly"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.6": {
+    "en": "I do not have time"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.7": {
+    "en": "Because of financial reasons"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.8": {
+    "en": "Out of fear of consequences if the doctor thinks I have COVID-19"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.9": {
+    "en": "Because I am vaccinated against COVID-19"
+  },
+  "weekly.EX.Qcov18.rg.scg.input.10": {
+    "en": "For another reasons"
+  },
+  "weekly.EX.Qcov18.rg.scg.description.input.10": {
+    "en": "Describe here (optional)"
+  },
+  "weekly.EX.Qcov18.rg.scg.option.11": {
+    "en": "I don't know / I don't want to answer"
+  },
+  "weekly.EX.Qcov16h.title.0": {
+    "en": "Because of your symptoms, did you undergo a test/analyses to test if you have COVID-19?"
+  },
+  "weekly.EX.Qcov16h.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov16h.helpGroup.text.1": {
+    "en": "We want to investigate which symptoms motivate people to get tested for coronavirus."
+  },
+  "weekly.EX.Qcov16h.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.EX.Qcov16h.rg.scg.option.1": {
+    "en": "Not yet, but I plan to shortly take a test"
+  },
+  "weekly.EX.Qcov16h.rg.scg.option.2": {
+    "en": "No, and even though I have a prescription I will not undergo a test"
+  },
+  "weekly.EX.Qcov16h.rg.scg.option.3": {
+    "en": "No"
+  },
+  "weekly.EX.Qcov16i.title.0": {
+    "en": "What kind of COVID-19-test/-analyse(s) did you do?"
+  },
+  "weekly.EX.Qcov16i.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov16i.helpGroup.text.1": {
+    "en": "We are interested in knowing how many people who experience flu-like symptoms have taken a test"
+  },
+  "weekly.EX.Qcov16i.rg.tyZC.text.0": {
+    "en": "Multiple answers possible"
+  },
+  "weekly.EX.Qcov16i.rg.mcg.option.0": {
+    "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)"
+  },
+  "weekly.EX.Qcov16i.rg.mcg.option.1": {
+    "en": "A serological analysis (screening for antibodies against this virus with a blood sample)"
+  },
+  "weekly.EX.Qcov16i.rg.mcg.option.2": {
+    "en": "A rapid antigen test based on a nasal swab (nasopharyngeal sampling, done by a health professional or a trained person with a swab inserted up to 15 cm into the nose and the result is obtained in less than one hour)"
+  },
+  "weekly.EX.Qcov16i.rg.mcg.option.3": {
+    "en": "A rapid antigen test or autotest based on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling can be done by oneself, result obtained within a few minutes)"
+  },
+  "weekly.EX.Qcov16b.title.0": {
+    "en": "Do you know the result of your PCR test? (If several were performed and at least one was positive, check the “Positive” answer)"
+  },
+  "weekly.EX.Qcov16b.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov16b.helpGroup.text.1": {
+    "en": "We want to understand how the coronavirus is spreading within the population."
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.0": {
+    "en": "Yes, positive for COVID-19"
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.1": {
+    "en": "Yes, negative for COVID-19"
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.2": {
+    "en": "Yes, but the results are inconclusive"
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.3": {
+    "en": "No, I have not yet received the test results"
+  },
+  "weekly.EX.Qcov16f.title.0": {
+    "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (If several were performed and at least one was positive, check the “Positive” answer)"
+  },
+  "weekly.EX.Qcov16f.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov16f.helpGroup.text.1": {
+    "en": "We want to understand how the coronavirus is spreading within the population."
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.0": {
+    "en": "Yes, positive for COVID-19"
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.1": {
+    "en": "Yes, negative for COVID-19"
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.2": {
+    "en": "Yes, but the results are inconclusive"
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.3": {
+    "en": "I don't know / I don't want to answer"
+  },
+  "weekly.EX.Qcov16k.title.0": {
+    "en": "Do you know the result of this antigenic test or self-test based on a nasal sample? (If several were performed and at least one was positive, check the “Positive” answer)"
+  },
+  "weekly.EX.Qcov16k.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov16k.helpGroup.text.1": {
+    "en": "We want to understand how the coronavirus is spreading within the population."
+  },
+  "weekly.EX.Qcov16k.rg.scg.option.0": {
+    "en": "Yes, positive for COVID-19"
+  },
+  "weekly.EX.Qcov16k.rg.scg.option.1": {
+    "en": "Yes, negative for COVID-19"
+  },
+  "weekly.EX.Qcov16k.rg.scg.option.2": {
+    "en": "Yes, but the results are inconclusive"
+  },
+  "weekly.EX.Qcov16k.rg.scg.option.3": {
+    "en": "I don't know / I don't want to answer"
+  },
+  "weekly.EX.Qcov19.title.0": {
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the flu (influenza)?"
+  },
+  "weekly.EX.Qcov19.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov19.helpGroup.text.1": {
+    "en": "We want to know which complaints lead people to get tested for the flu (influenza)."
+  },
+  "weekly.EX.Qcov19.rg.scg.option.0": {
+    "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.1": {
+    "en": "Yes, a rapid detection test (result available in less than an hour)"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.2": {
+    "en": "Not yet, but I have a prescription and plan to shortly undergo a test"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.3": {
+    "en": "No, I have a prescription but will not undergo a test"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.4": {
+    "en": "No"
+  },
+  "weekly.EX.Qcov19b.title.0": {
+    "en": "Have you received the results of your flu (Influenza) test?"
+  },
+  "weekly.EX.Qcov19b.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov19b.helpGroup.text.1": {
+    "en": "We want to understand how the flu is spreading within the population."
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.0": {
+    "en": "Yes, the test is positive for Influenza"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.1": {
+    "en": "Yes, the test is negative for Influenza"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.2": {
+    "en": "Yes, but the results are inconclusive"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.3": {
+    "en": "No, I have not yet received the test results"
+  },
+  "weekly.EX.Q9.title.0": {
+    "en": "Did you take medication for these symptoms?"
+  },
+  "weekly.EX.Q9.helpGroup.text.0": {
+    "en": "Why are we asking this?"
+  },
+  "weekly.EX.Q9.helpGroup.text.1": {
+    "en": "To find out who gets treated, and how effective that treatment is."
+  },
+  "weekly.EX.Q9.helpGroup.text.2": {
+    "en": "How should I answer it?"
+  },
+  "weekly.EX.Q9.helpGroup.text.3": {
+    "en": "Only record those medications that you used because of your flu-like symptoms. If you are on other medications because of a pre-existing illness then do not indicate these here."
+  },
+  "weekly.EX.Q9.rg.vMc3.text.0": {
+    "en": "Select all options that apply"
+  },
+  "weekly.EX.Q9.rg.mcg.option.0": {
+    "en": "No medication"
+  },
+  "weekly.EX.Q9.rg.mcg.option.1": {
+    "en": "Pain killers (e.g. paracetamol, lemsip, ibuprofen, aspirin, calpol, etc)"
+  },
+  "weekly.EX.Q9.rg.mcg.option.2": {
+    "en": "Cough medication (e.g. expectorants)"
+  },
+  "weekly.EX.Q9.rg.mcg.option.3": {
+    "en": "Antivirals against the flu (influenza) (eg: Tamiflu)"
+  },
+  "weekly.EX.Q9.rg.mcg.option.4": {
+    "en": "Antibiotics"
+  },
+  "weekly.EX.Q9.rg.mcg.option.5": {
+    "en": "Homeopathy"
+  },
+  "weekly.EX.Q9.rg.mcg.option.6": {
+    "en": "Alternative medicine (essential oil, phytotherapy, etc.)"
+  },
+  "weekly.EX.Q9.rg.mcg.option.7": {
+    "en": "Other"
+  },
+  "weekly.EX.Q9.rg.mcg.option.8": {
+    "en": "I don't know/I can't remember"
+  },
+  "weekly.EX.Q14.title.0": {
+    "en": "Were you hospitalized because of your symptoms?"
+  },
+  "weekly.EX.Q14.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Q14.helpGroup.text.1": {
+    "en": "We want to understand the rates of hospitalization due to symptoms"
+  },
+  "weekly.EX.Q14.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.EX.Q14.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.EX.Q10.title.0": {
+    "en": "Did you change your daily routine because of your illness?"
+  },
+  "weekly.EX.Q10.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Q10.helpGroup.text.1": {
+    "en": "To determine how the symptoms are impacting your daily life."
+  },
+  "weekly.EX.Q10.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q10.helpGroup.text.3": {
+    "en": "We want to know if you have missed work/school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student, and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms/complaints and not due to any quarantine."
+  },
+  "weekly.EX.Q10.rg.scg.option.0": {
+    "en": "No, I was able to go about my daily activities as usual"
+  },
+  "weekly.EX.Q10.rg.scg.option.1": {
+    "en": "Yes, but I did not take time off work/school"
+  },
+  "weekly.EX.Q10.rg.scg.option.2": {
+    "en": "Yes, I took time off work/school"
+  },
+  "weekly.EX.Q10b.title.0": {
+    "en": "Are you currently still unable to work/attend school due to your symptoms/complaints?"
+  },
+  "weekly.EX.Q10b.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Q10b.helpGroup.text.1": {
+    "en": "To determine how your symptoms are impacting your daily life."
+  },
+  "weekly.EX.Q10b.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q10b.helpGroup.text.3": {
+    "en": "Answer \"yes\" if you missed work/school today due to the symptoms you are currently experiencing."
+  },
+  "weekly.EX.Q10b.rg.scg.option.0": {
+    "en": "Yes"
+  },
+  "weekly.EX.Q10b.rg.scg.option.1": {
+    "en": "No"
+  },
+  "weekly.EX.Q10b.rg.scg.option.2": {
+    "en": "Other (I did not have to work/school today)"
+  },
+  "weekly.EX.Q10c.title.0": {
+    "en": "For how many days have you been unable to work normally/go to school (when you otherwise would have)?"
+  },
+  "weekly.EX.Q10c.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Q10c.helpGroup.text.1": {
+    "en": "To calculate the number of days a person misses work/school due to certain symptoms."
+  },
+  "weekly.EX.Q10c.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q10c.helpGroup.text.3": {
+    "en": "Only count the days that you would otherwise have gone to work/school. Please provide an estimate as precise as possible."
+  },
+  "weekly.EX.Q10c.rg.ddg.option.0": {
+    "en": "1 day"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.1": {
+    "en": "2 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.2": {
+    "en": "3 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.3": {
+    "en": "4 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.4": {
+    "en": "5 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.5": {
+    "en": "6 to 10 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.6": {
+    "en": "11 to 15 days"
+  },
+  "weekly.EX.Q10c.rg.ddg.option.7": {
+    "en": "More than 15 days"
+  },
+  "weekly.EX.Qcov7.title.0": {
+    "en": "Did you begin to follow or increase any of the measures below, because of your symptoms (compared to the period before your symptoms began)?"
+  },
+  "weekly.EX.Qcov7.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Qcov7.helpGroup.text.1": {
+    "en": "To examine how different measures are being followed."
+  },
+  "weekly.EX.Qcov7.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Qcov7.helpGroup.text.3": {
+    "en": "For example, for 'Avoid shaking hands': Answer 'Yes, I am following this measure now for the first time, or in a stricter way' if you shake hands less or not at all because of your symptoms; Answer 'No, I am not following this measure' if you continue to shake hands despite your symptoms; Answer 'No, I was already following this measure before' if you had already stopped shaking hands before the onset of your symptoms and you did not change this behaviour."
+  },
+  "weekly.EX.Qcov7.rg.gU4U.text.0": {
+    "en": "To be completed optionally"
+  },
+  "weekly.EX.Qcov7.rg.v1C0.text.1": {
+    "en": "Regularly wash or disinfect your hands"
+  },
+  "weekly.EX.Qcov7.rg.likert_1.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_1.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_1.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_1.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.nEMR.text.3": {
+    "en": "Cough or sneeze into your elbow"
+  },
+  "weekly.EX.Qcov7.rg.likert_2.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_2.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_2.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_2.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.oTIp.text.5": {
+    "en": "Use a disposable tissue"
+  },
+  "weekly.EX.Qcov7.rg.likert_3.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_3.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_3.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_3.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.7w6F.text.7": {
+    "en": "Wear a face mask indoors"
+  },
+  "weekly.EX.Qcov7.rg.likert_4a.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_4a.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_4a.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_4a.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.vHvi.text.9": {
+    "en": "Wear a face mask outdoors"
+  },
+  "weekly.EX.Qcov7.rg.likert_4b.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_4b.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_4b.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_4b.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.ocTu.text.11": {
+    "en": "Avoid shaking hands"
+  },
+  "weekly.EX.Qcov7.rg.likert_5.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_5.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_5.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_5.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.ioJs.text.13": {
+    "en": "Stop greeting by hugging and/or kissing on both cheeks"
+  },
+  "weekly.EX.Qcov7.rg.likert_11.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_11.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_11.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_11.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.ujsK.text.15": {
+    "en": "Limit the use of public transport"
+  },
+  "weekly.EX.Qcov7.rg.likert_6.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_6.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_6.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_6.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.Ijdr.text.17": {
+    "en": "Avoid busy places and gatherings (supermarket, cinema, stadium...)"
+  },
+  "weekly.EX.Qcov7.rg.likert_7.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_7.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_7.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_7.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.t8MS.text.19": {
+    "en": "Stay at home"
+  },
+  "weekly.EX.Qcov7.rg.likert_8.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_8.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_8.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_8.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.z4bE.text.21": {
+    "en": "Telework or increase your number of telework days"
+  },
+  "weekly.EX.Qcov7.rg.likert_9.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_9.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_9.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_9.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.Koue.text.23": {
+    "en": "Avoid travel outside your country of residence or region"
+  },
+  "weekly.EX.Qcov7.rg.likert_10.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_10.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_10.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_10.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.zuDa.text.25": {
+    "en": "Have your food/shopping delivered to your home by a store or a friend/family member"
+  },
+  "weekly.EX.Qcov7.rg.likert_13.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_13.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_13.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_13.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.QSBP.text.27": {
+    "en": "Avoid seeing friends and family"
+  },
+  "weekly.EX.Qcov7.rg.likert_14.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_14.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_14.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_14.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.fRla.text.29": {
+    "en": "Avoid being in contact with people of over 65 years of age or people who suffer from (a) chronic disease(s)"
+  },
+  "weekly.EX.Qcov7.rg.likert_15.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_15.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_15.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_15.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Qcov7.rg.h3fK.text.31": {
+    "en": "Avoid being in contact with children"
+  },
+  "weekly.EX.Qcov7.rg.likert_16.option.0": {
+    "en": " Yes, I am following this measure now for the first time, or in a stricter way"
+  },
+  "weekly.EX.Qcov7.rg.likert_16.option.1": {
+    "en": "No, I was already following this measure before"
+  },
+  "weekly.EX.Qcov7.rg.likert_16.option.2": {
+    "en": "No, I am not following this measure"
+  },
+  "weekly.EX.Qcov7.rg.likert_16.option.3": {
+    "en": "Not applicable"
+  },
+  "weekly.EX.Q11.title.0": {
+    "en": "What do you think is causing your symptoms?"
+  },
+  "weekly.EX.Q11.helpGroup.text.0": {
+    "en": "Why are we asking this question?"
+  },
+  "weekly.EX.Q11.helpGroup.text.1": {
+    "en": "To see if our assessment of your illness based on your symptoms matches with what you believe is causing them. You may have a better idea/understanding of what the cause might be than our computer algorithms."
+  },
+  "weekly.EX.Q11.helpGroup.text.2": {
+    "en": "How should I answer this question?"
+  },
+  "weekly.EX.Q11.helpGroup.text.3": {
+    "en": "If you are reasonably sure of the cause of your symptoms, select the appropriate option. Otherwise, select 'No, I don’t know'."
+  },
+  "weekly.EX.Q11.rg.scg.option.0": {
+    "en": "Flu (influenza) or flu-like illness"
+  },
+  "weekly.EX.Q11.rg.scg.option.1": {
+    "en": "New coronavirus (COVID-19)"
+  },
+  "weekly.EX.Q11.rg.scg.option.2": {
+    "en": "Common cold"
+  },
+  "weekly.EX.Q11.rg.scg.option.3": {
+    "en": "Allergy/hay fever"
+  },
+  "weekly.EX.Q11.rg.scg.option.4": {
+    "en": "Ashtma"
+  },
+  "weekly.EX.Q11.rg.scg.option.5": {
+    "en": "Gastroenteritis complaints or gastric flu"
+  },
+  "weekly.EX.Q11.rg.scg.option.6": {
+    "en": "Other"
+  },
+  "weekly.EX.Q11.rg.scg.option.7": {
+    "en": "I don't know"
+  },
+  "weekly.surveyEnd.title.0": {
+    "en": "Thank you! This was all for now, please submit (press \"send\") your responses. We will ask you again about possible flu-like symptoms next week."
+  }
+}

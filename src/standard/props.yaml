@@ -1,0 +1,12 @@
+studyKey: standard
+status: active
+props:
+  systemDefaultStudy: true
+  startDate: 1590969600
+  name:
+    en: Standard study
+  description:
+    en: Standard study (flu and covid-19)
+  tags:
+    - en: covid-19
+    - en: flu

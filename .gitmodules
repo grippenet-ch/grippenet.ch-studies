@@ -1,0 +1,3 @@
+[submodule "external/common-study-definition"]
+	path = packages/common-study-definition
+	url = https://github.com/influenzanet/common-study-definition
