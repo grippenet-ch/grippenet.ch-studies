@@ -192,7 +192,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4h.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or flu are different for people in different types of occupation.",
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or the flu are different for people in different types of occupation.",
     "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung ist, und um herauszufinden, ob die Wahrscheinlichkeit, an Grippe zu erkranken, für Menschen mit verschiedenen Berufen unterschiedlich hoch ist."
   },
   "intake.Q4h.helpGroup.text.2": {
@@ -205,45 +205,41 @@
   },
   "intake.Q4h.rg.scg.option.0": {
     "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
-    "de": "Dienstleitsungberufe und Verkäufer:innen (Betreuungsberufe, Verkaufskräfte, Berufe im Bereich personenbezogener Dienstleistungen, Schutzkräfte und Sicherheitsbedienstete)"
+    "de": "Kaufmännisch-verwaltend Berufe"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, woodworking, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)",
-    "de": "Handwerks- und verwandte Berufe (Handwerker:innen und Drucker:innen Arbeiter:innen in der Lebensmittelverarbeitung, Arbeiter:innen in der Holzverarbeitung, Arbeiter:innen in der Bekleidungsindustrie und andere Handwerker:innen sowie auch verwandte Berufe, Metall-, Maschinenbauer:innen und verwandte Berufe; Elektro- und Elektronikhandwerker:innen, Baugewerbe und verwandte Berufe, ausgenommen Elektriker:innen)"
+    "en": "Skilled trades and technical occupations (including installation jobs)",
+    "de": "Handwerklich-technisch Berufe (inkl. Montageberufe)"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Armed forces occupations (Commissioned armed forces officers, Armed forces occupations other ranks, Non-commissioned armed forces officers)",
-    "de": "Angehörige der regulären Streitkräfte (Offiziere in regulären Streitkräften; Angehörige der regulären Streitkräfte in sonstigen Rängen; Unteroffiziere in regulären Streitkräften)"
+    "en": "Security personnel (in the military, police, etc.)",
+    "de": "Sicherheitspersonal (in der Armee, bei der Polizei, usw.)"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Managers (Chief Executives, Senior Officials and Legislators, Administrative and Commercial Managers, Production and Specialized Services Managers, Hospitality, Retail and Other Services Managers)",
-    "de": "Führungskräfte (Geschäftsführer:innen, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften; Führungskräfte im kaufmännischen Bereich; Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen; Führungskräfte in der Produktion und bei speziellen Dienstleistungen)"
+    "en": "Management personnel",
+    "de": "Führungskraft"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Professionals (Science and Engineering Professionals, Health Professionals,  Teaching Professionals, Business and Administration Professionals, Information and Communications Technology Professionals, Legal, Social and Cultural Professionals)",
-    "de": "Akademische Berufe (Jurist:innen, Sozialwissenschaftler:innen und Kulturberufe; Lehrkräfte; Akademische und verwandte Gesundheitsberufe; Betriebswirt:innen und vergleichbare akademische Berufe; Naturwissenschaftler:innen, Mathematiker:innen, Ingenieur:innen; Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie)"
+    "en": "Academically qualified professions (incl. teachers)",
+    "de": "Akademische Berufe (inkl. Lehrkräfte)"
   },
   "intake.Q4h.rg.scg.option.5": {
     "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "de": "Techniker:innen und gleichrangige nichttechnische Berufe (Assistenzberufe im Gesundheitswesen; Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte; Informations- und Kommunikationstechniker; Nicht akademische jursitische, sozialpflegerische, kulturelle und verwandte Fachkräfte; Ingenieurtechnische und vergleichbare Fachkräfte)"
+    "de": "Assistenzberufe und Hilfsarbeitskräfte (wie Reinigungspersonal)"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Clerical support workers (General and Keyboard Clerks, Customer Services Clerks,  Numerical and Material Recording Clerks, Other Clerical Support Workers)",
-    "de": "Bürokräfte und verwandte Berufe (Allgemeine Büro- und Sekretariatskräfte; Bürokräfte mit Kundenkontakt; Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft; Sonstige Bürokräfte und verwandte Berufe)"
+    "en": "Skilled agricultural, forestry and fishery workers",
+    "de": "Berufe im Bereich Landschaftspflege"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "de": "Fachkräfte in der Land-, Forstwirtschaft und Fischerei"
+    "en": "Health professionals",
+    "de": "Gesundheitspersonal"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Plant and machine operators and assemblers (Stationary Plant and Machine Operators, Assemblers, Drivers and Mobile Plant Operators)",
-    "de": "Bediener:innen von Anlagen und Maschinen und Montageberufe (Montageberufe; Bediener stationärer Anlagen und Maschinen; Fahrzeugfürer:innen und Bediener:innen mobiler Anlagen)"
+    "en": "Art-related",
+    "de": "Küstlerische Berufe""
   },
-  "intake.Q4h.rg.scg.option.9": {
-    "en": "Elementary occupations (Cleaners and Helpers, Agricultural, Forestry and Fishery Labourers, Labourers in Mining, Construction, Manufacturing and Transport, Food Preparation Assistants, Street and Related Sales and Services Workers, Refuse Workers and Other Elementary Workers)",
-    "de": "Hilfsarbeitskräfte (Reinigungspersonal und Hilfskräfte; Strassenhändler:innen und auf der Strasse arbeitende Dienstleistungskräfte; Abfallentsorgungsarbeiter:innen und sonstige Hilfsarbeitskräfte; Hilfsarbeiter:innen in der Land- und Forstwirtschaft und Fischerei; Hilfskräfte in der Narhungsmittelzubereitung; Hilfsarbeiter:innen im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen)"
-  },
-  "intake.Q4h.rg.scg.input.10": {
+  "intake.Q4h.rg.scg.input.9": {
     "en": "Other",
     "de": "Sonstige"
   },
@@ -253,7 +249,7 @@
   },
   "intake.Q4d.title.0": {
     "en": "What is your highest level of education/qualification?",
-    "de": "Welches ist Ihr höchster Bildungsabschluss?"
+    "de": "Was ist Ihr höchster Bildungsabschluss?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?",
