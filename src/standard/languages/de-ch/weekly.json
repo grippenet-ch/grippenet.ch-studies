@@ -12,8 +12,8 @@
     "de": "Dauer 1-5 Minuten"
   },
   "weekly.Q1.title.0": {
-    "en": "Have you had any of the following symptoms since your last questionnaire (or in the past week, if this the first tie you are taking this questionnaire)?",
-    "de": "Haben Sie seit dem letzten Ausfüllen des wöchentlichen Fragebogens (oder in der letzten Woche, wenn Sie diesen Fragebogen zum ersten Mal ausfüllen) unter einem der folgenden Symptome gelitten?"
+    "en": "Do you currently have, or have you had in the past week, one or more of the following symptoms?",
+    "de": "Haben Sie aktuell oder hatten Sie in der letzten Woche eines oder mehrere der folgenden Symptome?"
   },
   "weekly.Q1.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -131,25 +131,77 @@
     "en": "Other",
     "de": "Andere Symptome"
   },
+    "weekly.EX.Q11.title.0": {
+    "en": "What do you think is causing your symptoms?",
+    "de": "Was glauben Sie, ist die Ursache Ihrer Symptome?"
+  },
+  "weekly.EX.Q11.helpGroup.text.0": {
+    "en": "Why are we asking this question?",
+    "de": "Warum fragen wir Sie das?"
+  },
+  "weekly.EX.Q11.helpGroup.text.1": {
+    "en": "To see if our assessment of your illness, based on your symptoms, matches what you believe to be the cause. You may have a better idea of the cause of your illness than our computer algorithms.",
+    "de": "Um zu sehen, ob unsere Einschätzung Ihrer Krankheit basierend auf der Grundlage Ihrer Symptome mit dem übereinstimmt, was Sie für die Ursache halten. Möglicherweise haben Sie eine bessere Vorstellung von der Ursache Ihrer Krankheit als unsere Computeralgorithmen."
+  },
+  "weekly.EX.Q11.helpGroup.text.2": {
+    "en": "How should I answer this question?",
+    "de": "Wie soll ich diese Frage beantworten?"
+  },
+  "weekly.EX.Q11.helpGroup.text.3": {
+    "en": "If you are reasonably sure of the cause of your symptoms, select the appropriate box. Otherwise, select 'No, I Don’t know'.",
+    "de": "Wenn Sie sich über die Ursache Ihrer Symptome einigermassen sicher sind, kreuzen Sie das entsprechende Feld an. Andernfalls wählen Sie 'Nein, ich weiß es nicht'."
+  },
+  "weekly.EX.Q11.rg.scg.option.0": {
+    "en": "Flu or flu-like illness",
+    "de": "Grippe (Influenza) oder grippeähnliche Erkrankung"
+  },
+  "weekly.EX.Q11.rg.scg.option.1": {
+    "en": "COVID-19",
+    "de": "COVID-19"
+  },
+  "weekly.EX.Q11.rg.scg.option.2": {
+    "en": "Common cold",
+    "de": "Erkältung"
+  },
+  "weekly.EX.Q11.rg.scg.option.3": {
+    "en": "Allergy incl. hay fever",
+    "de": "Allergie inkl. Heuschnupfen"
+  },
+  "weekly.EX.Q11.rg.scg.option.4": {
+    "en": "Ashtma",
+    "de": "Asthma"
+  },
+  "weekly.EX.Q11.rg.scg.option.5": {
+    "en": "Gastroenteritis or gastrointestinal complaints",
+    "de": "Gastroenteritis oder Magen-Darm-Beschwerden"
+  },
+  "weekly.EX.Q11.rg.scg.option.6": {
+    "en": "Other",
+    "de": "Andere"
+  },
+  "weekly.EX.Q11.rg.scg.option.7": {
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
+  },
   "weekly.HS.Q2.title.0": {
-    "en": "When you filled in the previous questionnaire, you indicated that you were still sick. Are the symptoms you are  reporting now from the same timeframe as the symptoms you reported the last time?",
-    "de": "Als Sie den letzten Fragebogen ausfüllten, gaben Sie an, dass Sie immer noch krank sind. Sind die Symptome, die Sie zurzeit haben, aus demselben Zeitraum wie die Symptome, die Sie beim letzten Mal angegeben haben?"
+    "en": "In the previous questionnaire, you indicated that you still had symptoms. Are your current symptoms the same as before?",
+    "de": "Im letzten Fragebogen gaben Sie an, noch Symptome zu haben. Handelt es sich bei Ihren aktuellen Symptomen um dieselben wie zuvor?"
   },
   "weekly.HS.Q2.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.HS.Q2.helpGroup.text.1": {
-    "en": "To speed up the completion of the rest of the questionnaire.",
-    "de": "Damit der Rest des Fragebogens schneller ausgefüllt werden kann."
+    "en": "To make completing the questionnaire faster for you.",
+    "de": "Damit das Beantworten des Fragebogens für Sie schneller geht."
   },
   "weekly.HS.Q2.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.HS.Q2.helpGroup.text.3": {
-    "en": "If you think that the complaints you are indicating today are caused by the same infection or the same problem (the same period during which you experienced the complaints), answer 'yes'.",
-    "de": "Wenn Sie der Meinung sind, dass die Symptome, die Sie heute angeben, auf dieselbe Infektion oder dasselbe Problem zurückzuführen sind (derselbe Zeitraum, in dem die Symptome aufgetreten sind), antworten Sie mit 'ja'."
+    "en": "If you believe that the symptoms you report today are due to the same infection or cause (within the same period the symptoms occurred), please answer ‘yes’.",
+    "de": "Wenn Sie der Meinung sind, dass die Symptome, die Sie heute angeben, auf dieselbe Infektion oder Ursache zurückzuführen sind (im selben Zeitraum, in dem die Symptome aufgetreten sind), antworten Sie bitte mit ‚Ja‘."
   },
   "weekly.HS.Q2.rg.scg.option.0": {
     "en": "Yes",
@@ -160,24 +212,24 @@
     "de": "Nein"
   },
   "weekly.HS.Q2.rg.scg.option.2": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q2.rg.scg.option.3": {
     "en": "This does not apply to me",
     "de": "Das trifft nicht auf mich zu"
   },
   "weekly.HS.Qcov3.title.0": {
-    "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have COVID-19?",
-    "de": "Hatten Sie in den 14 Tagen vor Beginn Ihrer Symptome engen Kontakt zu einer Person, bei der eine positive COVID-19-Infektion durch einen Antigen- oder PCR-Test bestätigt wurde?"
+    "en": "Did you have close contact with someone who had the same symptoms in the 14 days before your symptoms began?",
+    "de": "Hatten Sie in den 14 Tagen vor Beginn Ihrer Symptome engen Kontakt zu einer Person mit denselben Symptomen?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.HS.Qcov3.helpGroup.text.1": {
-    "en": "In  order to study how the coronavirus spreads within the general population.",
-    "de": "Um zu untersuchen, wie sich das Coronavirus in der Bevölkerung ausbreitet."
+    "en": "It helps us study how respiratory pathogens spread within the population.",
+    "de": "Es hilft uns zu untersuchen wie sich respiratorische Eregger in der Bevölkerung ausbreitet."
   },
   "weekly.HS.Qcov3.rg.scg.option.0": {
     "en": "Yes",
@@ -188,27 +240,27 @@
     "de": "Nein"
   },
   "weekly.HS.Qcov3.rg.scg.option.2": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Qcov3b.title.0": {
-    "en": "Was this person or one of these persons a member of your household?",
-    "de": "War diese Person oder eine dieser Personen ein Mitglied Ihres Haushalts?"
+    "en": "Is this person or one of these persons a member of your household?",
+    "de": "Ist diese Person oder eine dieser Personen ein Mitglied Ihres Haushalts?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
-    "en": "The coronavirus and influenza spread quickly indoors.",
-    "de": "COVID-19 und die Grippe (Influenza) sind leicht übertragbar in geschlossenen Räumen."
+    "en": "The coronavirus and influenza can spread better indoors.",
+    "de": "COVID-19 und die Grippe (Influenza) sind leichter in geschlossenen Räumen übertragbar."
   },
   "weekly.HS.Qcov3b.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.HS.Qcov3b.helpGroup.text.3": {
-    "en": "A member of the household is defined as a person (not necessary a family member) who lives at the same address as you, and who shares the kitchen, living room, family room or dining room.",
+    "en": "A member of the household is defined as a person (not necessarily a family member) who lives at the same address as you, and who shares the kitchen, living room, family room, or dining room.",
     "de": "Als Haushaltsmitglied gilt eine Person (nicht notwendigerweise ein Familienmitglied), die/der an derselben Adresse wie Sie wohnt und mit Ihnen die Küche, das Wohnzimmer, das Familienzimmer oder das Esszimmer teilt."
   },
   "weekly.HS.Qcov3b.rg.scg.option.0": {
@@ -248,8 +300,8 @@
     "de": "Datum auswählen."
   },
   "weekly.HS.Q3.rg.scg.option.1": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q4.title.0": {
     "en": "When did your symptoms end?",
@@ -276,16 +328,16 @@
     "de": "Datum auswählen"
   },
   "weekly.HS.Q4.rg.scg.option.1": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q4.rg.scg.option.2": {
     "en": "I am still ill",
     "de": "Ich bin immer noch krank"
   },
   "weekly.HS.Q5.title.0": {
-    "en": "Did your symptoms develop suddenly over a few hours?",
-    "de": "Sind Ihre Symptome plötzlich innerhalb weniger Stunden aufgetreten?"
+    "en": "Did your symptoms develop suddenly?",
+    "de": "Sind Ihre Symptome plötzlich aufgetreten?"
   },
   "weekly.HS.Q5.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -300,8 +352,8 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.HS.Q5.helpGroup.text.3": {
-    "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "de": "Wählen Sie 'ja', wenn Ihre Symptome innerhalb weniger Stunden aufgetreten sind und nicht erst nach und nach über mehrere Tage hinweg."
+    "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over several days.",
+    "de": "Wählen Sie 'ja', wenn Ihre Symptome innerhalb weniger Stunden aufgetreten sind und nicht erst nach und nach über mehrere Tage."
   },
   "weekly.HS.Q5.rg.scg.option.0": {
     "en": "Yes",
@@ -312,8 +364,8 @@
     "de": "Nein"
   },
   "weekly.HS.Q5.rg.scg.option.2": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q6.title.0": {
     "en": "On what day did your fever start? If you do not recall the exact date, please give an approximate date.",
@@ -340,12 +392,12 @@
     "de": "Datum auswählen"
   },
   "weekly.HS.Q6.rg.scg.option.1": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q6b.title.0": {
-    "en": "Did your fever develop suddenly over a few hours?",
-    "de": "Ist das Fieber plötzlich innerhalb mehrerer Stunden aufgetreten?"
+    "en": "Did your fever develop suddenly?",
+    "de": "Ist das Fieber plötzlich aufgetreten?"
   },
   "weekly.HS.Q6b.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -360,8 +412,8 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.HS.Q6b.helpGroup.text.3": {
-    "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over a period of several days.",
-    "de": "Antworten Sie mit 'ja', wenn Ihre Symptome innerhalb weniger Stunden aufgetreten sind und nicht erst nach und nach über mehrere Tage hinweg."
+    "en": "Answer “yes” if your symptoms appeared within a few hours, and not gradually over several days.",
+    "de": "Antworten Sie mit 'ja', wenn Ihre Symptome innerhalb weniger Stunden aufgetreten sind und nicht erst nach und nach über mehrere Tage."
   },
   "weekly.HS.Q6b.rg.scg.option.0": {
     "en": "Yes",
@@ -372,8 +424,8 @@
     "de": "Nein"
   },
   "weekly.HS.Q6b.rg.scg.option.2": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q6c.title.0": {
     "en": "Did you take your temperature?",
@@ -404,8 +456,8 @@
     "de": "Nein"
   },
   "weekly.HS.Q6c.rg.scg.option.2": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don’t know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q6d.title.0": {
     "en": "What was your highest temperature measured?",
@@ -452,12 +504,12 @@
     "de": "40,0°C oder höher"
   },
   "weekly.HS.Q6d.rg.scg.option.6": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q36.title.0": {
-    "en": "Thank you for all these information. They will help us to estimate the frequency of symptoms among general population. You can stop here. If you have a little more time, we propose you to answer further questions about your symptoms and care. Do you accept to answer to these additional questions?",
-    "de": "Herzlichen Dank für all diese Informationen. Ihre Antworten werden uns helfen, die Häufigkeit des Auftretens von grippeähnlichen Symptomen in der Allgemeinbevölkerung abzuschätzen. Sie können hier aufhören. Wenn Sie ein wenig mehr Zeit haben, können Sie noch weitere Fragen zu Ihren Symptomen und Ihrer Behandlung beantworten. Sind Sie damit einverstanden, diese zusätzlichen Fragen zu beantworten?"
+    "en": "Thank you for all your information. They will help us to estimate the frequency of symptoms among the general Swiss population. You can stop here. If you have more time, we propose you answer further questions about your symptoms and care. Would you like to answer additional questions?",
+    "de": "Vielen Dank für das Beantworten unserer Fragen. Ihre Antworten werden uns helfen, die Häufigkeit des Auftretens von grippeähnlichen Symptomen in der Schweiz abzuschätzen. Sie können hier aufhören. Wenn Sie noch Zeit haben, würden wir uns freuen, wenn Sie weitere Fragen zu Ihren Symptomen und Ihrer Behandlung beantworten. Möchten Sie zusätzlichen Fragen beantworten?"
   },
   "weekly.HS.Q36.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -1515,60 +1567,8 @@
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
-  "weekly.EX.Q11.title.0": {
-    "en": "What do you think is causing your symptoms?",
-    "de": "Was verursacht Ihrer Meinung nach Ihre Symptome??"
-  },
-  "weekly.EX.Q11.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "de": "Warum fragen wir Sie das?"
-  },
-  "weekly.EX.Q11.helpGroup.text.1": {
-    "en": "To see if our assessment of your illness, based on your symptoms, matches what you believe to be the cause. You may have a better idea of the cause of your illness than our computer algorithms.",
-    "de": "Um zu sehen, ob unsere Einschätzung Ihrer Krankheit basierend auf der Grundlage Ihrer Symptome mit dem übereinstimmt, was Sie für die Ursache halten. Möglicherweise haben Sie eine bessere Vorstellung von der Ursache Ihrer Krankheit als unsere Computeralgorithmen."
-  },
-  "weekly.EX.Q11.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "de": "Wie soll ich diese Frage beantworten?"
-  },
-  "weekly.EX.Q11.helpGroup.text.3": {
-    "en": "If you are reasonably sure of the cause of your symptoms, select the appropriate box. Otherwise, select 'No, I Don’t know'.",
-    "de": "Wenn Sie sich über die Ursache Ihrer Symptome einigermaßen sicher sind, kreuzen Sie das entsprechende Feld an. Andernfalls wählen Sie 'Nein, ich weiß es nicht'."
-  },
-  "weekly.EX.Q11.rg.scg.option.0": {
-    "en": "Flu or flu-like illness",
-    "de": "Grippe (Influenza) oder grippeähnliche Erkrankung"
-  },
-  "weekly.EX.Q11.rg.scg.option.1": {
-    "en": "New coronavirus (COVID-19)",
-    "de": "Neues Coronavirus (COVID-19)"
-  },
-  "weekly.EX.Q11.rg.scg.option.2": {
-    "en": "Common cold",
-    "de": "Erkältung"
-  },
-  "weekly.EX.Q11.rg.scg.option.3": {
-    "en": "Allergy/hay fever",
-    "de": "Allergie/Heuschnupfen"
-  },
-  "weekly.EX.Q11.rg.scg.option.4": {
-    "en": "Ashtma",
-    "de": "Asthma"
-  },
-  "weekly.EX.Q11.rg.scg.option.5": {
-    "en": "Gastroenteritis complaints or gastric flu",
-    "de": "Gastroenteritis-Beschwerden oder Magen-Darm-Grippe"
-  },
-  "weekly.EX.Q11.rg.scg.option.6": {
-    "en": "Other",
-    "de": "Andere"
-  },
-  "weekly.EX.Q11.rg.scg.option.7": {
-    "en": "I don't know",
-    "de": "Ich weiss es nicht"
-  },
   "weekly.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. We will ask you again next week.",
-    "de": "Herzlichen Dank! Das ist alles für den Moment, bitte senden Sie Ihre Antworten ab (drücken Sie auf 'Senden'). Wir werden Sie nächste Woche erneut zu möglichen grippeähnlichen Symptomen befragen."
+    "en": "Thank you for your support! You will have completed this week's questionnaire once you submit it. You will be asked to complete this weekly questionnaire again next week.",
+    "de": "Vielen Dank für Ihre Unterstützung! Sie sind fertig, sobald Sie den Fragebogen absenden. Nächste Woche werden Sie erneut gebeten, diesen wöchentlichen Fragebogen auszufüllen."
   }
 }
