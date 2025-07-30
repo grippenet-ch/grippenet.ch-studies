@@ -508,8 +508,8 @@
     "de": "Ich weiss es nicht"
   },
   "weekly.HS.Q36.title.0": {
-    "en": "Thank you for all your information. They will help us to estimate the frequency of symptoms among the general Swiss population. You can stop here. If you have more time, we propose you answer further questions about your symptoms and care. Would you like to answer additional questions?",
-    "de": "Vielen Dank für das Beantworten unserer Fragen. Ihre Antworten werden uns helfen, die Häufigkeit des Auftretens von grippeähnlichen Symptomen in der Schweiz abzuschätzen. Sie können hier aufhören. Wenn Sie noch Zeit haben, würden wir uns freuen, wenn Sie weitere Fragen zu Ihren Symptomen und Ihrer Behandlung beantworten. Möchten Sie zusätzlichen Fragen beantworten?"
+    "en": "Thank you for your responses. They help us better assess the occurrence of flu-like symptoms in Switzerland. If you wish, you may answer some additional questions about your symptoms and the control measures you have taken.",
+    "de": "Vielen Dank für Ihre Antworten. Sie helfen uns, das Auftreten grippeähnlicher Symptome in der Schweiz besser einzuschätzen. Wenn Sie möchten, können Sie nun noch zusätzliche Fragen zu Symptomen und ergriffenen Massnahmen beantworten."
   },
   "weekly.HS.Q36.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -528,24 +528,24 @@
     "de": "Nein"
   },
   "weekly.EX.Q7.title.0": {
-    "en": "Because of your symptoms, did you VISIT (see face to face or teleconsultation) any medical services?",
-    "de": "Haben Sie wegen Ihren Symptomen medizinische Hilfe in Anspruch genommen (persönlich oder via Telekonsultation)?"
+    "en": "Have you sought health care for your symptoms (in person or via teleconsultation)?",
+    "de": "Haben Sie aufgrund Ihrer Symptome medizinische Dienste aufgesucht (vor Ort oder per Telekonsultation)?"
   },
   "weekly.EX.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Q7.helpGroup.text.1": {
-    "en": "To find out whether people contact the health services because of their symptoms.",
-    "de": "Um herauszufinden, ob Menschen medizinische Hilfe in Anspruch nehmen aufgrund Ihrer Symptome."
+    "en": "To find out when the public seeks health services due to symptoms.",
+    "de": "Um herauszufinden, wann die Bevölkerung wegen Symptomen medizinische Dienste in Anspruch nimmt."
   },
   "weekly.EX.Q7.helpGroup.text.2": {
     "en": "How should I answer it?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q7.helpGroup.text.3": {
-    "en": "Tick all of those that apply. If you are due to see attend, then tick the final option.",
-    "de": "Kreuzen Sie alle zutreffenden Punkte an. Wenn Sie bereits einen Termin haben, kreuzen Sie bitte die letzte Antwort an."
+    "en": "Tick all of those that apply.",
+    "de": "Kreuzen Sie alle zutreffenden Punkte an."
   },
   "weekly.EX.Q7.rg.DTpM.text.0": {
     "en": "Multiple answers possible",
@@ -556,44 +556,44 @@
     "de": "Nein"
   },
   "weekly.EX.Q7.rg.mcg.option.1": {
-    "en": "GP or GP's practice nurse",
-    "de": "Ärzt:in für Allgemeinmedizin oder Gesundheits- und Krankenpfleger:in"
+    "en": "GP or nursing professional",
+    "de": "(Haus-) Ärztliche oder pflegerische Fachkraft"
   },
   "weekly.EX.Q7.rg.mcg.option.2": {
     "en": "Hospital admission",
-    "de": "Spitalaufenthalt (Hospitalisierung)"
+    "de": "Spitalaufenthalt"
   },
   "weekly.EX.Q7.rg.mcg.option.3": {
-    "en": "Hospital accident & emergency department / out of hours service",
-    "de": "Aufsuchen der Notfallstation (ausserhalb der Öffnungszeiten und keine stationäre Behandlung)"
+    "en": "Emergency department (out of hours service, without inpatient admission)",
+    "de": "Notfallstation (ausserhalb der Öffnungszeiten ohne stationäre Behandlung)"
   },
   "weekly.EX.Q7.rg.mcg.option.4": {
     "en": "Other medical services",
     "de": "Andere medizinische Dienste"
   },
   "weekly.EX.Q7.rg.mcg.option.5": {
-    "en": "No, but I have an appointment scheduled",
-    "de": "Nein, aber ich habe einen Termin vereinbart"
+    "en": "No, but I have scheduled an appointment.",
+    "de": "Nein, aber ich habe einen Termin vereinbart."
   },
   "weekly.EX.Q7b.title.0": {
-    "en": "How soon after your symptoms appeared did you first VISIT this medical service?",
-    "de": "Wie bald nach dem Auftreten Ihrer Symptome haben Sie medizinische Hilfe aufgesucht?"
+    "en": "When after the beginning of your symptoms did you seek health services?",
+    "de": "Wann nach dem Auftreten Ihrer Symptome haben Sie medizinische Dienste aufgesucht?"
   },
   "weekly.EX.Q7b.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Q7b.helpGroup.text.1": {
-    "en": "To find out how quickly people with symptoms are seen by the health services.",
-    "de": "Um herauszufinden, wie schnell Menschen mit grippeähnlichen Symptomen medizinische Hilfe aufsuchen."
+    "en": "To find out when the public seeks health services due to symptoms.",
+    "de": "Um herauszufinden, wann die Bevölkerung wegen Symptomen medizinische Dienste in Anspruch nimmt."
   },
   "weekly.EX.Q7b.helpGroup.text.2": {
     "en": "How should I answer it?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q7b.helpGroup.text.3": {
-    "en": "Only record the time until your FIRST contact with the health services.",
-    "de": "Geben Sie nur die Zeit bis zum ERSTEN Kontakt mit medizinischer Hilfe an."
+    "en": "Provide only the time when you had the FIRST contact with health services.",
+    "de": "Geben Sie nur den Tag an, an dem Sie ERSTMALS medizinische Dienste aufgesucht haben."
   },
   "weekly.EX.Q7b.rg.sFcN.text.0": {
     "en": "Select the correct number of days",
@@ -604,72 +604,72 @@
     "de": "Medizinische Dienste"
   },
   "weekly.EX.Q7b.rg.mat.r1.col0.label.0": {
-    "en": "GP or GP'r practice nurse",
-    "de": "Ärzt:in für Allgemeinmedizin oder Gesundheits- und Krankenpfleger:in"
+    "en": "GP or nursing professional",
+    "de": "(Haus-) Ärztliche oder pflegerische Fachkraft"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.0": {
     "en": "Same day",
     "de": "Am gleichen Tag"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.1": {
-    "en": "1 day",
-    "de": "1 Tag danach"
+    "en": "After 1 day",
+    "de": "Nach 1 Tag"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.2": {
-    "en": "2 days",
-    "de": "2 Tage danach"
+    "en": "After 2 days",
+    "de": "Nach 2 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.3": {
-    "en": "3 days",
-    "de": "3 Tage danach"
+    "en": "After 3 days",
+    "de": "Nach 3 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.4": {
-    "en": "4 days",
-    "de": "4 Tage danach"
+    "en": "After 4 days",
+    "de": "Nach 4 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.5": {
-    "en": "5 - 7 days",
-    "de": "5-7 Tage danach"
+    "en": "After 5-7 days",
+    "de": "Nach 5-7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.6": {
-    "en": "More than 7 days",
-    "de": "Mehr als 7 Tage danach"
+    "en": "After more than 7 days",
+    "de": "Nach mehr als 7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r1.col1.option.7": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.EX.Q7b.rg.mat.r2.col0.label.0": {
-    "en": "Hospital accident & department/out of hours service",
-    "de": "Aufsuchen der Notfallstation (ausserhalb der Öffnungszeiten und keine stationäre Behandlung) "
+    "en": "Emergency department (out of hours service, without inpatient admission)",
+    "de": "Notfallstation (ausserhalb der Öffnungszeiten ohne stationäre Behandlung) "
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.0": {
     "en": "Same day",
     "de": "Am gleichen Tag"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.1": {
-    "en": "1 day",
-    "de": "1 Tag danach"
+    "en": "After 2 days",
+    "de": "Nach 2 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.2": {
-    "en": "2 days",
-    "de": "2 Tage danach"
+    "en": "After 2 days",
+    "de": "Nach 2 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.3": {
-    "en": "3 days",
-    "de": "3 Tage danach"
+    "en": "After 3 days",
+    "de": "Nach 3 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.4": {
-    "en": "4 days",
-    "de": "4 Tage danach"
+    "en": "After 4 days",
+    "de": "Nach 4 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.5": {
-    "en": "5 - 7 days",
-    "de": "5-7 Tage danache"
+    "en": "After 5-7 days",
+    "de": "Nach 5-7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.6": {
-    "en": "More than 7 days",
-    "de": "Mehr als 7 Tag danach"
+    "en": "After more than 7 days",
+    "de": "Nach mehr als 7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r2.col1.option.7": {
     "en": "I don't know/can't remember",
@@ -684,28 +684,28 @@
     "de": "Am gleichen Tag"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.1": {
-    "en": "1 day",
-    "de": "1 Tag danach"
+    "en": "After 1 days",
+    "de": "Nach 1 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.2": {
-    "en": "2 days",
-    "de": "2 Tage danach"
+    "en": "After 2 days",
+    "de": "Nach 2 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.3": {
-    "en": "3 days",
-    "de": "3 Tage danach"
+    "en": "After 3 days",
+    "de": "Nach 3 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.4": {
-    "en": "4 days",
-    "de": "4 Tage danach"
+    "en": "After 4 days",
+    "de": "Nach 4 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.5": {
-    "en": "5 - 7 days",
-    "de": "5-7 Tage danach"
+    "en": "After 5-7 days",
+    "de": "Nach 5-7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.6": {
-    "en": "More than 7 days",
-    "de": "Mehr als 7 Tage danach"
+    "en": "After more than 7 days",
+    "de": "Nach mehr als 7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r3.col1.option.7": {
     "en": "I don't know/can't remember",
@@ -720,44 +720,44 @@
     "de": "Am gleichen Tag"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.1": {
-    "en": "1 day",
-    "de": "1 Tag danach"
+    "en": "After 1 days",
+    "de": "Nach 1 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.2": {
-    "en": "2 days",
-    "de": "2 Tage danache"
+    "en": "After 2 days",
+    "de": "Nach 2 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.3": {
-    "en": "3 days",
-    "de": "3 Tage danach"
+    "en": "After 3 days",
+    "de": "Nach 3 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.4": {
-    "en": "4 days",
-    "de": "4 Tage danache"
+    "en": "After 4 days",
+    "de": "Nach 4 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.5": {
-    "en": "5 - 7 days",
-    "de": "5-7 Tage danach"
+    "en": "After 5-7 days",
+    "de": "Nach 5-7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.6": {
-    "en": "More than 7 days",
-    "de": "Mehr als 7 Tage danach"
+    "en": "After more than 7 days",
+    "de": "Nach mehr als 7 Tage"
   },
   "weekly.EX.Q7b.rg.mat.r4.col1.option.7": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know",
+    "de": "Ich weiss es nicht"
   },
   "weekly.EX.Qcov18.title.0": {
-    "en": "What is the main reason for which you did not consult any health professional for the symptoms you declared today?",
-    "de": "Was ist der Hauptgrund dafür, dass Sie wegen der von Ihnen angegebenen Symptome keine medizinischen Dienste aufgesucht haben?"
+    "en": "What is the main reason you haven’t sought any health services for your symptoms?",
+    "de": "Was ist der Hauptgrund, warum Sie wegen Ihrer Symptome keine medizinische Dienste aufgesucht haben?"
   },
   "weekly.EX.Qcov18.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov18.helpGroup.text.1": {
-    "en": "To understand why some people do not consult a doctor.",
-    "de": "Um zu verstehen, weshalb manche Menschen keine medizinische Hilfe aufsuchen."
+    "en": "To understand why some do not seek healt care.",
+    "de": "Um zu verstehen, weshalb manche keine medizinische Dienste aufsuchen."
   },
   "weekly.EX.Qcov18.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -768,28 +768,28 @@
     "de": "Mehrere Antworten sind möglich."
   },
   "weekly.EX.Qcov18.rg.4opV.text.0": {
-    "en": "Multiple answers possible",
-    "de": "Mehrere Antworten sind möglich"
+    "en": "Multiple answers possible.",
+    "de": "Mehrere Antworten sind möglich."
   },
   "weekly.EX.Qcov18.rg.scg.option.0": {
-    "en": "My symptoms appeared very recently",
-    "de": "Meine Symptome sind erst vor kurzem aufgetreten."
+    "en": "My symptoms have just appeared.",
+    "de": "Meine Symptome sind gerade erst aufgetreten."
   },
   "weekly.EX.Qcov18.rg.scg.option.1": {
-    "en": "My symptoms are mild",
+    "en": "My symptoms are mild.",
     "de": "Meine Symptome sind mild."
   },
   "weekly.EX.Qcov18.rg.scg.option.2": {
-    "en": "I have these symptoms often",
+    "en": "I have these symptoms often.",
     "de": "Ich habe diese Symptome oft."
   },
   "weekly.EX.Qcov18.rg.scg.option.3": {
-    "en": "I think I know what I have and I self-medicate",
-    "de": "Ich glaube, ich weiß, was ich habe, und ich behandle mich selbst."
+    "en": "I think I know what I have and I take care of it myself.",
+    "de": "Ich glaube, ich weiss, was ich habe, und ich behandle mich selber."
   },
   "weekly.EX.Qcov18.rg.scg.option.4": {
-    "en": "I think there is no effective treatment for the disease I have",
-    "de": "Ich glaube, dass es keine wirksame Behandlung für meine Krankheit gibt."
+    "en": "I think there is no effective treatment for my symptoms.",
+    "de": "Ich glaube, es gibt keine wirksame Behandlung für meine Symptome."
   },
   "weekly.EX.Qcov18.rg.scg.option.5": {
     "en": "It is too hard to get an appointment quickly",
@@ -804,12 +804,12 @@
     "de": "Aus finanziellen Gründen."
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
-    "en": "For fear of consequences if the doctor thinks I have COVID-19",
-    "de": "Aus Angst vor den Konsequenzen, wenn der/die Ärzt:in meint, ich habe COVID-19."
+    "en": "Out of concern that a diagnosis might disrupt my daily life, work or leisure time.",
+    "de": "Aus Sorge, dass eine Krankheit(sdiagnose) meinen Alltag, Job oder meine Freizeit einschränkt."
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against COVID-19",
-    "de": "Weil ich gegen COVID-19 geimpft bin"
+    "en": "Because I am vaccinated against respiratory illnesses (like COVID and flu).",
+    "de": "Weil ich gegen repiratorische Erkrankungen (wie Covid und Grippe) geimpft bin."
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
@@ -820,28 +820,28 @@
     "de": "Beschreiben Sie diese hier (freiwillig)"
   },
   "weekly.EX.Qcov18.rg.scg.option.11": {
-    "en": "I don't know / I don't want to answer",
-    "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
+    "en": "I don't know or don't want to answer",
+    "de": "Ich weiss es nicht oder möchte diese Frage nicht beantworten."
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie COVID-19 haben?"
+    "en": "Have you taken a test due to your symptoms to find out what you have?",
+    "de": "Haben Sie wegen Ihrer Symptome einen Test gemacht, um herauszufinden, was Sie haben?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
-    "en": "We want to know which complaints lead people to get tested for the coronavirus.",
-    "de": "Wir möchten untersuchen, welche Symptome dazu führen, dass sich Menschen auf das Coronavirus testen lassen."
+    "en": "We want to know which complaints lead people to get tested.",
+    "de": "Wir möchten untersuchen, welche Symptome dazu führen, dass sich Personen testen."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
     "en": "Yes",
     "de": "Ja"
   },
   "weekly.EX.Qcov16h.rg.scg.option.1": {
-    "en": "Not yet, I plan to shortly undergo a test",
-    "de": "Nein, noch nicht. Ich plane jedoch mich in Kürze testen zu lassen."
+    "en": "No, not yet, but I plan to do a test soon.",
+    "de": "Nein, noch nicht, aber ich möchte mich bald testen lassen."
   },
   "weekly.EX.Qcov16h.rg.scg.option.2": {
     "en": "No, I have a prescription but will not undergo a test",
@@ -852,36 +852,36 @@
     "de": "Nein"
   },
   "weekly.EX.Qcov16i.title.0": {
-    "en": "Which analyse(s) was it?",
-    "de": "Welche(n) COVID-19-Test(s) haben Sie gemacht?"
+    "en": "Which test(s) was it?",
+    "de": "Welche(n) Test(s) haben Sie gemacht?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
-    "en": "We are interested in knowing how many people with symptoms have udergone a test",
-    "de": "Um zu untersuchen, wie viele Menschen mit grippeähnlichen Symptomen sich testen lassen haben"
+    "en": "We are interested in knowing how many people with symptoms got tested.",
+    "de": "Um zu untersuchen, ob sich Personen mit (grippeähnlichen) Symptomen testen lassen."
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
     "en": "Multiple answers possible",
     "de": "Mehrere Antworten sind möglich."
   },
   "weekly.EX.Qcov16i.rg.mcg.option.0": {
-    "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)",
+    "en": "A PCR test (a swab in nose or mouth, or a sputum or saliva sample)",
     "de": "Ein PCR-Test (Nasen- oder Rachenabstrich oder eine Sputum- oder Speichelprobe)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.1": {
-    "en": "A serological analysis (screening for antibodies against this virus, from a drop of blood at fingertip or a blood sample)",
+    "en": "A serological analysis (screening for antibodies from a blood sample)",
     "de": "Eine serologische Analyse (Screening auf Antikörper anhand einer Blutprobe)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.2": {
-    "en": "A rapid antigen detection test on a sample realized in the back of the nose (nasopharyngeal sampling, done by a health professional or a trained person, with a swab inserted to 15 cm into the nose, result obtained in less than one hour)",
-    "de": "Ein Antigen-Schnelltest anhand einem Nasenabstrich (nasopharyngeale Probenahme, die von einer medizinisch geschulten Person mit einem bis zu 15 cm tief in die Nase eingeführten Tupfer durchgeführt wird; das Ergebnis liegt in weniger als einer Stunde vor)"
+    "en": "A rapid antigen test (nasopharyngeal sampling, done by a health professional and results are obtained in less than one hour)",
+    "de": "Ein Antigen-Schnelltest (Nasenabstrich, der vom Gesunheitspersonal durchgeführt wird und das Ergebnis liegt in weniger als einer Stunde vor)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.3": {
-    "en": "A rapid antigen detection test or autotest done on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling that can be done by oneself, result obtained in a few minutes)",
-    "de": "Ein Antigen-Schnelltest oder ein Autotest, der anhand einem Nasenabstrich durchgeführt wird (ein Tupfer, der 1 - 4 cm tief in das Nasenloch eingeführt wird wobei die Probenahme selbst durchgeführt werden kann und das Ergebnis in wenigen Minuten vorliegt)"
+    "en": "A rapid antigen self-test (nasopharyngeal sampling that can be done by oneself and results are obtained in a few minutes)",
+    "de": "Ein Antigen-Schnell-Selbsttest (Nasenabstrich wird selbst durchgeführt und das Ergebnis in wenigen Minuten vorliegt)"
   },
   "weekly.EX.Qcov16b.title.0": {
     "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
