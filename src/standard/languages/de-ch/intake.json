@@ -52,8 +52,8 @@
     "de": " Jahre alt"
   },
   "intake.Q3.title.0": {
-    "en": "What is your home postal code?",
-    "de": "Wie lautet die Postleitzahl Ihrer Wohnadresse?"
+    "en": "What is the postal code of your home?",
+    "de": "Wie lautet die Postleitzahl Ihres Wohnortes?"
   },
   "intake.Q3.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -69,7 +69,7 @@
   },
   "intake.Q3.helpGroup.text.3": {
     "en": "Insert the postal code of your place of residence",
-    "de": "Geben Sie bitte die Postleitzahl Ihrer Wohnadresse ein"
+    "de": "Geben Sie bitte die Postleitzahl Ihres Wohnortes ein"
   },
   "intake.Q3.rg.scg.input.0": {
     "en": "Postal code:",
@@ -85,15 +85,15 @@
   },
   "intake.Q3.error.3": {
     "en": "Please enter the digits of your postal code",
-    "de": "Bitte geben Sie hier Ihre vierstellige Postleitzahl ein."
+    "de": "Bitte geben Sie hier die vierstellige Postleitzahl ein."
   },
   "intake.Q3.error.4": {
-    "en": "Please enter at most 5 digits",
+    "en": "Please enter at most 4 digits",
     "de": "Bitte geben Sie höchstens eine vierstellige Zahl ein"
   },
   "intake.Q4.title.0": {
     "en": "What is your current professional status?",
-    "de": "Was ist Ihr derzeitiger beruflicher Status?"
+    "de": "Was ist Ihr aktueller beruflicher Status?"
   },
   "intake.Q4.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -116,20 +116,20 @@
     "de": "Bezahlte Anstellung, Vollzeit"
   },
   "intake.Q4.rg.scg.option.1": {
-    "en": "Paid employment, part time",
+    "en": "Paid employment, part-time",
     "de": "Bezahlte Anstellung, Teilzeit"
   },
   "intake.Q4.rg.scg.option.2": {
-    "en": "Self-employed (businessman, farmer, tradesman, etc.)",
-    "de": "Selbstständig (Unternehmer:in, Landwirt:in, Händler:in, usw.)"
+    "en": "Self-employed (businessman, farmer, tradesman, artist, etc.)",
+    "de": "Selbstständig (Unternehmer:in, Landwirt:in, Händler:in, Küstler:in usw.)"
   },
   "intake.Q4.rg.scg.option.3": {
     "en": "Attending daycare/school/college/university",
     "de": "Besuch einer Kindertagesstätte/Kindergarten/Schule/Hochschule/Universität"
   },
   "intake.Q4.rg.scg.option.4": {
-    "en": "Home-maker (e.g. housewife)",
-    "de": "Hausarbeit (Haushaltsführende:r)"
+    "en": "Home-maker (e.g. childcare)",
+    "de": "Hausarbeit (z.B. Kinderbetreuung)"
   },
   "intake.Q4.rg.scg.option.5": {
     "en": "Unemployed",
@@ -137,7 +137,7 @@
   },
   "intake.Q4.rg.scg.option.6": {
     "en": "Long-term sick-leave or parental leave",
-    "de": "Langfristig krankgeschrieben oder Elternurlaub"
+    "de": "Langfristig krankgeschrieben oder Elternzeit"
   },
   "intake.Q4.rg.scg.option.7": {
     "en": "Retired",
@@ -145,11 +145,11 @@
   },
   "intake.Q4.rg.scg.option.8": {
     "en": "Other",
-    "de": "Sonstige"
+    "de": "Sonstiges"
   },
   "intake.Q4b.title.0": {
-    "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?",
-    "de": "Wie lautet die Postleitzahl Ihrer Schule/Hochschule oder Universität/Arbeitsstätte (wo Sie den Großteil Ihrer Arbeits-/Studienzeit verbringen)?"
+    "en": "What is the postal code of the institution or workplace where you primarily study or work?",
+    "de": "Wie lautet die Postleitzahl des Ortes, an dem Sie die meiste Zeit mit Studieren oder Arbeiten verbringen?"
   },
   "intake.Q4b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -160,11 +160,11 @@
     "de": "Um die Distanz, die Sie täglich zurücklegen, festzustellen."
   },
   "intake.Q4b.rg.scg.input.0": {
-    "en": "Postal code",
+    "en": "Postal code (of work/study)",
     "de": "Postleitzahl (von Ihrer Schule/Arbeit/Universität etc.)"
   },
   "intake.Q4b.rg.scg.description.input.0": {
-    "en": "Postal code",
+    "en": "Postal code (of work/study)",
     "de": "Postleitzahl (von Ihrer Schule/Arbeit/Universität etc.)"
   },
   "intake.Q4b.rg.scg.option.1": {
@@ -180,8 +180,8 @@
     "de": "Bitte geben Sie die vierstellige Postleitzahl ein"
   },
   "intake.Q4b.error.4": {
-    "en": "Please enter at most 5 digits",
-    "de": "Bitte geben Sie höchstens eine vierstellige Zahl ein"
+    "en": "Please enter at most 4 digits",
+    "de": "Bitte geben Sie eine vierstellige Zahl ein"
   },
   "intake.Q4h.title.0": {
     "en": "Which of the following descriptions most closely matches with your main occupation? ",
@@ -192,7 +192,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4h.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or flu are different for people in different types of occupation.",
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or the flu are different for people in different types of occupation.",
     "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung ist, und um herauszufinden, ob die Wahrscheinlichkeit, an Grippe zu erkranken, für Menschen mit verschiedenen Berufen unterschiedlich hoch ist."
   },
   "intake.Q4h.helpGroup.text.2": {
@@ -205,45 +205,41 @@
   },
   "intake.Q4h.rg.scg.option.0": {
     "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
-    "de": "Dienstleitsungberufe und Verkäufer:innen (Betreuungsberufe, Verkaufskräfte, Berufe im Bereich personenbezogener Dienstleistungen, Schutzkräfte und Sicherheitsbedienstete)"
+    "de": "Kaufmännisch-verwaltend Berufe"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)",
-    "de": "Handwerks- und verwandte Berufe (Handwerker:innen und Drucker:innen Arbeiter:innen in der Lebensmittelverarbeitung, Arbeiter:innen in der Holzverarbeitung, Arbeiter:innen in der Bekleidungsindustrie und andere Handwerker:innen sowie auch verwandte Berufe, Metall-, Maschinenbauer:innen und verwandte Berufe; Elektro- und Elektronikhandwerker:innen, Baugewerbe und verwandte Berufe, ausgenommen Elektriker:innen)"
+    "en": "Skilled trades and technical occupations (including installation jobs)",
+    "de": "Handwerklich-technisch Berufe (inkl. Montageberufe)"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Armed forces occupations (Commissioned armed forces officers, Armed forces occupations other ranks, Non-commissioned armed forces officers)",
-    "de": "Angehörige der regulären Streitkräfte (Offiziere in regulären Streitkräften; Angehörige der regulären Streitkräfte in sonstigen Rängen; Unteroffiziere in regulären Streitkräften)"
+    "en": "Security personnel (in the military, police, etc.)",
+    "de": "Sicherheitspersonal (in der Armee, bei der Polizei, usw.)"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Managers (Chief Executives, Senior Officials and Legislators, Administrative and Commercial Managers, Production and Specialized Services Managers, Hospitality, Retail and Other Services Managers)",
-    "de": "Führungskräfte (Geschäftsführer:innen, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften; Führungskräfte im kaufmännischen Bereich; Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen; Führungskräfte in der Produktion und bei speziellen Dienstleistungen)"
+    "en": "Management personnel",
+    "de": "Führungskraft"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Professionals (Science and Engineering Professionals, Health Professionals,  Teaching Professionals, Business and Administration Professionals, Information and Communications Technology Professionals, Legal, Social and Cultural Professionals)",
-    "de": "Akademische Berufe (Jurist:innen, Sozialwissenschaftler:innen und Kulturberufe; Lehrkräfte; Akademische und verwandte Gesundheitsberufe; Betriebswirt:innen und vergleichbare akademische Berufe; Naturwissenschaftler:innen, Mathematiker:innen, Ingenieur:innen; Akademische und vergleichbare Fachkräfte in der Infomrations- und Kommunikationstechnologie)"
+    "en": "Academically qualified professions (incl. teachers)",
+    "de": "Akademische Berufe (inkl. Lehrkräfte)"
   },
   "intake.Q4h.rg.scg.option.5": {
     "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "de": "Techniker:innen und gleichrangige nichttechnische Berufe (Assistenzberufe im Gesundheitswesen; Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte; Informations- und Kommunikationstechniker; Nicht akademische jursitische, sozialpflegerische, kulturelle und verwandte Fachkräfte; Ingenieurtechnische und vergleichbare Fachkräfte)"
+    "de": "Assistenzberufe und Hilfsarbeitskräfte (wie Reinigungspersonal)"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Clerical support workers (General and Keyboard Clerks, Customer Services Clerks,  Numerical and Material Recording Clerks, Other Clerical Support Workers)",
-    "de": "Bürokräfte und verwandte Berufe (Allgemeine Büro- und Sekretariatskräfte; Bürokräfte mit Kundenkontakt; Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft; Sonstige Bürokräfte und verwandte Berufe)"
+    "en": "Skilled agricultural, forestry and fishery workers",
+    "de": "Berufe im Bereich Landschaftspflege"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "de": "Fachkräfte in der Land-, Forstwirtschaft und Fischerei"
+    "en": "Health professionals",
+    "de": "Gesundheitspersonal"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Plant and machine operators and assemblers (Stationary Plant and Machine Operators, Assemblers, Drivers and Mobile Plant Operators)",
-    "de": "Bediener:innen von Anlagen und Maschinen und Montageberufe (Montageberufe; Bediener stationärer Anlagen und Maschinen; Fahrzeugfürer:innen und Bediener:innen mobiler Anlagen)"
+    "en": "Art-related",
+    "de": "Küstlerische Berufe""
   },
-  "intake.Q4h.rg.scg.option.9": {
-    "en": "Elementary occupations (Cleaners and Helpers, Agricultural, Forestry and Fishery Labourers, Labourers in Mining, Construction, Manufacturing and Transport, Food Preparation Assistants, Street and Related Sales and Services Workers, Refuse Workers and Other Elementary Workers)",
-    "de": "Hilfsarbeitskräfte (Reinigungspersonal und Hilfskräfte; Strassenhändler:innen und auf der Strasse arbeitende Dienstleistungskräfte; Abfallentsorgungsarbeiter:innen und sonstige Hilfsarbeitskräfte; Hilfsarbeiter:innen in der Land- und Forstwirtschaft und Fischerei; Hilfskräfte in der Narhungsmittelzubereitung; Hilfsarbeiter:innen im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen)"
-  },
-  "intake.Q4h.rg.scg.input.10": {
+  "intake.Q4h.rg.scg.input.9": {
     "en": "Other",
     "de": "Sonstige"
   },
@@ -252,15 +248,15 @@
     "de": "Hier beschreiben (optional)"
   },
   "intake.Q4d.title.0": {
-    "en": "What is the highest level of formal education/qualification that you have?",
-    "de": "Welches ist der höchste formale Bildungsabschluss, den Sie haben?"
+    "en": "What is your highest level of education/qualification?",
+    "de": "Was ist Ihr höchster Bildungsabschluss?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4d.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population of the UK (Italy, Belgium..) as a whole.",
+    "en": "To check how representative our sample is compared to the population in Switzerland or other countries as a whole.",
     "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung anderer Länder ist (wie die UK, Italien, Belgien...) ist."
   },
   "intake.Q4d.helpGroup.text.2": {
@@ -268,7 +264,7 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "intake.Q4d.helpGroup.text.3": {
-    "en": "Please choose the box that represents your HIGHEST level of educational achievements. The different option rougly equate to: 1 - no qualifications, 2 - school-leaving exams at around 16 years of age, 3 - school-leaving exams at around 18 years of age, 4 - University degree or equivalent professional qualification, 5 - Higher degree or advanced professional qualification. If you are an adult who is currently undergoing part - time training(e.g.night school) then tick the box that represents your current highest level of education.",
+    "en": "Please choose the box that represents your HIGHEST level of educational achievements. The different options roughly equate to: 1 - no qualifications, 2 - school-leaving exams at around 16 years of age, 3 - school-leaving exams at around 18 years of age, 4 - University degree or equivalent professional qualification, 5 - Higher degree or advanced professional qualification. If you are an adult who is currently undergoing part - time training(e.g.night school) then tick the box that represents your current highest level of education.",
     "de": "Bitte kreuzen Sie das Kästchen an, das Ihrem HÖCHSTEN Bildungsabschluss entspricht. Die verschiedenen Optionen entsprechen in etwa: 1 - kein Abschluss, 2 - Schulabschluss im Alter von ca. 16 Jahren, 3 - Schulabschluss im Alter von ca. 18 Jahren, 4 - Hochschul-/Universitätsabschluss oder gleichwertiger beruflicher Abschluss (Bachelorabschluss etc.), 5 - Weiterführender Hochschulabschluss oder höherer beruflicher Abschluss (Masterabschluss, PhD etc.). Wenn Sie eine erwachsene Person sind, die derzeit eine Teilzeitausbildung absolviert (z. B. Abendschule), kreuzen Sie bitte das Kästchen an, das Ihrem derzeitigen höchsten Bildungsabschluss entspricht."
   },
   "intake.Q4d.rg.nUk7.text.0": {
@@ -277,11 +273,11 @@
   },
   "intake.Q4d.rg.mcg.option.0": {
     "en": "I have no formal qualification",
-    "de": "Ich habe kein formaler Abschluss"
+    "de": "Ich habe kein offiziellen Abschluss"
   },
   "intake.Q4d.rg.mcg.option.1": {
     "en": "GCSEs, levels, CSEs or equivalent",
-    "de": "Grundschulabschluss"
+    "de": "Ablschuss der obligatorischen Schulzeit"
   },
   "intake.Q4d.rg.mcg.option.2": {
     "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
@@ -300,8 +296,8 @@
     "de": "Ich befinde mich noch in Ausbildung"
   },
   "intake.Q5.title.0": {
-    "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day (so without COVID-19 measures)?",
-    "de": "Abgesehen von den Personen, die Sie in öffentlichen Verkehrsmitteln treffen, haben Sie im Laufe eines normalen Tages Kontakt mit folgenden Personen (angenommen ohne COVID-19-Maßnahmen)?"
+    "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day?",
+    "de": "Abgesehen von den Personen, die Sie in öffentlichen Verkehrsmitteln treffen, haben Sie im Laufe Ihres Alltages Kontakt mit folgenden Personen?"
   },
   "intake.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -345,7 +341,7 @@
   },
   "intake.Q6.title.0": {
     "en": "INCLUDING YOU, how many people in each of the following age groups live in your household?",
-    "de": "EINSCHLIESSLICH IHNEN, wie viele Personen der jeweiligen folgenden Altersgruppen leben in Ihrem Haushalt?"
+    "de": "EINSCHLIESSLICH IHNEN, wie viele Personen der jeweiligen Altersgruppen leben in Ihrem Haushalt?"
   },
   "intake.Q6.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -353,7 +349,7 @@
   },
   "intake.Q6.helpGroup.text.1": {
     "en": "Members of larger households, or those with children, may more likely get infected than the others.",
-    "de": "Angehörige größerer Haushalte oder von Haushalten mit Kindern sind einem höheren Ansteckungsrisiko ausgesetzt als andere Personen."
+    "de": "Angehörige grösserer Haushalte oder von Haushalten mit Kindern sind einem höheren Ansteckungsrisiko ausgesetzt als andere Personen."
   },
   "intake.Q6.rg.mat.row0.l.label.0": {
     "en": "0 - 4 years",
@@ -376,7 +372,7 @@
     "de": "Älter als 65 Jahre alte"
   },
   "intake.Q6c.title.0": {
-    "en": "One or several of these people are they at risk of complications in case of flu or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
+    "en": "Does one or several of these people have a higher risk of complications if infected with the flu or COVID (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
     "de": "Besteht bei einer oder mehreren dieser Personen ein erhöhtes Risiko für mögliche Komplikationen im Falle einer Grippen- oder COVID-19-Erkrankung (z. B. Schwangerschaft, über 65 Jahre alt, Grunderkrankung, Übergewichtigkeit usw.)?"
   },
   "intake.Q6c.helpGroup.text.0": {
@@ -437,7 +433,7 @@
   },
   "intake.Q7.title.0": {
     "en": "What means of transportation do you typically use for your daily activities?",
-    "de": "Welches Transportmittel benutzen Sie normalerweise für Ihre täglichen Aktivitäten?"
+    "de": "Welches Transportmittel benutzen Sie im Alltag?"
   },
   "intake.Q7.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -445,7 +441,7 @@
   },
   "intake.Q7.helpGroup.text.1": {
     "en": "We want to know if people who regularly use public transportation have a higher risk of infection.",
-    "de": "Wir wollen herausfinden, ob Menschen, die regelmäßig öffentliche Verkehrsmittel benutzen, ein höheres Infektionsrisiko haben."
+    "de": "Wir wollen herausfinden, ob Menschen, die regelmässig öffentliche Verkehrsmittel benutzen, ein höheres Infektionsrisiko haben."
   },
   "intake.Q7.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -521,7 +517,7 @@
   },
   "intake.Q11.title.0": {
     "en": "Do you take regular medication for any of the following medical conditions?",
-    "de": "Nehmen Sie regelmäßig Medikamente gegen eine der folgenden Krankheiten ein?"
+    "de": "Nehmen Sie regelmässig Medikamente gegen eine der folgenden Krankheiten ein?"
   },
   "intake.Q11.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -661,7 +657,7 @@
   },
   "intake.Q13.rg.scg.option.3": {
     "en": "Yes, daily, 10 or more times a day",
-    "de": "Ja, töglich - mehr als 10 Zigaretten pro Tag"
+    "de": "Ja, täglich - mehr als 10 Zigaretten pro Tag"
   },
   "intake.Q13.rg.scg.option.4": {
     "en": "Yes, only e-cigarettes",
@@ -744,8 +740,8 @@
     "de": "Andere"
   },
   "intake.Q26.title.0": {
-    "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?",
-    "de": "Nehmen Sie oder planen Sie, diesen Winter homöopathische Arzneimittel einzunehmen, um COVID-19 vorzubeugen?"
+    "en": "Are you taking or planning to take homeopathic products to prevent respiratory diseases?",
+    "de": "Nehmen Sie oder planen Sie, in homöopathische Arzneimittel zur Vorbeugung von Atemwegserkrankungen einzunehmen?"
   },
   "intake.Q26.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -772,8 +768,8 @@
     "de": "Ich möchte diese Frage nicht beantworten"
   },
   "intake.Q17.title.0": {
-    "en": "Where did you first hear about the platform?",
-    "de": "Wo haben Sie zum ersten Mal von dieser Plattform erfahren?"
+    "en": "Where did you first hear about Grippenet.ch?",
+    "de": "Wo haben Sie zum ersten Mal von Grippenet.ch erfahren?"
   },
   "intake.Q17.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -816,7 +812,7 @@
     "de": "Andere"
   },
   "intake.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experience during the last week.",
-    "de": "Herzlichen Dank! Für den Moment ist das alles. Bitte reichen Sie Ihre Antworten ein (drücken Sie auf „Senden“). Im Anschluss können Sie den wöchentlichen Fragebogen zu möglichen Symptomen ausfüllen."
+    "en": "Thank you! Please submit your answers. Afterwards, you can fill out the weekly symptom questionnaire.",
+    "de": "Vielen Dank! Bitte senden Sie Ihre Antworten ab. Danach können Sie den wöchentlichen Symptomfragebogen ausfüllen."
   }
 }
