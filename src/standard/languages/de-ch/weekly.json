@@ -808,8 +808,8 @@
     "de": "Aus Sorge, dass eine Krankheit(sdiagnose) meinen Alltag, Job oder meine Freizeit einschränkt."
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against respiratory illnesses (like COVID and flu).",
-    "de": "Weil ich gegen repiratorische Erkrankungen (wie Covid und Grippe) geimpft bin."
+    "en": "Because I am vaccinated against respiratory illnesses (like COVID-19 and flu).",
+    "de": "Weil ich gegen repiratorische Erkrankungen (wie COVID-19 und die Grippe) geimpft bin."
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
@@ -832,7 +832,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
-    "en": "We want to know which complaints lead people to get tested.",
+    "en": "We would like to know which symptoms lead people to get tested.",
     "de": "Wir möchten untersuchen, welche Symptome dazu führen, dass sich Personen testen."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
@@ -860,7 +860,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
-    "en": "We are interested in knowing how many people with symptoms got tested.",
+    "en": "To investigate whether people with (flu-like) symptoms are getting tested.",
     "de": "Um zu untersuchen, ob sich Personen mit (grippeähnlichen) Symptomen testen lassen."
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
@@ -884,7 +884,7 @@
     "de": "Ein Antigen-Schnell-Selbsttest (Nasenabstrich wird selbst durchgeführt und das Ergebnis in wenigen Minuten vorliegt)"
   },
   "weekly.EX.Qcov16b.title.0": {
-    "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
+    "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, choose the 'Positive' answer)",
     "de": "Kennen Sie das Ergebnis Ihres PCR-Tests? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'Positiv')"
   },
   "weekly.EX.Qcov16b.helpGroup.text.0": {
@@ -892,8 +892,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
-    "en": "We want to understand how the coronavirus is spreading within the population.",
-    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerun verbreitet."
+    "en": "We want to understand which virus is spreading within the population.",
+    "de": "Wir möchten verstehen, welcher Virus sich in der Bevölkerun verbreitet."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
@@ -904,15 +904,23 @@
     "de": "Ja, negativ für COVID-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive",
-    "de": "Ja, das Resultat war jedoch nicht ausschlaggebend"
+    "en": "Yes, the results are inconclusive.",
+    "de": "Ja, das Resultat war nicht eindeutig."
   },
   "weekly.EX.Qcov16b.rg.scg.option.3": {
-    "en": "No, I have not yet received the test results",
-    "de": "Nein, ich habe mein Testresultat noch nicht erhalten"
+    "en": "No, I have not yet received the test results.",
+    "de": "Nein, ich habe mein Testresultat noch nicht erhalten."
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.4": {
+    "en": "Yes, positive for the flu",
+    "de": "Ja, positiv für die Grippe"
+  },
+  "weekly.EX.Qcov16b.rg.scg.option.5": {
+    "en": "Yes, negative for the flu",
+    "de": "Ja, negativ für die Grippe"
   },
   "weekly.EX.Qcov16f.title.0": {
-    "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
+    "en": "Do you know the result of this rapid antigen detection test performed using a nasal swab? (if several were performed and at least one was positive, choose the 'Positive' answer)",
     "de": "Kennen Sie das Ergebnis Ihres Antigen-Schnelltests, der durch einem Nasenabstrich (nasopharyngeale Probenahme) durchgeführt wurde? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'positiv')"
   },
   "weekly.EX.Qcov16f.helpGroup.text.0": {
@@ -920,8 +928,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
-    "en": "We want to understand how the coronavirus is spreading within the population.",
-    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
+    "en": "We want to understand which viruses are spreading within the population.",
+    "de": "Wir möchten verstehen, welche Viren sich in der Bevölkerung verbreiten."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
@@ -932,15 +940,23 @@
     "de": "Ja, negativ für COVID-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive",
-    "de": "Ja, das Resultat ist jedoch nicht ausschlaggebend"
+    "en": "Yes, the results are inconclusive.",
+    "de": "Ja, das Testresultat war nicht eindeutig."
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
-    "en": "I don't know / I don't want to answer",
-    "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
+    "en": "I don't want to answer or do not know the result.",
+    "de": "Ich möchte diese Frage nicht beantworten oder kenne das Resultat nicht."
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.4": {
+    "en": "Yes, positive for the flu.",
+    "de": "Ja, positiv für die Grippe."
+  },
+  "weekly.EX.Qcov16f.rg.scg.option.5": {
+    "en": "Yes, negative for for the flu.",
+    "de": "Ja, negativ für die Grippe."
   },
   "weekly.EX.Qcov16k.title.0": {
-    "en": "Do you know the result of this antigenic test or self-test on nasal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
+    "en": "Do you know the result of this antigenic test or self-test performed using a nasal swab? (if several were performed and at least one was positive, choose the “Positive” answer)",
     "de": "Kennen Sie das Ergebnis Ihres Antigentests oder Selbsttests, der durch einen Nasenabstrich durchgeführt wurde? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'Positiv')"
   },
   "weekly.EX.Qcov16k.helpGroup.text.0": {
@@ -952,84 +968,33 @@
     "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "de": "Ja, positiv für COVID-19"
+    "en": "Yes, positive for COVID-19.",
+    "de": "Ja, positiv für COVID-19."
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "de": "Ja, negativ für COVID-19"
+    "en": "Yes, negative for COVID-19.",
+    "de": "Ja, negativ für COVID-19."
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive",
-    "de": "Ja, das Resultat ist jedoch nicht ausschlaggebend"
+    "en": "Yes, the results are inconclusive.",
+    "de": "Ja, das Resultat ist nicht eindeutig."
   },
   "weekly.EX.Qcov16k.rg.scg.option.3": {
-    "en": "I don't know / I don't want to answer",
-    "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
+    "en": "I don't want to answer or do not know the result.",
+    "de": "Ich möchte diese Frage nicht beantworten oder kenne das Resultat nicht."
   },
-  "weekly.EX.Qcov19.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
-    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie die Grippe (Influenza) haben??"
+   "weekly.EX.Qcov16k.rg.scg.option.4": {
+    "en": "Yes, positive for the flu.",
+    "de": "Ja, positiv für die Grippe."
   },
-  "weekly.EX.Qcov19.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "de": "Warum fragen wir Sie das?"
+  "weekly.EX.Qcov16k.rg.scg.option.5": {
+    "en": "Yes, negative for the flu.",
+    "de": "Ja, negativ für die Grippe."
   },
-  "weekly.EX.Qcov19.helpGroup.text.1": {
-    "en": "We want to know which complaints lead people to get tested for the flu.",
-    "de": "Wir möchten untersuchen, welche Sympotme Menschen zum Testen für Grippe (Influenza) bewegen."
-  },
-  "weekly.EX.Qcov19.rg.scg.option.0": {
-    "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample",
-    "de": "Ja, einen PCR-Test mit einem Nasen-Rachen-Abstrich oder einer Sputum- oder Speichelprobe"
-  },
-  "weekly.EX.Qcov19.rg.scg.option.1": {
-    "en": "Yes, a rapid detection test (result available in less than an hour)",
-    "de": "Ja, einen Schnelltest (das Reslutat ist in weniger als einer Stunde vorhanden)"
-  },
-  "weekly.EX.Qcov19.rg.scg.option.2": {
-    "en": "Not yet, I have a prescription and plan to shortly undergo a test",
-    "de": "Noch nicht, es wurde mir jedoch verschrieben mich testen zu lassen und das werde ich bald tun."
-  },
-  "weekly.EX.Qcov19.rg.scg.option.3": {
-    "en": "No, I have a prescription but will not undergo a test",
-    "de": "Nein, es wurde mir zwar verschrieben mich testen zu lassen, das werde ich jedoch nicht tun."
-  },
-  "weekly.EX.Qcov19.rg.scg.option.4": {
-    "en": "No",
-    "de": "Nein"
-  },
-  "weekly.EX.Qcov19b.title.0": {
-    "en": "Have you received the results of your Flu test?",
-    "de": "Haben Sie das Resultat Ihres Grippe(Influenza)-Tests bereits erhalten?"
-  },
-  "weekly.EX.Qcov19b.helpGroup.text.0": {
-    "en": "Why are we asking this question?",
-    "de": "Warum fragen wir Sie das?"
-  },
-  "weekly.EX.Qcov19b.helpGroup.text.1": {
-    "en": "We want to understand how the flu is spreading within the population.",
-    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
-  },
-  "weekly.EX.Qcov19b.rg.scg.option.0": {
-    "en": "Yes, the test is positive for influenza",
-    "de": "Ja, der Test ist postiv für Grippe (Influenza)"
-  },
-  "weekly.EX.Qcov19b.rg.scg.option.1": {
-    "en": "Yes, the test is negative for influenza",
-    "de": "Ja, der Test ist negativ für Grippe (Influenza)"
-  },
-  "weekly.EX.Qcov19b.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive",
-    "de": "Ja, der Test ist jedoch nicht ausschlaggebend"
-  },
-  "weekly.EX.Qcov19b.rg.scg.option.3": {
-    "en": "No, I have not yet received the test results",
-    "de": "Nein, ich habe das Resultat noch nicht erhalten"
-  },
+  
   "weekly.EX.Q9.title.0": {
-    "en": "Did you take medication for these symptoms?",
-    "de": "Haben Sie Medikamente gegen Ihre Symptome eingenommen?"
+    "en": "Did you take medication for your symptoms?",
+    "de": "Haben Sie Medikamente gegen Ihre Symptome genommen?"
   },
   "weekly.EX.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -1037,15 +1002,15 @@
   },
   "weekly.EX.Q9.helpGroup.text.1": {
     "en": "To find out who gets treated, and how effective treatment is.",
-    "de": "Um zu untersuchen, wer behandelt wird und wie wirksam diese Behandlungen jeweils sind."
+    "de": "Um zu untersuchen, wer behandelt wird und wie wirksam diese Behandlung ist."
   },
   "weekly.EX.Q9.helpGroup.text.2": {
     "en": "How should I answer it?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q9.helpGroup.text.3": {
-    "en": "Only record those medications that you used because of this illness. If you are on other medications because of a pre-existing illness then do not record these.",
-    "de": "Geben Sie nur die Medikamente an, die Sie aufgrund Ihrer grippeähnlichen Symptome einnehmen. Wenn Sie aufgrund einer bereits bestehenden Krankheit andere Medikamente einnehmen, tragen Sie diese hier nicht ein."
+    "en": "Only record those medications that you used because of your symptoms. If you are on other medications because of a pre-existing condition, then do not record these.",
+    "de": "Geben Sie nur die Medikamente an, die Sie aufgrund Ihrer Symptome einnehmen. Wenn Sie andere Medikamente aufgrund Vorerkranungen einnehmen, tragen Sie diese hier nicht ein."
   },
   "weekly.EX.Q9.rg.vMc3.text.0": {
     "en": "Select all options that apply",
@@ -1084,8 +1049,8 @@
     "de": "Andere"
   },
   "weekly.EX.Q9.rg.mcg.option.8": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know or can't remember.",
+    "de": "Ich weiss es nicht oder kann mich nicht erinnern."
   },
   "weekly.EX.Q14.title.0": {
     "en": "Because of your symptoms, were you hospitalized?",
@@ -1108,8 +1073,8 @@
     "de": "Nein"
   },
   "weekly.EX.Q10.title.0": {
-    "en": "Did you change your daily routine because of your illness?",
-    "de": "Haben Sie Ihren Tagesablauf aufgrund Ihrer Krankheit geändert??"
+    "en": "Did you change your daily routine because of your symptoms?",
+    "de": "Haben Sie Ihren Tagesablauf aufgrund Ihrer Symptome geändert??"
   },
   "weekly.EX.Q10.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -1124,16 +1089,16 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q10.helpGroup.text.3": {
-    "en": "We want to know if you have missed work or school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student, and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms/complaints and not due to any quarantine.",
-    "de": "Wir möchten wissen, ob Sie aufgrund Ihrer Symptome bei der Arbeit/in der Schule gefehlt haben oder ob Sie Ihren Tagesablauf in irgendeiner Weise verändert haben (z. B. wenn Sie nicht in der Lage waren, Sport zu treiben). Wenn Sie studieren und aufgrund Ihrer Symptome nicht am Online-Unterricht teilnehmen konnten, wählen Sie bitte auch Option 2. Wir sind an Veränderungen interessiert, die auf Ihre Symptome/Beschwerden zurückzuführen sind und nicht auf eine Quarantäne."
+    "en": "We want to know if you have missed work or school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms.",
+    "de": "Wir möchten wissen, ob Sie aufgrund Ihrer Symptome bei der Arbeit/in der Schule gefehlt haben oder ob Sie Ihren Tagesablauf in irgendeiner Weise verändert haben (z. B. wenn Sie nicht in der Lage waren, Sport zu treiben). Wenn Sie studieren und aufgrund Ihrer Symptome nicht am Unterricht teilnehmen konnten, wählen Sie bitte auch Option 2. Wir sind an Veränderungen interessiert, die auf Ihre Symptome zurückzuführen."
   },
   "weekly.EX.Q10.rg.scg.option.0": {
     "en": "No, I was able to go about my daily activities as usual",
-    "de": "Nein, ich war in der Lage, meinen täglichen Aktivitäten wie gewohnt nachzugehen."
+    "de": "Nein, ich konnte meinen Alltag wie gewohnt fortsetzen."
   },
   "weekly.EX.Q10.rg.scg.option.1": {
-    "en": "Yes, but I did not take time off work/school",
-    "de": "Ja, aber ich habe mir keine Auszeit von der Arbeit/Schule genommen."
+    "en": "Yes, but I did not take time off from work or school",
+    "de": "Ja, aber ich habe mir keine Auszeit von der Arbeit oder der Schule genommen."
   },
   "weekly.EX.Q10.rg.scg.option.2": {
     "en": "Yes, I took time off school or work",
