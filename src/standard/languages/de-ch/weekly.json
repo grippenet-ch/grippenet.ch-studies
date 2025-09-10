@@ -1089,32 +1089,32 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q10.helpGroup.text.3": {
-    "en": "We want to know if you have missed work or school due to your symptoms, or if you have modified your daily routine in any way (for example, if you were unable to engage in sport activities). If you are a student and were unable to attend online classes due to your symptoms, you should also select option 2. We are interested in changes due to your symptoms.",
-    "de": "Wir möchten wissen, ob Sie aufgrund Ihrer Symptome bei der Arbeit/in der Schule gefehlt haben oder ob Sie Ihren Tagesablauf in irgendeiner Weise verändert haben (z. B. wenn Sie nicht in der Lage waren, Sport zu treiben). Wenn Sie studieren und aufgrund Ihrer Symptome nicht am Unterricht teilnehmen konnten, wählen Sie bitte auch Option 2. Wir sind an Veränderungen interessiert, die auf Ihre Symptome zurückzuführen."
+    "en": "We want to find out if you have missed work or school due to your symptoms, or if you have modified your daily routine. We are interested in changes due to your symptoms. For example, if you were unable to engage in sport activities. If you are a student and were unable to attend online classes due to your symptoms, you should also select option 2.",
+    "de": "Wir möchten wissen, ob Sie aufgrund Ihrer Symptome bei der Arbeit oder in der Schule gefehlt haben oder ob Sie Ihren Tagesablauf in irgendeiner Weise verändert haben (z. B. wenn Sie nicht in der Lage waren, Sport zu treiben). Wir sind an Veränderungen interessiert, die auf Ihre Symptome zurückzuführen sind. Wenn Sie studieren und aufgrund Ihrer Symptome nicht am Unterricht teilnehmen konnten, wählen Sie bitte auch Option 2."
   },
   "weekly.EX.Q10.rg.scg.option.0": {
-    "en": "No, I was able to go about my daily activities as usual",
-    "de": "Nein, ich konnte meinen Alltag wie gewohnt fortsetzen."
+    "en": "No, I was able to do my daily activities as usual.",
+    "de": "Nein, ich konnte meinem Alltag wie gewohnt nachgehen."
   },
   "weekly.EX.Q10.rg.scg.option.1": {
-    "en": "Yes, but I did not take time off from work or school",
+    "en": "Yes, but I did not take time off from work or school.",
     "de": "Ja, aber ich habe mir keine Auszeit von der Arbeit oder der Schule genommen."
   },
   "weekly.EX.Q10.rg.scg.option.2": {
-    "en": "Yes, I took time off school or work",
-    "de": "Ja, ich habe eine Auszeit von der Arbeit/Schule genommen"
+    "en": "Yes, I took time off from work or school.",
+    "de": "Ja, ich habe eine Auszeit von der Arbeit oder der Schule genommen."
   },
   "weekly.EX.Q10b.title.0": {
-    "en": "Are you currently still unable to work or attend school due to your symptoms/complaints?",
-    "de": "Sind Sie aufgrund Ihrer Symptome/Beschwerden derzeit noch nicht in der Lage, wieder zu arbeiten/die Schule zu besuchen??"
+    "en": "Are you currently still unable to work or attend school due to your symptoms?",
+    "de": "Sind Sie aufgrund Ihrer Symptome derzeit noch nicht in der Lage, wieder zu arbeiten oder in die Schule zu gehen?"
   },
   "weekly.EX.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this question?",
-    "de": "Warum fragen wir Sie das?"
+    "de": "Warum fragen wir das?"
   },
   "weekly.EX.Q10b.helpGroup.text.1": {
-    "en": "To determine how the symptoms are impacting your daily life.",
-    "de": "Um zu untersuchen, wie Ihre Symptome Ihren Alltag beeinträchtigen."
+    "en": "To determine how symptoms are impacting your daily life.",
+    "de": "Um zu untersuchen, wie Ihre Symptome Ihren Alltag beeinflussen."
   },
   "weekly.EX.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -1122,7 +1122,7 @@
   },
   "weekly.EX.Q10b.helpGroup.text.3": {
     "en": "Answer 'yes' if you missed work or school today due to certain symptoms.",
-    "de": "Antworten Sie 'ja', wenn Sie heute wegen Ihren Symptomen bei der Arbeit/in der Schule fehlen mussten."
+    "de": "Antworten Sie mit 'ja', wenn Sie heute wegen Ihrer Symptome bei der Arbeit oder in der Schule fehlen mussten."
   },
   "weekly.EX.Q10b.rg.scg.option.0": {
     "en": "Yes",
@@ -1133,28 +1133,28 @@
     "de": "Nein"
   },
   "weekly.EX.Q10b.rg.scg.option.2": {
-    "en": "Other (I did not have to work or go to school today in any case)",
-    "de": "Andere (ich musste heute sowiso nicht arbeiten/zur Schule gehen)"
+    "en": "Other (I did not have to work or attend school today anyway.)",
+    "de": "Andere (Ich musste heute sowieso nicht arbeiten oder zur Schule gehen.)"
   },
   "weekly.EX.Q10c.title.0": {
-    "en": "For how many days have you been unable to work normally/go to school (when you otherwise would have)?",
-    "de": "Für wie viele Tage waren Sie nicht in der Lage, normal zu arbeiten/zur Schule zu gehen (obwohl Sie das sonst getan hätten)?"
+    "en": "For how many days have you been unable to work or attend to school as you usually would have?",
+    "de": "Für wie viele Tage waren Sie nicht in der Lage, wie gewöhnlich zu arbeiten oder zur Schule zu gehen?"
   },
   "weekly.EX.Q10c.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Q10c.helpGroup.text.1": {
-    "en": "To calculate the number of days a person misses work or school due to certain symptoms.",
-    "de": "Um die Anzahl Tage, an denen eine Person aufgrund bestimmter Symptome der Arbeit oder der Schule fernbleibt, zu berechnen."
+    "en": "To estimate the number of days a person misses work or school due to certain symptoms.",
+    "de": "Um zu evaluieren, wie viele Tage eine Person aufgrund bestimmter Symptome nicht arbeiten oder zur Schule gehen kann."
   },
   "weekly.EX.Q10c.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Q10c.helpGroup.text.3": {
-    "en": "Only count the days that you would otherwise have gone to work or school. Provide as precise an estimate as possible.",
-    "de": "Zählen Sie nur die Tage, an denen Sie sonst zur Arbeit/Schule gegangen wären. Bitte geben Sie eine möglichst genaue Schätzung ab."
+    "en": "Only count the days that you would otherwise have worked or attended school.",
+    "de": "Zählen Sie nur die Tage, an denen Sie sonst gearbeitet hätten oder zur Schule gegangen wären."
   },
   "weekly.EX.Q10c.rg.ddg.option.0": {
     "en": "1 day",
@@ -1189,24 +1189,24 @@
     "de": "Mehr als 15 Tage"
   },
   "weekly.EX.Qcov7.title.0": {
-    "en": "Did you begin to follow or increase any of the measures below, due to your symptoms (compared to the period before your symptoms began)?",
-    "de": "Haben Sie aufgrund Ihrer Symptome begonnen, eine der folgenden Maßnahmen zu befolgen oder verstärkt zu befolgen (im Vergleich zu der Zeit vor Beginn Ihrer Symptome)??"
+    "en": "Did you follow or increase any of the following measures, due to your symptoms?",
+    "de": "Haben Sie aufgrund Ihrer Symptome begonnen, eine der folgenden Massnahmen zu verfolgen oder verstärken?"
   },
   "weekly.EX.Qcov7.helpGroup.text.0": {
     "en": "Why are we asking this question?",
-    "de": "Warum fragen wir Sie das?"
+    "de": "Warum fragen wir das?"
   },
   "weekly.EX.Qcov7.helpGroup.text.1": {
-    "en": "To examine how different measures are being followed.",
-    "de": "Um zu untersuchen, wie die unterschiedlichen Massnahmen befolgt werden."
+    "en": "To evaluate which measures are followed.",
+    "de": "Um zu evaluieren, welche Massnahmen verfolgt werden."
   },
   "weekly.EX.Qcov7.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "weekly.EX.Qcov7.helpGroup.text.3": {
-    "en": "For example, 'Avoid shaking hands': Answer 'yes' if you shake hands less or not at all due to your symptoms; Answer 'No, I am not following this measure' if you continue to shake hands despite your symptoms; Answer 'No, I was already following this measure' if you had already stopped shaking hands before the onset of your symptoms and you did not change this behaviour.",
-    "de": "Zum Beispiel: 'Vermeiden Sie das Händeschütteln': Antworten Sie mit 'Ja, ich befolge diese Massnahme neu oder in einer strengeren Form', wenn Sie aufgrund Ihrer Symptome weniger oder gar nicht die Hände anderer Menschen schütteln; Antworten Sie mit 'Nein, ich befolge diese Maßnahme nicht', wenn Sie trotz Ihrer Symptome weiterhin die Hände anderer Menschen schütteln; Antworten Sie mit 'Nein, ich habe diese Maßnahme bereits befolgt', wenn Sie bereits vor dem Auftreten Ihrer Symptome das Händeschütteln eingestellt hatten und dieses Verhalten nicht geändert haben."
+    "en": "For example, 'Avoid shaking hands': Answer 'yes' if you shake hands less or not at all due to your symptoms; Answer 'No, I am not following this measure' if you continue to shake hands despite your symptoms; Answer 'No, I have always been following this measure' if you have already stopped shaking hands before the onset of your symptoms and you did not change this behaviour.",
+    "de": "Zum Beispiel: 'Vermeiden Sie das Händeschütteln': Antworten Sie mit 'Ja, ich befolge diese Massnahme neu oder verstärkt', wenn Sie aufgrund Ihrer Symptome weniger oder gar nicht die Hände anderer Personen schütteln; Antworten Sie mit 'Nein, ich befolge diese Massnahme nicht', wenn Sie die Hände anderer Menschen weiterhin schütteln; Antworten Sie mit 'Nein, ich habe diese Massnahme bereits befolgt', wenn Sie bereits vor dem Auftreten Ihrer Symptome das Händeschütteln vermieden haben und dieses Verhalten nicht änderten."
   },
   "weekly.EX.Qcov7.rg.gU4U.text.0": {
     "en": "To be completed optionally",
@@ -1217,16 +1217,16 @@
     "de": "Waschen oder desinfizieren Sie Ihre Hände regelmässig"
   },
   "weekly.EX.Qcov7.rg.likert_1.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_1.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt "
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_1.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_1.option.3": {
     "en": "Not applicable",
@@ -1234,19 +1234,19 @@
   },
   "weekly.EX.Qcov7.rg.nEMR.text.3": {
     "en": "Cough or sneeze into your elbow",
-    "de": "Niesen oder husten Sie in Ihre Armbeuge/Ellenbogen"
+    "de": "Niesen oder husten Sie in Ihre Ellenbogen"
   },
   "weekly.EX.Qcov7.rg.likert_2.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_2.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_2.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_2.option.3": {
     "en": "Not applicable",
@@ -1257,56 +1257,56 @@
     "de": "Verwenden Sie ein Einwegtaschentuch"
   },
   "weekly.EX.Qcov7.rg.likert_3.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_3.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_3.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_3.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.7w6F.text.7": {
-    "en": "Wear a face mask indoors",
+    "en": "Wear a face mask indoor",
     "de": "Tragen Sie eine Maske in Innenräumen"
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_4a.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.vHvi.text.9": {
-    "en": "Wear a face mask outdoors",
+    "en": "Wear a face mask outdoor",
     "de": "Tragen Sie eine Maske draussen"
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_4b.option.3": {
     "en": "Not applicable",
@@ -1317,36 +1317,36 @@
     "de": "Vermeiden Sie das Händeschütteln"
   },
   "weekly.EX.Qcov7.rg.likert_5.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_5.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_5.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_5.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.ioJs.text.13": {
-    "en": "Stop greeting by hugging and/or kissing on both cheeks",
-    "de": "Vermeiden Sie es als Begrüssung Ihre Mitmenschen zu umarmen oder zu küssen"
+    "en": "Avoid greeting by hugging or kissing",
+    "de": "Vermeiden Sie bei der Begrüssung Ihre Mitmenschen zu umarmen oder zu küssen"
   },
   "weekly.EX.Qcov7.rg.likert_11.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_11.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_11.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_11.option.3": {
     "en": "Not applicable",
@@ -1357,36 +1357,36 @@
     "de": "Limitieren Sie die Benutzung von öffentlichen Verkehrsmitteln"
   },
   "weekly.EX.Qcov7.rg.likert_6.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_6.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_6.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+     "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_6.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.Ijdr.text.17": {
-    "en": "Avoid busy places and gatherings (supermarket, cinema, stadium)",
-    "de": "Meiden Sie belebte öffentliche Orte und Menschenansammlungen (Supermarkt, Kino, Stadion...)"
+    "en": "Avoid busy places and gatherings (e.g. concerts, cinema, supermarkets,..)",
+    "de": "Meiden Sie belebte öffentliche Orte und Menschenansammlungen (z.B. Konzerte, Kino, Einkaufszentren,..)"
   },
   "weekly.EX.Qcov7.rg.likert_7.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_7.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_7.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_7.option.3": {
     "en": "Not applicable",
@@ -1397,76 +1397,76 @@
     "de": "Bleiben Sie Zuhause"
   },
   "weekly.EX.Qcov7.rg.likert_8.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_8.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_8.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_8.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.z4bE.text.21": {
-    "en": "Telework or increase your number of telework days",
+    "en": "Work from home (more often) (teleworking)",
     "de": "Arbeiten Sie (vermehrt) von Zuhause aus (Homeoffice)"
   },
   "weekly.EX.Qcov7.rg.likert_9.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_9.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_9.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_9.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.Koue.text.23": {
-    "en": "Avoid travel outside your own country or region",
-    "de": "Vermeiden Sie Reisen außerhalb Ihres Wohnsitzlandes oder Ihrer Region"
+    "en": "Avoid (international) travel",
+    "de": "Vermeiden Sie (internationale) Reisen"
   },
   "weekly.EX.Qcov7.rg.likert_10.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_10.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_10.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_10.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.zuDa.text.25": {
-    "en": "Have your food/shopping delivered by a store or a friend/family member",
-    "de": "Lassen Sie Ihre Lebensmittel/Einkäufe von einem Geschäft oder einem Freund/Familienmitglied nach Hause liefern"
+    "en": "Have your shopping delivered to your home",
+    "de": "Lassen Sie Ihre Einkäufe nach Hause liefern"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_13.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_13.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_13.option.3": {
     "en": "Not applicable",
@@ -1474,39 +1474,39 @@
   },
   "weekly.EX.Qcov7.rg.QSBP.text.27": {
     "en": "Avoid seeing friends and family",
-    "de": "Vermeiden Sie es, Freund:innen und Familie zu treffen"
+    "de": "Vermeiden Sie es, Freunde und Familie zu treffen"
   },
   "weekly.EX.Qcov7.rg.likert_14.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_14.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_14.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_14.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.EX.Qcov7.rg.fRla.text.29": {
-    "en": "Avoid being in contact with people over 65 years old or with a chronic disease",
-    "de": "Vermeiden Sie den Kontakt mit Menschen, die älter als 65 Jahre sind oder an einer chronischen Krankheit leiden"
+    "en": "Avoid contact with persons over 65 years of age or those with chronic diseases",
+    "de": "Vermeiden Sie den Kontakt mit Personen über 65 Jahre oder chronischen Kranken"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_15.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_15.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nichte"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_15.option.3": {
     "en": "Not applicable",
@@ -1517,23 +1517,23 @@
     "de": "Vermeiden Sie den Kontakt mit Kindern"
   },
   "weekly.EX.Qcov7.rg.likert_16.option.0": {
-    "en": " Yes, I am following this measure now for the first time, or in a stricter way",
-    "de": "Ja, ich befolge diese Massnahme neu oder in einer strengeren Form"
+    "en": "Yes, I am newly or more strictly following this measure.",
+    "de": "Ja, ich befolge diese Massnahme neu oder strikter."
   },
   "weekly.EX.Qcov7.rg.likert_16.option.1": {
-    "en": "No, I was already following this measure",
-    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt"
+    "en": "No, I have already been following this measure.",
+    "de": "Nein, ich habe diese Massnahme bereits zuvor befolgt."
   },
   "weekly.EX.Qcov7.rg.likert_16.option.2": {
-    "en": "No, I am not following this measure",
-    "de": "Nein, ich befolge diese Maßnahme nicht"
+    "en": "No, I am not following this measure.",
+    "de": "Nein, ich befolge diese Massnahme nicht."
   },
   "weekly.EX.Qcov7.rg.likert_16.option.3": {
     "en": "Not applicable",
     "de": "Nicht zutreffend"
   },
   "weekly.surveyEnd.title.0": {
-    "en": "Thank you for your support! You will have completed this week's questionnaire once you submit it. You will be asked to complete this weekly questionnaire again next week.",
-    "de": "Vielen Dank für Ihre Unterstützung! Sie sind fertig, sobald Sie den Fragebogen absenden. Nächste Woche werden Sie erneut gebeten, diesen wöchentlichen Fragebogen auszufüllen."
+    "en": "Once submitted, this week’s questionnaire is complete. You will be asked to coplete it again next week. Thank you for your support!",
+    "de": "Mit dem Absenden ist der Fragebogen für diese Woche abgeschlossen. Nächste Woche werden Sie erneut gebeten den Fragebogen auszufüllen. Vielen Dank für Ihre Unterstützung!"
   }
 }
