@@ -45,7 +45,7 @@
     "en": "I don't know/I can't remember"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine (influenza) this autumn/winter (2023-2024)?"
+    "en": "Have you received a flu vaccine (influenza) this autumn/winter (2024-2025)?"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -69,7 +69,7 @@
     "en": "I don't know/I can't remember"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu (inlfuenza) this season (2023-2024)?"
+    "en": "When were you vaccinated against flu (inlfuenza) this season (2024-2025)?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -132,7 +132,7 @@
     "en": "Describe here (optional)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting the seasonal influenza vaccination this season (2023/2024)?"
+    "en": "What were your reasons for NOT getting the seasonal influenza vaccination this season (2024-2025)?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?"

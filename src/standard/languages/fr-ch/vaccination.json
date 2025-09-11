@@ -60,8 +60,8 @@
     "fr": "Je ne sais pas / Je ne me souviens pas"
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
-    "fr": "Avez-vous reçu un vaccin contre la grippe cet automne ou cet hiver (2023-2024) ?"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2024-2025)",
+    "fr": "Avez-vous reçu un vaccin contre la grippe cet automne ou cet hiver (2024-2025) ?"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -92,8 +92,8 @@
     "fr": "Je ne sais pas / Je ne me souviens pas"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2023-2024)?",
-    "fr": "Quand avez-vous été vacciné-e contre la grippe cette saison (2023-2024) ?"
+    "en": "When were you vaccinated against flu this season (2024-2025)?",
+    "fr": "Quand avez-vous été vacciné-e contre la grippe cette saison (2024-2025) ?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -176,8 +176,8 @@
     "fr": "Veuillez fournir une description ici (facultatif)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2023/2024?",
-    "fr": "Quelles sont les raisons pour lesquelles vous n'avez PAS été vacciné-e contre la grippe au cours de la saison 2023-2024 ?"
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2024-2025?",
+    "fr": "Quelles sont les raisons pour lesquelles vous n'avez PAS été vacciné-e contre la grippe au cours de la saison 2024-2025 ?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",

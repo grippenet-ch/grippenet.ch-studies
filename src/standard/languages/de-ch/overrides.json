@@ -1,22 +1,22 @@
 {
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season (2023-2024)?",
-    "de": "Haben Sie in der letzten Grippesaison (2023-2024) eine Grippeimpfung (Influenza) erhalten?"
+    "en": "Did you receive a flu vaccine during the previous flu season (2024-2025)?",
+    "de": "Haben Sie in der letzten Grippesaison (2024-2025) eine Grippeimpfung (Influenza) erhalten?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2023-2024.",
-    "de": "Antworten Sie mit \"Ja\", wenn Sie im Herbst/Winter (2023-2024) geimpft wurden."
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2024-2025.",
+    "de": "Antworten Sie mit \"Ja\", wenn Sie im Herbst/Winter (2024-2025) geimpft wurden."
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2024-2025)",
-    "de": "Haben Sie in dieser Herbst-/Wintersaison eine Grippeimpfung erhalten (2024-2025)?"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2025-2026)",
+    "de": "Haben Sie in dieser Herbst-/Wintersaison eine Grippeimpfung erhalten (2025-2026)?"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2024-2025)?",
-    "de": "Wann wurden Sie in dieser Saison (2024-2025) gegen die Grippe (Influenza) geimpft?"
+    "en": "When were you vaccinated against flu this season (2025-2026)?",
+    "de": "Wann wurden Sie in dieser Saison (2025-2026) gegen die Grippe (Influenza) geimpft?"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2024/2025?",
-    "de": "Was waren Ihre Gründe, sich NICHT gegen die saisonale Grippe (Influenza) in dieser Saison (2024/2025) impfen zu lassen?"
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2025-2026?",
+    "de": "Was waren Ihre Gründe, sich NICHT gegen die saisonale Grippe (Influenza) in dieser Saison (2025-2026) impfen zu lassen?"
   },
 }

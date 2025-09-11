@@ -1,22 +1,22 @@
 {
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season (2023-2024)?",
-    "fr": "Avez-vous reçu un vaccin contre la grippe au cours de la saison précédente (2023-2024) ?"
+    "en": "Did you receive a flu vaccine during the previous flu season (2024-2025)?",
+    "fr": "Avez-vous reçu un vaccin contre la grippe au cours de la saison précédente (2024-2025) ?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2023-2024.",
-    "fr": "Veuillez répondre \"oui\" si vous avez été vacciné-e durant l'automne ou l'hiver 2023-2024."
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2024-2025.",
+    "fr": "Veuillez répondre \"oui\" si vous avez été vacciné-e durant l'automne ou l'hiver 2024-2025."
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2024-2025)",
-    "fr": "Avez-vous reçu un vaccin contre la grippe cet automne ou cet hiver (2024-2025) ?"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2025-2026)",
+    "fr": "Avez-vous reçu un vaccin contre la grippe cet automne ou cet hiver (2025-2026) ?"
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2024-2025)?",
-    "fr": "Quand avez-vous été vacciné-e contre la grippe cette saison (2024-2025) ?"
+    "en": "When were you vaccinated against flu this season (2025-2026)?",
+    "fr": "Quand avez-vous été vacciné-e contre la grippe cette saison (2025-2026) ?"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2024/2025?",
-    "fr": "Quelles sont les raisons pour lesquelles vous n'avez PAS été vacciné-e contre la grippe au cours de la saison 2024-2025 ?"
+    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2025-2026?",
+    "fr": "Quelles sont les raisons pour lesquelles vous n'avez PAS été vacciné-e contre la grippe au cours de la saison 2025-2026 ?"
   },
 }
