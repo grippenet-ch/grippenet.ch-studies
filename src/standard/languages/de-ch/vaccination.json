@@ -4,32 +4,32 @@
     "de": "Impffragebogen"
   },
   "vaccination.description.0": {
-    "en": "The purpose of the vaccination questionnaire is to find out more about protection given by the vaccine and monitor vaccination uptake in Italy.",
-    "de": "Der Zweck dieses Impffragebogens besteht darin, mehr über den Impfschutz zu erfahren und die Entwicklung der Impfrate in der Schweiz zu überwachen."
+    "en": "The purpose of this questionnaire about 'vaccination' is to find out more about protection and vaccination uptake in Switzerland.",
+    "de": "Der Zweck dieses Impffragebogens ist, mehr über den Impfschutz und die Impfrate in der Schweiz zu erfahren."
   },
   "vaccination.typicalDuration.0": {
     "en": "Duration 5-10 minutes",
     "de": "Dauer 5-10 Minuten"
   },
   "vaccination.Q0.title.0": {
-    "en": "Four weeks ago you received a questionnaire about your vaccination status.  This new questionnaire is to monitor any further changes. Select the option that applies to you.",
-    "de": "Vor vier Wochen haben Sie einen Fragebogen zu Ihrem Impfstatus erhalten. Dieser neue Fragebogen dient dazu, mögliche Veränderungen bzgl. Ihrem Impfstatus zu überwachen. Wählen Sie die Option an, die auf Sie zutrifft."
+    "en": "This questionnaire helps to monitor any further changes. Select the option that applies to you.",
+    "de": "Dieser Fragebogen dient , mögliche Veränderungen bzgl. Ihrem Impfstatus zu erfassen. Wählen Sie die Option an, die auf Sie zutrifft."
   },
   "vaccination.Q0.rg.scg.option.0": {
-    "en": "In the meantime I received a new vaccine dose, or a new invitation to be vaccinated.",
+    "en": "In the meantime, I received a new vaccine dose, or a new invitation to be vaccinated.",
     "de": "In der Zwischenzeit habe ich eine weitere Impfstoffdosis oder eine Aufforderung, mich impfen zu lassen, erhalten."
   },
   "vaccination.Q0.rg.scg.option.1": {
-    "en": "In the meantime nothing has changed in terms of vaccination for me.",
-    "de": "In der Zwischenzeit hat sich in Bezug auf meinen Impfstatus nichts verändert."
+    "en": "In the meantime, nothing has changed in terms of vaccination.",
+    "de": "In der Zwischenzeit hat sich nichts in meinem Impfstatus verändert."
   },
   "vaccination.Q0.rg.scg.option.2": {
     "en": "I'm not sure, and would like to take these questions to make sure my information on vaccination is up to date.",
     "de": "Ich bin mir nicht sicher und möchte diesen Fragebogen beantworten, um sicherzugehen, dass die Informationen über meinen Impfstatus auf dem neuesten Stand sind."
   },
   "vaccination.HV.Q9.title.0": {
-    "en": "Did you receive a flu vaccine during the previous flu season (2022-2023)?",
-    "de": "Haben Sie in der letzten Grippesaison (2022-2023) eine Grippeimpfung (Influenza) erhalten?"
+    "en": "Did you receive a flu vaccine during the previous flu season (2023-2024)?",
+    "de": "Haben Sie in der letzten Grippesaison (2024-2025) eine Grippeimpfung (Influenza) erhalten?"
   },
   "vaccination.HV.Q9.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -44,8 +44,8 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q9.helpGroup.text.3": {
-    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2022-2023.",
-    "de": "Antworten Sie mit \"Ja\", wenn Sie im Herbst/Winter (2022-2023) geimpft wurden."
+    "en": "Answer 'yes' if you were vaccinated in autumn/winter 2024-2025.",
+    "de": "Antworten Sie mit \"Ja\", wenn Sie im Herbst/Winter (2024-2025) geimpft wurden."
   },
   "vaccination.HV.Q9.rg.scg.option.0": {
     "en": "Yes",
@@ -56,20 +56,20 @@
     "de": "Nein"
   },
   "vaccination.HV.Q9.rg.scg.option.2": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q10.title.0": {
-    "en": "Have you received a flu vaccine this autumn/winter season? (2023-2024)",
-    "de": "Haben Sie in dieser Herbst-/Wintersaison eine Grippeimpfung erhalten (2023-2024)?"
+    "en": "Have you received a flu vaccine this autumn/winter season? (2025-2026)",
+    "de": "Haben Sie in dieser Herbst-/Wintersaison eine Grippeimpfung erhalten (2025-2026)?"
   },
   "vaccination.HV.Q10.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q10.helpGroup.text.1": {
-    "en": "We would like to be able to work out how much protection the vaccine gives.",
-    "de": "Wir möchten die Wirksamkeit des Impfschutzes untersuchen."
+    "en": "We would like to investigate the protection of the given vaccine.",
+    "de": "Wir möchten den Impfschutzes untersuchen."
   },
   "vaccination.HV.Q10.helpGroup.text.2": {
     "en": "How should I answer it?",
@@ -77,7 +77,7 @@
   },
   "vaccination.HV.Q10.helpGroup.text.3": {
     "en": "Report yes, if you received the vaccine this season, usually in the autumn. If you get vaccinated after filling in this questionnaire, please return to this and update your answer.",
-    "de": "Wählen Sie \"Ja\", wenn Sie sich diese Saison haben impfen lassen (normalerweise im Herbst). Wenn Sie sich nach dem Ausfüllen dieses Fragebogens impfen werden, melden Sie uns dies bitte nachträglich indem Sie diesen Fragebogen updaten.  "
+    "de": "Wählen Sie \"Ja\", wenn Sie sich diese Saison haben impfen lassen (normalerweise im Herbst). Wenn Sie sich nach dem Ausfüllen dieses Fragebogens impfen werden, melden Sie uns dies bitte beim nächsten Ausüllen des Fragebogens."
   },
   "vaccination.HV.Q10.rg.scg.option.0": {
     "en": "Yes",
@@ -88,12 +88,12 @@
     "de": "Nein"
   },
   "vaccination.HV.Q10.rg.scg.option.2": {
-    "en": "I don't know/can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q10b.title.0": {
-    "en": "When were you vaccinated against flu this season (2023-2024)?",
-    "de": "Wann wurden Sie in dieser Saison (2023-2024) gegen die Grippe (Influenza) geimpft?"
+    "en": "When were you vaccinated against flu this season (2025-2026)?",
+    "de": "Wann wurden Sie in dieser Saison (2025-2026) gegen die Grippe (Influenza) geimpft?"
   },
   "vaccination.HV.Q10b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -108,16 +108,16 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q10b.helpGroup.text.3": {
-    "en": "Try to answer as precisely as possible. If you do not know the exact date, provide as close an estimate as possible. For example, if you remember the month, try to recall if it was in the beginning or end of the month. Did any important events take place (such as holidays or birthdays) that may help you to refresh your memory?",
-    "de": "Versuchen Sie, so präzise wie möglich die Frage zu beantworten. Wenn Sie das genaue Datum nicht kennen, geben Sie eine möglichst genaue Schätzung an. Wenn Sie sich zum Beispiel an den Monat erinnern, versuchen Sie sich daran zu erinnern, ob es am Anfang oder am Ende des Monats war. Versuchen Sie sich an wichtige Ereignisse (z. B. Feiertage oder Geburtstage) zu erinnern, die Ihnen helfen könnten, Ihr Gedächtnis aufzufrischen."
+    "en": "Try to answer as precisely as possible. If you do not know the exact date, provide as close an estimate as possible. For example, if you remember the month, try to recall if it was in the beginning or end of the month.",
+    "de": "Versuchen Sie, so präzise wie möglich die Frage zu beantworten. Wenn Sie das genaue Datum nicht kennen, geben Sie eine möglichst genaue Schätzung an. Wenn Sie sich zum Beispiel an den Monat erinnern, versuchen Sie sich daran zu erinnern, ob es am Anfang oder am Ende des Monats war."
   },
   "vaccination.HV.Q10b.rg.scg.description.dateInput.0": {
     "en": "Choose date",
     "de": "Datum auswählen"
   },
   "vaccination.HV.Q10b.rg.scg.option.1": {
-    "en": "I don't know (anymore)",
-    "de": "Ich erinnere mich nicht (mehr)"
+    "en": "I don't remember.",
+    "de": "Ich erinnere mich nicht (mehr)."
   },
   "vaccination.HV.Q10c.title.0": {
     "en": "What were your reasons for getting a seasonal influenza vaccination this year?",
@@ -128,44 +128,44 @@
     "de": "Wählen Sie die Antworten aus, die am meisten zutreffen"
   },
   "vaccination.HV.Q10c.rg.mcg.option.0": {
-    "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc)",
-    "de": "Ich gehöre zu einer Risikogruppe (z. B. Schwangerschaft, über 65 Jahre alt, grundlegende gesundheitliche Probleme usw.)"
+    "en": "I belong to a risk group (e.g, pregnant, over 65, underlying health condition, etc).",
+    "de": "Ich gehöre zu einer Risikogruppe (z.B. Schwangerschaft, über 65 Jahre alt, grundlegende gesundheitliche Probleme usw.)."
   },
   "vaccination.HV.Q10c.rg.mcg.option.1": {
-    "en": "Vaccination decreases my risk of getting influenza",
-    "de": "Die Impfung senkt mein Risiko, mich mit Grippe (Influenza) anzustecken"
+    "en": "Vaccination decreases my risk of getting influenza.",
+    "de": "Die Impfung senkt mein Risiko, an Grippe (Influenza) zu erkranken."
   },
   "vaccination.HV.Q10c.rg.mcg.option.2": {
-    "en": "Vaccination decreases the risk of spreading influenza to others",
-    "de": "Die Impfung verringert mein Risiko, andere mit der Grippe (Influenza) anzustecken."
+    "en": "I like to protect others by getting vaccinated.",
+    "de": "Ich möchte andere schützen mit meiner Impfung."
   },
   "vaccination.HV.Q10c.rg.mcg.option.3": {
-    "en": "My doctor recommended it",
-    "de": "Die Impfung wurde von meinem/r Ärzt:in empfohlen"
+    "en": "My doctor recommended it.",
+    "de": "Die Impfung wurde von meinem/r Ärzt:in empfohlen."
   },
   "vaccination.HV.Q10c.rg.mcg.option.4": {
     "en": "It was recommended in my workplace/school",
     "de": "Die Impfung wurde von meinem Arbeitsplatz/meiner Schule empfohlen"
   },
   "vaccination.HV.Q10c.rg.mcg.option.5": {
-    "en": "The vaccine was readily available and vaccine administration was convenient",
-    "de": "Die Impfung war breit verfügbar und einfach zugänglich"
+    "en": "The vaccine administration was convenient.",
+    "de": "Die Impfung war einfach zugänglich."
   },
   "vaccination.HV.Q10c.rg.mcg.option.6": {
-    "en": "The vaccine was free (no cost)",
-    "de": "Die Impfung war gratis (keine Kosten)"
+    "en": "The vaccine is free of charge.",
+    "de": "Die Impfung ist gratis."
   },
   "vaccination.HV.Q10c.rg.mcg.option.7": {
-    "en": "I don't want to miss work/school",
-    "de": "Ich möchte die Arbeit/Schule nicht verpassen"
+    "en": "I don't want to miss work or school.",
+    "de": "Ich möchte nicht bei der Arbeit oder in der Schule fehlen."
   },
   "vaccination.HV.Q10c.rg.mcg.option.8": {
-    "en": "I always get the vaccine",
-    "de": "Ich lasse mich immer impfen"
+    "en": "I have always gotten the vaccine.",
+    "de": "Ich lasse mich jedes Jahr impfen."
   },
   "vaccination.HV.Q10c.rg.mcg.option.9": {
-    "en": "I try to protect myself against infections, because of the circulation of the pandemic coronavirus",
-    "de": "Ich versuche mich vor Infektionen zu schützen wegen der anhalten COVID-19 Pandemie"
+    "en": "I try to protect myself against infections.",
+    "de": "Ich versuche mich vor Infektionen zu schützen."
   },
   "vaccination.HV.Q10c.rg.mcg.input.10": {
     "en": "Other reason(s)",
@@ -176,8 +176,8 @@
     "de": "Beschreiben Sie diese hier (optional)"
   },
   "vaccination.HV.Q10d.title.0": {
-    "en": "What were your reasons for NOT getting a seasonal influenza vaccination in season 2023/2024?",
-    "de": "Was waren Ihre Gründe, sich NICHT gegen die saisonale Grippe (Influenza) in dieser Saison (2023/2024) impfen zu lassen?"
+    "en": "What were your reasons to NOT get a seasonal influenza vaccination in season 2025/2026?",
+    "de": "Was waren Ihre Gründe, sich NICHT gegen die saisonale Grippe (Influenza) in dieser Saison (2025/2026) impfen zu lassen?"
   },
   "vaccination.HV.Q10d.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -185,7 +185,7 @@
   },
   "vaccination.HV.Q10d.helpGroup.text.1": {
     "en": "We would like to know why some people get vaccinated and others do not.",
-    "de": "Wir möchten untersuchen, warum manche Menschen sich impfen lassen und andere nicht."
+    "de": "Wir möchten untersuchen, warum manche Personen sich impfen lassen und andere nicht."
   },
   "vaccination.HV.Q10d.helpGroup.text.2": {
     "en": "How should I answer it?",
@@ -200,60 +200,60 @@
     "de": "Wählen Sie die Antworten aus, die am meisten zutreffen"
   },
   "vaccination.HV.Q10d.rg.mcg.option.0": {
-    "en": "I am planning to be vaccinated, but haven't been yet",
-    "de": "Ich habe vor mich impfen zu lassen, habe dies jedoch noch nicht gemacht."
+    "en": "I am planning to get vaccinated, but haven't been yet",
+    "de": "Ich habe vor mich impfen zu lassen, habe dies jedoch noch nicht getan."
   },
   "vaccination.HV.Q10d.rg.mcg.option.1": {
-    "en": "I haven't been offered the vaccine",
-    "de": "Mir wurde die Impfung nie angeboten"
+    "en": "I haven't been recommended or offered the vaccine.",
+    "de": "Mir wurde die Impfung nie empfohlen oder angeboten."
   },
   "vaccination.HV.Q10d.rg.mcg.option.2": {
     "en": "I don't belong to a risk group",
     "de": "Ich gehöre zu keiner Risikogruppe"
   },
   "vaccination.HV.Q10d.rg.mcg.option.3": {
-    "en": "It is better to build your own natural immunity against influenza",
-    "de": "Ich finde es ist besser, eine körpereigene natürliche Immunität gegen die Grippe (Influenza) aufzubauen"
+    "en": "I think it is better to build natural immunity.",
+    "de": "Ich finde es ist besser, eine Immunität ohne Impfung aufzubauen."
   },
   "vaccination.HV.Q10d.rg.mcg.option.4": {
-    "en": "I doubt that the influenza vaccine is effective",
-    "de": "Ich bezweifle dass die Grippeimpfung wirksam ist"
+    "en": "I dout that the influenza vaccine is effective.",
+    "de": "Ich zweifle, dass die Grippeimpfung wirksam ist."
   },
   "vaccination.HV.Q10d.rg.mcg.option.5": {
-    "en": "Influenza is a minor illness",
-    "de": "Die Grippe (Influenza) ist eine milde Erkrankung"
+    "en": "Influenza is a minor disease.",
+    "de": "Die Grippe (Influenza) ist eine milde Erkrankung."
   },
   "vaccination.HV.Q10d.rg.mcg.option.6": {
-    "en": "I don't think I am likely to get influenza",
-    "de": "Ich glaube es ist unwahrscheinlich, dass ich mich mit der Grippe (Influenza) anstecke"
+    "en": "I don't think I am likely to get influenza.",
+    "de": "Ich glaube es ist unwahrscheinlich, dass ich mich mit der Grippe (Influenza) anstecke."
   },
   "vaccination.HV.Q10d.rg.mcg.option.7": {
-    "en": "I believe that influenza vaccine can cause influenza",
-    "de": "Ich glaube dass die Grippeimpfung eine Grippe verursachen kann"
+    "en": "I believe that influenza vaccine can cause Influenza.",
+    "de": "Ich glaube, dass die Grippeimpfung eine Grippe verursachen kann."
   },
   "vaccination.HV.Q10d.rg.mcg.option.8": {
-    "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "de": "Ich bin besorgt, dass die Impfung nicht sicher ist oder Krankheiten/weitere unerwünschte Nebenwirkungen verursachen kann"
+    "en": "I am worried that the vaccine is not safe or will cause adverse events.",
+    "de": "Ich bin besorgt, dass die Impfung nicht sicher ist oder unerwünschte Nebenwirkungen verursachen kann."
   },
   "vaccination.HV.Q10d.rg.mcg.option.9": {
-    "en": "I don't like having vaccinations",
-    "de": "Ich lasse mich nicht gerne impfen"
+    "en": "I don't like to get vaccinated.",
+    "de": "Ich lasse mich nicht gerne impfen."
   },
   "vaccination.HV.Q10d.rg.mcg.option.10": {
-    "en": "The vaccine is not readily available to me",
-    "de": "Die Impfung ist nicht einfach zugänglich/verfügbar für mich"
+    "en": "The vaccine is not available for me.",
+    "de": "Die Impfung ist nicht verfügbar für mich."
   },
   "vaccination.HV.Q10d.rg.mcg.option.11": {
-    "en": "The vaccine is not free of charge",
-    "de": "Die Impfung ist nicht gratis"
+    "en": "The vaccine is not free of charge.",
+    "de": "Die Impfung ist nicht gratis."
   },
   "vaccination.HV.Q10d.rg.mcg.option.12": {
     "en": "No particular reason",
-    "de": "Kein besonderer Grund"
+    "de": "Keinen besonderen Grund"
   },
   "vaccination.HV.Q10d.rg.mcg.option.13": {
-    "en": "Although my doctor recommend a vaccine, I do not get one",
-    "de": "Obwohl es mir von meinem/r Ärzt:in empfohlen wurde, habe ich mich nicht impfen lassen"
+    "en": "Although my doctor recommend a vaccine, I do not get vaccinated.",
+    "de": "Obwohl mir mein/e Ärzt:in eine Impfung empfohlen hat, habe ich mich nicht impfen lassen."
   },
   "vaccination.HV.Q10d.rg.mcg.input.14": {
     "en": "Other reason(s)",
@@ -272,7 +272,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35.helpGroup.text.1": {
-    "en": "We would like to be able to work out how much protection the vaccine gives.",
+    "en": "We would like to evaluate the protection of vaccination.",
     "de": "Wir möchten den Impfschutz untersuchen."
   },
   "vaccination.HV.Q35.helpGroup.text.2": {
@@ -284,40 +284,40 @@
     "de": "Antworten Sie mit 'Ja', wenn Sie bereits mindestens eine COVID-19-Impfung erhalten haben (seit Dezember 2020)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
-    "en": "Yes, I received at least one COVID-19 vaccine",
-    "de": "Ja, ich habe bereits mindestens eine COVID-19-Impfdosis erhalten. "
+    "en": "Yes, I received at least one COVID-19 vaccine.",
+    "de": "Ja, ich habe bereits mindestens eine COVID-19-Impfdosis erhalten."
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
-    "en": "No, I did not receive the COVID-19 vaccine",
-    "de": "Nein, ich habe bis jetzt keine COVID-19-Impfung erhalten"
+    "en": "No, I did not receive a COVID-19 vaccine.",
+    "de": "Nein, ich habe bis jetzt keine COVID-19-Impfung erhalten."
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
-    "en": "I don't know/can't remember.",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern."
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35i.title.0": {
     "en": "Which COVID-19 vaccine(s) did you receive?",
-    "de": "Welche COVID-19-Impfung(en) (von welchem Hersteller) haben Sie erhalten?"
+    "de": "Welche COVID-19-Impfung(en) haben Sie erhalten?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35i.helpGroup.text.1": {
-    "en": "We want to know how many people got vaccinated with what brand",
-    "de": "Wir möchten untersuchen, wie viele Menschen mit welchem Impfstoff von welchem Hersteller geimpft wurden"
+    "en": "We want to know how many people got vaccinated with what vaccine.",
+    "de": "Wir möchten untersuchen, wie viele Personen mit welchem Impfstoff geimpft wurden."
   },
   "vaccination.HV.Q35i.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q35i.helpGroup.text.3": {
-    "en": "Specify which brand (or brands if you hade more than one type) you got vaccinated with",
-    "de": "Geben Sie an, mit welchen Impfstoffen von welchem Herstellern Sie geimpft wurden"
+    "en": "Specify which brand (or brands if you had more than one type) you got vaccinated.",
+    "de": "Geben Sie an, mit welchen Impfstoffen Sie geimpft wurden."
   },
   "vaccination.HV.Q35i.rg.LMsj.text.0": {
-    "en": "Select more than one option if you received different brands",
-    "de": "Wählen Sie mehr als eine Antwort aus, wenn sie mit unterschiedlichen Impfstoffen von unterschiedlichen Herstellern geimpft wurden"
+    "en": "Select more than one option if you received different brands.",
+    "de": "Wählen Sie mehr als eine Antwort aus, wenn sie mit unterschiedlichen Impfstoffen geimpft wurden."
   },
   "vaccination.HV.Q35i.rg.mcg.option.0": {
     "en": "Pfizer/BioNTech",
@@ -340,8 +340,8 @@
     "de": "CureVac"
   },
   "vaccination.HV.Q35i.rg.mcg.option.5": {
-    "en": "I Don't know/Can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35c.title.0": {
     "en": "How many doses of the vaccine did you receive?",
@@ -352,16 +352,16 @@
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35c.helpGroup.text.1": {
-    "en": "We would like to be able to work out how much protection a complete vaccination scheme gives.",
-    "de": "Wir möchten den Impfschutz eines vollständigen Impfung-Zylus untersuchen."
+    "en": "We would like to investigate the level of protection of vaccines.",
+    "de": "Wir möchten den Impfschutz der Impfung untersuchen."
   },
   "vaccination.HV.Q35c.helpGroup.text.2": {
     "en": "How should I answer this question?",
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
-    "en": "Report the number of doses you received (which corresponds to the number of time you were vaccinated against COVID-19 ).",
-    "de": "Geben Sie die Anzahl der erhaltenen Impfdosen an (dies entspricht der Anzahl der erhaltenen Impfungen gegen COVID-19). "
+    "en": "Report the number of doses you received (which corresponds to the number of time you got vaccinated against COVID-19).",
+    "de": "Geben Sie die Anzahl der erhaltenen Impfdosen an (dies entspricht der gesamten Anzahl der erhaltenen Impfungen gegen COVID-19). "
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One",
@@ -380,20 +380,20 @@
     "de": "Mehr als drei"
   },
   "vaccination.HV.Q35c.rg.scg.option.4": {
-    "en": "I Don't know/Can't remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35j.title.0": {
-    "en": "When did you receive your last injection of a vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
-    "de": "Wann haben Sie die letzte Dosis eines COVID-19-Impfstoffes erhalten? Wenn Sie sich nicht an das genaue Datum erinnern können, geben Sie bitte eine Schätzung an."
+    "en": "When did you receive your last vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
+    "de": "Wann haben Sie die letzte COVID-19-Impfung erhalten? Wenn Sie sich nicht an das genaue Datum erinnern können, geben Sie bitte eine Schätzung an."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35j.helpGroup.text.1": {
-    "en": "Knowing when people are vaccinated tells us how well the vaccination program is being carried out.",
-    "de": "Wenn wir wissen, wann die Bevölkerung geimpft wird, können wir feststellen, wie gut das Impfprogramm durchgeführt wird."
+    "en": "To evaluate if people got vaccinated in line with the vaccination program.",
+    "de": "Um zu untersuchen, ob die Bevölkerung kongruent mit dem Impfprogramm geimpft wurde."
   },
   "vaccination.HV.Q35j.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -408,95 +408,11 @@
     "de": "Datum auswählen"
   },
   "vaccination.HV.Q35j.rg.scg.option.1": {
-    "en": "I don’t know/can’t remember",
-    "de": "Ich weiss es nicht/ich kann mich nicht erinnern"
-  },
-  "vaccination.HV.Q35k.title.0": {
-    "en": "Do you plan to receive a second injection in the upcoming weeks?",
-    "de": "Beabsichtigen Sie, sich in den kommenden Wochen eine zweite Impfdosis verabreichen zu lassen?"
-  },
-  "vaccination.HV.Q35k.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "de": "Warum fragen wir Sie das?"
-  },
-  "vaccination.HV.Q35k.helpGroup.text.1": {
-    "en": "We want to study how long it takes for people to get the second dose after having received the first",
-    "de": "Wir möchten untersuchen, wie lange es dauert, bis eine Person die zweite Impfdosis verabreicht bekommt."
-  },
-  "vaccination.HV.Q35k.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "de": "Wie soll ich diese Frage beantworten?"
-  },
-  "vaccination.HV.Q35k.helpGroup.text.3": {
-    "en": "Select the option that is most appropriate for your situation",
-    "de": "Wählen Sie die Antwort aus, die Ihre Situation am besten beschreibt"
-  },
-  "vaccination.HV.Q35k.rg.scg.option.0": {
-    "en": "Yes",
-    "de": "Ja"
-  },
-  "vaccination.HV.Q35k.rg.scg.option.1": {
-    "en": "No",
-    "de": "Nein"
-  },
-  "vaccination.HV.Q35k.rg.scg.option.2": {
-    "en": "I don't know",
-    "de": "Ich weiss es nicht"
-  },
-  "vaccination.HV.Q35l.title.0": {
-    "en": "Why receiving a single injection?",
-    "de": "Warum haben Sie nur eine Impfdosis bis jetzt erhalten?"
-  },
-  "vaccination.HV.Q35l.helpGroup.text.0": {
-    "en": "Why are we asking this?",
-    "de": "Warum fragen wir Sie das?"
-  },
-  "vaccination.HV.Q35l.helpGroup.text.1": {
-    "en": "We would like to know the reasons behind the selected option of receiving just one dose",
-    "de": "Wir möchten untersuchen, was die Gründe für den Erhalt von nur einer Impfdosis sind."
-  },
-  "vaccination.HV.Q35l.helpGroup.text.2": {
-    "en": "How should I answer this question?",
-    "de": "Wie soll ich diese Frage beantworten?"
-  },
-  "vaccination.HV.Q35l.helpGroup.text.3": {
-    "en": "Select the option that is most appropriate for your situation",
-    "de": "Wählen Sie die Antwort aus, die Ihre Situation am besten beschreibt"
-  },
-  "vaccination.HV.Q35l.rg.scg.option.0": {
-    "en": "I had COVID-19 before my first injection.",
-    "de": "Ich hatte bereits eine COVID-19-Infektion bevor meiner ersten Impfdosis."
-  },
-  "vaccination.HV.Q35l.rg.scg.option.1": {
-    "en": "I had COVID-19 shortly after my first injection, and have to wait several months to receive the second injection.",
-    "de": "Ich hatte eine COVID-19-Infektion kurz nach meiner ersten Impfdosis und muss nun mehrere Monate warten bis ich meine zweite Dosis erhalten darf."
-  },
-  "vaccination.HV.Q35l.rg.scg.option.2": {
-    "en": " I received Janssen vaccine, which requires only one injection.",
-    "de": "Ich habe die Impfung von Janssen erhalten, welche nur eine Impfdosis erfordert."
-  },
-  "vaccination.HV.Q35l.rg.scg.option.3": {
-    "en": "A second injection was contraindicated for me by a doctor (I had a severe allergic reaction, or a severe adverse effect after the first injection, or I have a temporary contraindication due to a treatment or a disease).",
-    "de": "Eine zweite Impfdosis wurde von einem/r Ärzt:in für mich kontraindiziert (ich hatte eine schwere allergische Reaktion oder Nebenwirkung nach der ersten Impfdosis, oder ich habe eine vorübergehende Kontraindikation aufgrund einer Behandlung oder einer Krankheit)"
-  },
-  "vaccination.HV.Q35l.rg.scg.option.4": {
-    "en": "I changed my mind and don’t want to be vaccinated anymore.",
-    "de": "Ich habe meine Meinung geändert und möchte mich nicht weiter impfen lassen."
-  },
-  "vaccination.HV.Q35l.rg.scg.input.5": {
-    "en": "Other",
-    "de": "Andere Gründe"
-  },
-  "vaccination.HV.Q35l.rg.scg.description.input.5": {
-    "en": "Describe here (optional)",
-    "de": "Beschreiben Sie diese hier (optional)"
-  },
-  "vaccination.HV.Q35l.rg.scg.option.6": {
-    "en": "I don't know",
-    "de": "Ich weiss es nicht"
+    "en": "I don’t know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35f.title.0": {
-    "en": "What are your reason(s) for getting a COVID-19 vaccination?",
+    "en": "What are your reason(s) to get vaccinated against COVID-19?",
     "de": "Was sind Ihre Gründe, sich gegen COVID-19 impfen zu lassen?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
@@ -504,8 +420,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35f.helpGroup.text.1": {
-    "en": "We would like to know the main reasons why people get the vaccine.",
-    "de": "Wir möchten untersuchen, warum sich Menschen hauptsächlich impfen lassen."
+    "en": "We would like to know reasons why people get vaccinated.",
+    "de": "Wir möchten untersuchen, warum sich Menschen impfen lassen."
   },
   "vaccination.HV.Q35f.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -524,43 +440,43 @@
     "de": "Die Impfung wird von den Gesundheitsbehörden empfohlen."
   },
   "vaccination.HV.Q35f.rg.mcg.option.1": {
-    "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.).",
-    "de": "Ich gehöre zu einer Risikogruppe, bei der im Falle einer COVID-19-Erkrankung das Risiko von einem schweren Verlauf besteht (über 65 Jahre alt, gesundheitliche Grunderkrankung, Übergewicht etc.).."
+    "en": "I belong to a risk group (over 65 of age, specific health condition, etc.).",
+    "de": "Ich gehöre zu einer Risikogruppe (über 65 Jahre alt, besondere gesundheitliche Kondition, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.2": {
-    "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff…).",
-    "de": "Ich arbeite in engem Kontakt mit Menschen, bei denen im Falle von einer COVID-19-Erkrankung das Risiko von einem schweren Verlauf besteht (Arbeit in einem Pflegeheim, Gesundheitspersonal, etc. ...).."
+    "en": "I work in close contact with people at risk (working in a elderly home or hospital, etc.).",
+    "de": "Ich arbeite in engem Kontakt mit Personen mit einem besonderen Risiko (Arbeit in einem Pflegeheim, Gesundheitspersonal, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
     "en": "Vaccination decreases my risk of getting COVID-19.",
     "de": "Die Impfung senkt mein Risiko, an COVID-19 zu erkranken"
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
-    "en": "Vaccination decreases the risk of spreading COVID-19 to others.",
-    "de": "Die Impfung verringert mein Risiko, andere mit der COVID-19 anzustecken."
+    "en": "Vaccination decreases the risk to infect others.",
+    "de": "Die Impfung verringert mein Risiko, andere anzustecken."
   },
   "vaccination.HV.Q35f.rg.mcg.option.5": {
     "en": "My doctor recommended it.",
     "de": "Die Impfung wurde von meinem/r Ärzt:in empfohlen"
   },
   "vaccination.HV.Q35f.rg.mcg.option.6": {
-    "en": "It was recommended in my workplace/school.",
-    "de": "Die Impfung wurde von meinem Arbeitsplatz/meiner Schule empfohlen"
+    "en": "It was recommended at workplace or at the school.",
+    "de": "Die Impfung wurde am Arbeitsplatz oder in der Schule empfohlen."
   },
   "vaccination.HV.Q35f.rg.mcg.option.7": {
     "en": "The vaccine was readily available and vaccine administration was convenient.",
     "de": "Die Impfung war breit verfügbar und einfach zugänglich."
   },
   "vaccination.HV.Q35f.rg.mcg.option.8": {
-    "en": "The vaccine was free (no cost).",
+    "en": "The vaccine was free.",
     "de": "Die Impfung war gratis."
   },
   "vaccination.HV.Q35f.rg.mcg.option.9": {
-    "en": "I don’t want to miss work/school.",
-    "de": "Ich möchte die Arbeit/Schule nicht verpassen."
+    "en": "I don’t want to miss work or school.",
+    "de": "Ich möchte nicht bei der Arbeit oder in der Schule fehlen."
   },
   "vaccination.HV.Q35f.rg.mcg.option.10": {
-    "en": "I always accept vaccination when it is offered to me.",
+    "en": "I always get vaccinated if I can.",
     "de": "Ich lasse mich immer impfen, wenn ich kann."
   },
   "vaccination.HV.Q35f.rg.mcg.option.11": {
@@ -588,8 +504,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
-    "en": "We would like to know the main reasons why people are declining COVID-19 vaccination.",
-    "de": "Wir möchten die Gründe, warum Menschen sich nicht gegen COVID-19 impfen lassen, untersuchen."
+    "en": "We would like to know the main reasons why people decline COVID-19 vaccination.",
+    "de": "Wir möchten die Gründe, warum Personen sich nicht gegen COVID-19 impfen lassen, untersuchen."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -600,76 +516,76 @@
     "de": "Wählen Sie bitte die Antworten aus, die Ihre Entscheidung beeinflusst haben."
   },
   "vaccination.HV.Q35m.rg.nm76.text.0": {
-    "en": "Select the options that are most applicable",
-    "de": "SWählen Sie die Antworten aus, die am meisten zutreffen"
+    "en": "Select the options that are most applicable.",
+    "de": "Wählen Sie die Antworten aus, die am meisten zutreffen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.0": {
-    "en": "I am planning to be vaccinated but haven’t been yet",
+    "en": "I am planning to be vaccinated but haven’t been yet.",
     "de": "Ich habe vor mich impfen zu lassen, bin jedoch noch nicht dazu gekommen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.1": {
-    "en": "I haven't been offered the vaccine",
+    "en": "The vaccine has not been offered to me.",
     "de": "Mir wurde die Impfung nicht zur Verfügung gestellt."
   },
   "vaccination.HV.Q35m.rg.mcg.option.2": {
-    "en": "I have been discouraged from being vaccinated because I am pregnant",
-    "de": "Mir wurde es abgeraten mich impfen zu lassen, da ich schwanger bin"
+    "en": "People discouraged me from getting vaccinated because I am pregnant.",
+    "de": "Personen haben mir abgeraten mich impfen zu lassen, da ich schwanger bin."
   },
   "vaccination.HV.Q35m.rg.mcg.option.3": {
-    "en": "I am pregnant and I fear the vaccine could be dangerous for my baby",
-    "de": "Ich bin schwanger und habe Angst dass die Impfung gefährlich sein könnte für mein Baby."
+    "en": "I am pregnant and I fear to get vaccined.",
+    "de": "Ich bin schwanger und habe Angst mich impfen zu lassen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.4": {
-    "en": "I don’t belong to a risk group",
-    "de": "Ich gehöre zu keiner Risikogruppe"
+    "en": "I don’t belong to a risk group.",
+    "de": "Ich gehöre zu keiner Risikogruppe."
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
-    "en": "It is better to build your own natural immunity against COVID-19",
-    "de": "Es ist besser die körpereigene natürliche Immunität gegen COVID-19 zu entwickeln. "
+    "en": "I think it is better to build natural immunity against COVID-19",
+    "de": "Ich finde es ist besser die körpereigene Immunität gegen COVID-19 aufzubauen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
-    "en": "I doubt that the COVID-19 vaccine is effective",
-    "de": "Ich bezweifle, dass die COVID-19 Impfung wirksam ist"
+    "en": "I doubt that the COVID-19 vaccine is effective.",
+    "de": "Ich zweifle, dass die COVID-19 Impfung wirksam ist."
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
-    "en": "COVID-19 is a minor illness",
-    "de": "COVID-19 ist eine milde Krankheit"
+    "en": "I beleive that COVID-19 is a minor disease.",
+    "de": "Ich finde, COVID-19 ist eine milde Krankheit."
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
-    "en": "Because of COVID-19 pandemic, I avoid seeing doctors or going to the pharmacy",
-    "de": "Wegen der anhaltenden COVID-19 Pandemie vermeide ich es ärztliche Hilfe aufzusuchen oder in die Apotheke zu gehen"
+    "en": "I avoid seeing doctors or going to the pharmacy.",
+    "de": "Ich vermeide ärztliche Hilfe aufzusuchen oder in die Apotheke zu gehen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
-    "en": "I don't think I am likely to get the COVID-19",
-    "de": "Ich glaube nicht, dass ich mich mit COVID-19 anstecken werde"
+    "en": "I don't think I am likely to get the COVID-19.",
+    "de": "Ich glaube nicht, dass ich an COVID-19 erkranke."
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
-    "en": "I believe that the COVID-19 vaccine can cause COVID-19",
-    "de": "Ich glaube, dass die COVID-19 Impfung eine COVID-19 Infektion hervorrufen kann"
+    "en": "I believe that the COVID-19 vaccine can cause COVID-19.",
+    "de": "Ich glaube, dass die COVID-19 Impfung eine COVID-19 hervorrufen kann."
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
-    "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
-    "de": "Ich bin besorgt, dass die COVID-19 Impfung nicht sicher ist oder andere Erkrankungen/Nebenwirkungen hervorrufen kann"
+    "en": "I am worried that the vaccine is not safe or causes other adverse events.",
+    "de": "Ich bin besorgt, dass die COVID-19 Impfung nicht sicher ist oder Nebenwirkungen hervorrufen kann."
   },
   "vaccination.HV.Q35m.rg.mcg.option.12": {
-    "en": "I don't like having vaccinations",
-    "de": "Ich lasse mich nicht gern impfen"
+    "en": "I don't like getting vaccinated.",
+    "de": "Ich lasse mich nicht gerne impfen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.13": {
-    "en": "The vaccine is not readily available to me",
-    "de": "Die Impfung ist nicht einfach zugänglich für mich"
+    "en": "The vaccine is not available for me.",
+    "de": "Die Impfung ist nicht zugänglich für mich."
   },
   "vaccination.HV.Q35m.rg.mcg.option.14": {
-    "en": "I disagree with the current vaccine policy",
-    "de": "Ich stimme nicht mit der derzeitigen Impfstrategie überein"
+    "en": "I disagree with the current vaccine recommendation.",
+    "de": "Ich unterstütze die Impfempfehlung nicht."
   },
   "vaccination.HV.Q35m.rg.mcg.option.15": {
-    "en": "The vaccine is not free of charge",
-    "de": "Die Impfung ist nicht gratis"
+    "en": "The vaccine is not free of charge.",
+    "de": "Die Impfung ist nicht gratis."
   },
   "vaccination.HV.Q35m.rg.mcg.option.16": {
-    "en": "I don't know",
-    "de": "Ich weiss es nicht"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35m.rg.mcg.input.17": {
     "en": "Other reason(s)",
@@ -681,6 +597,6 @@
   },
   "vaccination.surveyEnd.title.0": {
     "en": "Thank you! This was all for now, please submit (push « send ») your responses.",
-    "de": "Herzlichen Dank! Für den Moment ist das alles. Bitte reichen Sie Ihre Antworten ein (drücken Sie auf „Senden“)."
+    "de": "Bitte drücken Sie auf „Senden“, um Ihre Antwort zu senden. Vielen Dank für Ihre Bemühungen."
   }
 }
