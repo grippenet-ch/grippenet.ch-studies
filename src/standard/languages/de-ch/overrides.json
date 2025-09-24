@@ -1,4 +1,3 @@
-#Intake questionnaire
 {
   "intake.name.0": {
     "en": "Intake questionnaire",
@@ -238,7 +237,7 @@
   },
   "intake.Q4h.rg.scg.option.8": {
     "en": "Art-related",
-    "de": "Küstlerische Berufe""
+    "de": "Küstlerische Berufe"
   },
   "intake.Q4h.rg.scg.input.9": {
     "en": "Other",
@@ -815,11 +814,7 @@
   "intake.surveyEnd.title.0": {
     "en": "Thank you! Please submit your answers. Afterwards, you can fill out the weekly symptom questionnaire.",
     "de": "Vielen Dank! Bitte senden Sie Ihre Antworten ab. Danach können Sie den wöchentlichen Symptomfragebogen ausfüllen."
-  }
-}
-
-#Weekly questionnaire
-{
+  },
   "weekly.name.0": {
     "en": "Weekly questionnaire",
     "de": "Wöchentlicher Fragebogen"
@@ -2356,11 +2351,8 @@
   "weekly.surveyEnd.title.0": {
     "en": "Once submitted, this week’s questionnaire is complete. You will be asked to complete it again next week. Thank you for your support!",
     "de": "Mit dem Absenden ist der Fragebogen für diese Woche abgeschlossen. Nächste Woche werden Sie erneut gebeten den Fragebogen auszufüllen. Vielen Dank für Ihre Unterstützung!"
-  }
-}
+  },
 
-#Vaccination questionnaire
-{
   "vaccination.name.0": {
     "en": "Vaccination questionnaire",
     "de": "Impffragebogen"
