@@ -160,31 +160,31 @@
     "de": "Um die Distanz, die Sie täglich zurücklegen, festzustellen."
   },
   "intake.Q4b.rg.scg.input.0": {
-    "en": "Postal code (of work/study)",
-    "de": "Postleitzahl (von Ihrer Schule/Arbeit/Universität etc.)"
+    "en": "Postal code (of work, study, etc.)",
+    "de": "Postleitzahl (von Ihrer Schule, Arbeit, etc.)"
   },
   "intake.Q4b.rg.scg.description.input.0": {
-    "en": "Postal code (of work/study)",
-    "de": "Postleitzahl (von Ihrer Schule/Arbeit/Universität etc.)"
+    "en": "Postal code (of work, study, etc.)",
+    "de": "Postleitzahl (von Ihrer Schule, Arbeit, etc.)"
   },
   "intake.Q4b.rg.scg.option.1": {
-    "en": "I don’t know",
-    "de": "Ich weiss es nicht"
+    "en": "I don’t know.",
+    "de": "Ich weiss es nicht."
   },
   "intake.Q4b.rg.scg.option.2": {
     "en": "Not applicable (e.g. don’t have a fixed workplace)",
     "de": "Nicht zutreffend (z.B. ich habe keinen fixen Arbeitsplatz)"
   },
   "intake.Q4b.error.3": {
-    "en": "Please enter the digits of your postal code",
-    "de": "Bitte geben Sie die vierstellige Postleitzahl ein"
+    "en": "Please enter the digits of your postal code.",
+    "de": "Bitte geben Sie die vierstellige Postleitzahl ein."
   },
   "intake.Q4b.error.4": {
     "en": "Please enter at most 4 digits",
     "de": "Bitte geben Sie eine vierstellige Zahl ein"
   },
   "intake.Q4h.title.0": {
-    "en": "Which of the following descriptions most closely matches your main occupation? ",
+    "en": "Which of the following descriptions most closely matches your main occupation?",
     "de": "Welche der folgenden Beschreibungen beschreibt am ehnsten Ihre Hauptbeschäftigung?"
   },
   "intake.Q4h.helpGroup.text.0": {
@@ -192,8 +192,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4h.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or the flu is different for people in different types of occupation.",
-    "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung ist, und um herauszufinden, ob die Wahrscheinlichkeit, an Grippe zu erkranken, für Menschen mit verschiedenen Berufen unterschiedlich hoch ist."
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting Infuenza-like-infections is different for people in different types of occupation.",
+    "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung ist, und um herauszufinden, ob die Wahrscheinlichkeit, an grippeähnlicher Infektion zu erkranken, für Menschen mit verschiedenen Berufen unterschiedlich hoch ist."
   },
   "intake.Q4h.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -204,12 +204,12 @@
     "de": "Bitte kreuzen Sie das Kästchen an, das Ihrer Hauptbeschäftigung am nächsten kommt."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
+    "en": "Commercial and administrative professions",
     "de": "Kaufmännisch-verwaltend Berufe"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Skilled trades and technical occupations (including installation jobs)",
-    "de": "Handwerklich-technisch Berufe (inkl. Montageberufe)"
+    "en": "Craft-technical occupations (including installation jobs, etc.)",
+    "de": "Handwerklich-technisch Berufe (inkl. Montageberufe etc.)"
   },
   "intake.Q4h.rg.scg.option.2": {
     "en": "Security personnel (in the military, police, etc.)",
@@ -224,8 +224,8 @@
     "de": "Akademische Berufe (inkl. Lehrkräfte)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "de": "Assistenzberufe und Hilfsarbeitskräfte (wie Reinigungspersonal)"
+    "en": "Assistants and support staff (such as cleaning staff)",
+    "de": "Assistenzberufe und Hilfsarbeitskräfte (wie z.B. Reinigungspersonal)"
   },
   "intake.Q4h.rg.scg.option.6": {
     "en": "Skilled agricultural, forestry and fishery workers",
@@ -243,12 +243,12 @@
     "en": "Other",
     "de": "Sonstige"
   },
-  "intake.Q4h.rg.scg.description.input.10": {
+  "intake.Q4h.rg.scg.description.input.9": {
     "en": "Describe here (optional)",
     "de": "Hier beschreiben (optional)"
   },
   "intake.Q4d.title.0": {
-    "en": "What is your highest level of education/qualification?",
+    "en": "What is your highest level of education?",
     "de": "Was ist Ihr höchster Bildungsabschluss?"
   },
   "intake.Q4d.helpGroup.text.0": {
@@ -256,8 +256,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4d.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population in Switzerland or other countries as a whole.",
-    "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung anderer Länder ist (wie die UK, Italien, Belgien...) ist."
+    "en": "To check how representative our sample is compared to the general population in Switzerland and other countries.",
+    "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Schweizer Gesamtbevölkerung und anderer Länder ist."
   },
   "intake.Q4d.helpGroup.text.2": {
     "en": "How should I answer it?",
@@ -276,11 +276,11 @@
     "de": "Ich habe kein offiziellen Abschluss"
   },
   "intake.Q4d.rg.mcg.option.1": {
-    "en": "GCSEs, levels, CSEs or equivalent",
+    "en": "Elementary School Diploma",
     "de": "Ablschuss der obligatorischen Schulzeit"
   },
   "intake.Q4d.rg.mcg.option.2": {
-    "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
+    "en": "High school diploma or an apprenticeship",
     "de": "Maturitätsabschluss (Gymnasium, Fachmaturitätsschule oder äquivalent) oder Lehrabschluss"
   },
   "intake.Q4d.rg.mcg.option.3": {
@@ -288,16 +288,16 @@
     "de": "Bachelorabschluss (Hochschule oder Universität) oder äquivalent"
   },
   "intake.Q4d.rg.mcg.option.4": {
-    "en": "Higher Degree or equivalent (e.g. Master's Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)",
+    "en": "Higher Degree or equivalent (e.g., Master's Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)",
     "de": "Hochschulabschluss oder äquivalent (z. B. Masterdiplom, Doktorat (PhD), weiterführende Hochschuldiplome)"
   },
   "intake.Q4d.rg.mcg.option.5": {
-    "en": "I am still in education",
-    "de": "Ich befinde mich noch in Ausbildung"
+    "en": "I am still in education.",
+    "de": "Ich befinde mich noch in der Ausbildung."
   },
   "intake.Q5.title.0": {
     "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day?",
-    "de": "Abgesehen von den Personen, die Sie in öffentlichen Verkehrsmitteln treffen, haben Sie im Laufe Ihres Alltages Kontakt mit folgenden Personen?"
+    "de": "Abgesehen von den Personen, die Sie in öffentlichen Verkehrsmitteln treffen, haben Sie im Alltag Kontakt mit folgenden Personen?"
   },
   "intake.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -368,11 +368,11 @@
     "de": "45 - 64 Jahre alte"
   },
   "intake.Q6.rg.mat.row4.l.label.0": {
-    "en": "65+",
+    "en": "65+ years",
     "de": "Älter als 65 Jahre alte"
   },
   "intake.Q6c.title.0": {
-    "en": "Does one or several of these people have a higher risk of complications if infected with the flu or COVID (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
+    "en": "Does one or several of these people have a higher risk of complications if infected with the flu or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?",
     "de": "Besteht bei einer oder mehreren dieser Personen ein erhöhtes Risiko für mögliche Komplikationen im Falle einer Grippen- oder COVID-19-Erkrankung (z. B. Schwangerschaft, über 65 Jahre alt, Grunderkrankung, Übergewichtigkeit usw.)?"
   },
   "intake.Q6c.helpGroup.text.0": {
@@ -400,12 +400,12 @@
     "de": "Nein"
   },
   "intake.Q6c.rg.scg.option.2": {
-    "en": "Don't know/would rather not answer",
-    "de": "Ich weiss es nicht/diese Frage möchte ich lieber nicht beantworten"
+    "en": "Don't know",
+    "de": "Ich weiss es nicht"
   },
   "intake.Q6b.title.0": {
     "en": "How many of the children in your household go to school or day-care?",
-    "de": "Wie viele Kinder in Ihrem Haushalt gehen zur Schule oder in die Tagesbetreuung (Kindergarten, Kindertagesstätte..)?"
+    "de": "Wie viele Kinder in Ihrem Haushalt gehen zur Schule oder in die Tagesbetreuung (z.B. Kindergarten und Kindertagesstätte)?"
   },
   "intake.Q6b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -413,7 +413,7 @@
   },
   "intake.Q6b.helpGroup.text.1": {
     "en": "Attending school, daycare, or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue.",
-    "de": "Der Besuch einer Schule oder einer Tagesbetreuung (Kindergarten, Kindertagesstätte..) kann das Risiko einer möglichen Ansteckung mit dem Coronavirus oder der Grippe (Influenza) sowie mit anderen ähnlichen Krankheiten erhöhen. Wir möchten dieses Thema untersuchen."
+    "de": "Der Besuch einer Schule oder einer Tagesbetreuung (z.B. Kindergarten oder Kindertagesstätte) kann das Risiko einer möglichen Ansteckung (z.B. mit dem Coronavirus oder der Grippe) erhöhen. Wir möchten dieses Thema untersuchen."
   },
   "intake.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -421,7 +421,7 @@
   },
   "intake.Q6b.helpGroup.text.3": {
     "en": "If your child attends school, daycare or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count.",
-    "de": "Wenn Ihr Kind eine Schule, eine Kindertagesstätte oder eine Kinderbetreuung besucht (auch wenn es nur einen Tag in der Woche ist), zählen Sie dies bitte mit. Die Teilnahme an (Sport-)Vereinen oder anderen außerschulischen Aktivitäten zählt nicht mit."
+    "de": "Wenn Ihr Kind in die Schule, Kindertagesstätte oder  Kinderbetreuung geht (auch wenn es nur einen Tag in der Woche ist), zählen Sie dies bitte mit. Die Teilnahme an (Sport-)Vereinen oder anderen außerschulischen Aktivitäten zählt nicht mit."
   },
   "intake.Q6b.rg.scg.option.0": {
     "en": "None",
@@ -581,7 +581,7 @@
   },
   "intake.Q12.helpGroup.text.1": {
     "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection.",
-    "de": "Eine Schwangerschaft ist ein potenzieller Risikofaktor für einen schweren Verlauf im Falle einer Erkrankung mit Influenza oder COVID-19."
+    "de": "Eine Schwangerschaft ist ein potenzieller Risikofaktor für einen schweren Verlauf von Infektionskrakheiten ist."
   },
   "intake.Q12.rg.scg.option.0": {
     "en": "Yes",
@@ -592,8 +592,8 @@
     "de": "Nein"
   },
   "intake.Q12.rg.scg.option.2": {
-    "en": "Don't know/would rather not answer",
-    "de": "Ich weiss es nicht/diese Frage möchte ich lieber nicht beantworten"
+    "en": "I would rather not answer.",
+    "de": "Diese Frage möchte ich lieber nicht beantworten."
   },
   "intake.Q12b.title.0": {
     "en": "Which trimester of the pregnancy are you in?",
@@ -664,8 +664,8 @@
     "de": "Ja, aber nur E-Zigaretten"
   },
   "intake.Q13.rg.scg.option.5": {
-    "en": "Dont know/would rather not answer",
-    "de": "Ich weiss es nicht/diese Frage möchte ich lieber nicht beantworten"
+    "en": "I would rather not answer.",
+    "de": "Diese Frage möchte ich lieber nicht beantworten."
   },
   "intake.Q14.title.0": {
     "en": "Do you have one of the following allergies that can cause respiratory symptoms?",
@@ -676,8 +676,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q14.helpGroup.text.1": {
-    "en": "Certain allergies provoke the same symptoms as respiratory infections.",
-    "de": "Manche Allergien rufen die gleichen/ähnlichen Symptome hervor wie Atemwegsinfektionen."
+    "en": "Certain allergies lead to similar symptoms as respiratory infections.",
+    "de": "Manche Allergien führen zu ähnlichen Symptome wie Atemwegsinfektionen."
   },
   "intake.Q14.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -740,7 +740,7 @@
     "de": "Andere"
   },
   "intake.Q26.title.0": {
-    "en": "Are you taking or planning to take homeopathic products to prevent respiratory diseases?",
+    "en": "Are you taking or do you plan to take homeopathic products to prevent (respiratory) infections?",
     "de": "Nehmen Sie oder planen Sie, in homöopathische Arzneimittel zur Vorbeugung von Atemwegsinfektionen einzunehmen?"
   },
   "intake.Q26.helpGroup.text.0": {
@@ -764,8 +764,8 @@
     "de": "Ich weiss es nicht"
   },
   "intake.Q26.rg.scg.option.3": {
-    "en": "I don't want to answer",
-    "de": "Ich möchte diese Frage nicht beantworten"
+    "en": "I don't want to answer.",
+    "de": "Ich möchte diese Frage nicht beantworten."
   },
   "intake.Q17.title.0": {
     "en": "Where did you first hear about Grippenet.ch?",
@@ -785,15 +785,15 @@
   },
   "intake.Q17.rg.mcg.option.0": {
     "en": "Radio or television",
-    "de": "Durch das Radio/Fernsehen"
+    "de": "Im Radio oder Fernseher"
   },
   "intake.Q17.rg.mcg.option.1": {
     "en": "In the newspaper or in a magazine",
-    "de": "Durch die Zeitung/Zeitschriften"
+    "de": "Durch die Zeitung oder Zeitschriften"
   },
   "intake.Q17.rg.mcg.option.2": {
     "en": "The internet (a website, link, a search engine)",
-    "de": "Durch das Internet (Website, Link oder Suchmaschine)"
+    "de": "Im Internet (Website, Link oder Suchmaschine)"
   },
   "intake.Q17.rg.mcg.option.3": {
     "en": "By poster",
@@ -805,14 +805,14 @@
   },
   "intake.Q17.rg.mcg.option.5": {
     "en": "Via school or work",
-    "de": "Durch die Schule/Arbeit"
+    "de": "In der Schule oder bei der Arbeit"
   },
   "intake.Q17.rg.mcg.option.6": {
     "en": "Other",
     "de": "Andere"
   },
   "intake.surveyEnd.title.0": {
-    "en": "Thank you! Please submit your answers. Afterwards, you can fill out the weekly symptom questionnaire.",
-    "de": "Vielen Dank! Bitte senden Sie Ihre Antworten ab. Danach können Sie den wöchentlichen Symptomfragebogen ausfüllen."
+    "en": "Thank you! Please submit your answer, and afterwards you can complete the weekly questionnaire.",
+    "de": "Vielen Dank! Bitte senden Sie Ihre Antworten ab. Danach können Sie den wöchentlichen Fragebogen zu Symptomen ausfüllen."
   }
 }
