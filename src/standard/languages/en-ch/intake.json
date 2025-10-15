@@ -33,10 +33,10 @@
     "en": "Why are we asking this?"
   },
   "intake.Q2.helpGroup.text.1": {
-    "en": "In order to examine the differences between age groups."
+    "en": "To examine the differences between age groups."
   },
   "intake.Q2.rg.feedback.text.1": {
-    "en": " years old"
+    "en": "years old"
   },
   "intake.Q3.title.0": {
     "en": "What is your postal code (place of residence)?"
@@ -45,7 +45,7 @@
     "en": "Why are we asking this?"
   },
   "intake.Q3.helpGroup.text.1": {
-    "en": "In order to verify the representativeness of our cohort (the group of participants in this study) and to examine the geographical differences in the spread of the coronavirus and influenza."
+    "en": "To verify the representativeness of our cohort (the group of participants in this study) and to examine the geographical differences in the spread of the coronavirus and influenza."
   },
   "intake.Q3.helpGroup.text.2": {
     "en": "How should I answer this question?"
@@ -87,7 +87,7 @@
     "en": "Paid employment, full time"
   },
   "intake.Q4.rg.scg.option.1": {
-    "en": "Paid employment, part time"
+    "en": "Paid employment, part-time"
   },
   "intake.Q4.rg.scg.option.2": {
     "en": "Self-employed (businessman, farmer, tradesman, etc.)"
@@ -96,7 +96,7 @@
     "en": "Attending daycare/school/college/university"
   },
   "intake.Q4.rg.scg.option.4": {
-    "en": "Home-maker (e.g. housewife)"
+    "en": "Home-maker (e.g., childcare)"
   },
   "intake.Q4.rg.scg.option.5": {
     "en": "Unemployed"
@@ -111,7 +111,7 @@
     "en": "Other"
   },
   "intake.Q4b.title.0": {
-    "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?"
+    "en": "What is the postal code of the institution or workplace where you primarily study or work?"
   },
   "intake.Q4b.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -120,25 +120,25 @@
     "en": "To be able to determine the distance you regularly travel during your daily movements."
   },
   "intake.Q4b.rg.scg.input.0": {
-    "en": "Postal code (of your school/work/university etc.)"
+    "en": "Postal code (of your school, work, etc.)"
   },
   "intake.Q4b.rg.scg.description.input.0": {
-    "en": "Postal code (of your school/work/university etc.)"
+    "en": "Postal code (of your school, work, etc.)"
   },
   "intake.Q4b.rg.scg.option.1": {
-    "en": "I don’t know"
+    "en": "I don’t know."
   },
   "intake.Q4b.rg.scg.option.2": {
-    "en": "Not applicable (e.g. I don’t have a fixed workplace)"
+    "en": "Not applicable (e.g., I don’t have a fixed workplace)"
   },
   "intake.Q4b.error.3": {
-    "en": "Please enter the four digits of your postal code"
+    "en": "Please enter the digits of your postal code."
   },
   "intake.Q4b.error.4": {
     "en": "Please enter at most four digits"
   },
   "intake.Q4h.title.0": {
-    "en": "Which of the following descriptions most closely describes your main occupation? "
+    "en": "Which of the following descriptions most closely matches your main occupation?"
   },
   "intake.Q4h.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -153,43 +153,40 @@
     "en": "Please tick the box that most closely describes your main occupation."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Services and Sales Workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)"
+    "en": "Commercial and administrative professions"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)"
+    "en": "Craft-technical occupations (including installation jobs, etc.)"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Armed Forces Occupations (Commissioned armed forces officers; Armed forces occupations other ranks; Non-commissioned armed forces officers)"
+    "en": "Security personnel (in the military, police, etc.)"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Managers (Chief Executives, Senior Officials and Legislators; Administrative and Commercial Managers; Production and Specialized Services Managers; Hospitality, Retail and Other Services Managers)"
+    "en": "Management personnel"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Professionals (Science and Engineering Professionals; Health Professional; Teaching Professionals; Business and Administration Professionals; Information and Communications Technology Professionals; Legal, Social and Cultural Professionals)"
+    "en": "Academically qualified professions (incl. teachers)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Technicians and Associate Professionals (Science and Engineering Associate Professionals; Health Associate Professionals; Business and Administration Associate Professionals; Legal, Social, Cultural and Related Associate Professionals; Information and Communications Technicians)"
+    "en": "Assistants and support staff (such as cleaning staff)"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Clerical Support Workers (General and Keyboard Clerks; Customer Services Clerks;  Numerical and Material Recording Clerks; Other Clerical Support Workers)"
+    "en": "Skilled agricultural, forestry and fishery workers"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Skilled Agricultural, Forestry and Fishery Workers"
+    "en": "Health professionals"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Plant and Machine Operators and Assemblers (Stationary Plant and Machine Operators; Assemblers; Drivers and Mobile Plant Operators)"
+    "en": "Art-related"
   },
-  "intake.Q4h.rg.scg.option.9": {
-    "en": "Elementary Occupations (Cleaners and Helpers; Agricultural, Forestry and Fishery Labourers; Labourers in Mining, Construction, Manufacturing and Transport; Food Preparation Assistants; Street and Related Sales and Services Workers; Refuse Workers and Other Elementary Workers)"
-  },
-  "intake.Q4h.rg.scg.input.10": {
+  "intake.Q4h.rg.scg.input.9": {
     "en": "Other"
   },
-  "intake.Q4h.rg.scg.description.input.10": {
+  "intake.Q4h.rg.scg.description.input.9": {
     "en": "Describe here (optional)"
   },
   "intake.Q4d.title.0": {
-    "en": "What is the highest level of formal education/qualification that you have?"
+    "en": "What is your highest level of education?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -213,7 +210,7 @@
     "en": "Elementary School Diploma"
   },
   "intake.Q4d.rg.mcg.option.2": {
-    "en": "High School Diploma (Matura, Technical Matura or equivalent) or Apprenticeship "
+    "en": "High school diploma (Matura, Technical Matura or equivalent) or an apprenticeship"
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent"
@@ -222,7 +219,7 @@
     "en": "Higher Degree or equivalent (e.g. Masters Degree, PGCE, PhD, Medical Doctorate, Advanced Professional Award)"
   },
   "intake.Q4d.rg.mcg.option.5": {
-    "en": "I am still in training/education"
+    "en": "I am still in education"
   },
   "intake.Q5.title.0": {
     "en": "Except people you meet on public transportation, do you have contact with any of the following people during the course of a typical day (presumed no COVID-19 measures are in place)?"
@@ -279,7 +276,7 @@
     "en": "45 - 64 years"
   },
   "intake.Q6.rg.mat.row4.l.label.0": {
-    "en": "65+"
+    "en": "65+ years"
   },
   "intake.Q6c.title.0": {
     "en": "Is one or several of these people at risk of complications in case of the flu (influenza) or COVID-19 (e.g, pregnant, over 65, underlying health condition, obese, etc.)?"
@@ -303,7 +300,7 @@
     "en": "No"
   },
   "intake.Q6c.rg.scg.option.2": {
-    "en": "I don't know/I would rather not answer"
+    "en": "I don't know"
   },
   "intake.Q6b.title.0": {
     "en": "How many of the children in your household attend school or day-care?"
@@ -312,7 +309,7 @@
     "en": "Why are we asking this?"
   },
   "intake.Q6b.helpGroup.text.1": {
-    "en": "Attending school, daycare or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue."
+    "en": "Attending school, daycare or childcare can increase the risk of getting infected (e.g. with coronavirus or influenza). We wish to study this issue."
   },
   "intake.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?"
@@ -447,7 +444,7 @@
     "en": "No"
   },
   "intake.Q12.rg.scg.option.2": {
-    "en": "I don't know/I would rather not answer"
+    "en": "I would rather not answer"
   },
   "intake.Q12b.title.0": {
     "en": "What trimester of the pregnancy are you in?"
@@ -468,7 +465,7 @@
     "en": "Third trimester (week 29-delivery)"
   },
   "intake.Q12b.rg.scg.option.3": {
-    "en": "I don't know/I would rather not answer"
+    "en": "I would rather not answer."
   },
   "intake.Q13.title.0": {
     "en": "Do you smoke tobacco?"
@@ -477,7 +474,7 @@
     "en": "Why are we asking this?"
   },
   "intake.Q13.helpGroup.text.1": {
-    "en": "Smoking might make you more likely to get a more severe dose of virus (viral load). We would like to test this."
+    "en": "Smoking might be a risk factor (for viral load). We would like to test this."
   },
   "intake.Q13.helpGroup.text.2": {
     "en": "How should I answer it?"
@@ -501,7 +498,7 @@
     "en": "Yes, but only e-cigarettes"
   },
   "intake.Q13.rg.scg.option.5": {
-    "en": "I dont know/I would rather not answer"
+    "en": "I would rather not answer."
   },
   "intake.Q14.title.0": {
     "en": "Do you have one of the following allergies that can cause respiratory symptoms?"
@@ -510,7 +507,7 @@
     "en": "Why are we asking this?"
   },
   "intake.Q14.helpGroup.text.1": {
-    "en": "Certain allergies provoke the same/similar symptoms as respiratory infections."
+    "en": "Certain allergies lead to similar symptoms as respiratory infections."
   },
   "intake.Q14.helpGroup.text.2": {
     "en": "How should I answer this question?"
@@ -531,7 +528,7 @@
     "en": "Allergy against domestic animals or pets"
   },
   "intake.Q14.rg.mcg.option.3": {
-    "en": "Other allergies that cause respiratory symptoms (e.g. sneezing, runny eyes)"
+    "en": "Other allergies that cause respiratory symptoms (e.g., sneezing, runny eyes)"
   },
   "intake.Q14.rg.mcg.option.4": {
     "en": "I do not have an allergy that causes respiratory symptoms"
@@ -558,7 +555,7 @@
     "en": "Other"
   },
   "intake.Q26.title.0": {
-    "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?"
+    "en": "Are you taking or do you plan to take homeopathic products to prevent (respiratory) infections?"
   },
   "intake.Q26.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -573,10 +570,10 @@
     "en": "No"
   },
   "intake.Q26.rg.scg.option.2": {
-    "en": "I don't know"
+    "en": "I don't know."
   },
   "intake.Q26.rg.scg.option.3": {
-    "en": "I don't want to answer"
+    "en": "I don't want to answer."
   },
   "intake.Q17.title.0": {
     "en": "Where did you first hear about this platform?"
@@ -612,6 +609,6 @@
     "en": "Other"
   },
   "intake.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experienced during the last week."
+    "en": "Thank you! Please submit your answer, and afterwards you can complete the weekly questionnaire."
   }
 }
