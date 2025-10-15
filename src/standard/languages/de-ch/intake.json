@@ -192,7 +192,7 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q4h.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting Infuenza-like-infections is different for people in different types of occupation.",
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting influenza-like infections is different for people in different types of occupation.",
     "de": "Um zu überprüfen, wie repräsentativ unsere Stichprobe im Vergleich zur Gesamtbevölkerung ist, und um herauszufinden, ob die Wahrscheinlichkeit, an grippeähnlicher Infektion zu erkranken, für Menschen mit verschiedenen Berufen unterschiedlich hoch ist."
   },
   "intake.Q4h.helpGroup.text.2": {
@@ -420,7 +420,7 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "intake.Q6b.helpGroup.text.3": {
-    "en": "If your child attends school, daycare or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count.",
+    "en": "If your child attends school, daycare, or childcare (even if only one day a week), please count it. Participation in (sport) associations or other extracurricular activities does not count.",
     "de": "Wenn Ihr Kind in die Schule, Kindertagesstätte oder  Kinderbetreuung geht (auch wenn es nur einen Tag in der Woche ist), zählen Sie dies bitte mit. Die Teilnahme an (Sport-)Vereinen oder anderen außerschulischen Aktivitäten zählt nicht mit."
   },
   "intake.Q6b.rg.scg.option.0": {
@@ -552,7 +552,7 @@
     "de": "Diabetes"
   },
   "intake.Q11.rg.mcg.option.3": {
-    "en": "Chronic lung disorder besides asthma e.g., COPD, emphysema, or other disorders that affect your breathing",
+    "en": "Chronic lung disorder besides asthma, e.g., COPD, emphysema, or other disorders that affect your breathing",
     "de": "Chronische Lungenerkrankung neben Asthma zum Beispiel COPD, Emphysem oder andere Erkrankungen, die Ihre Atmung erschweren können"
   },
   "intake.Q11.rg.mcg.option.4": {
@@ -564,7 +564,7 @@
     "de": "Nierenerkrankung"
   },
   "intake.Q11.rg.mcg.option.6": {
-    "en": "An immunocompromising condition (e.g. splenectomy, organ transplant, acquired immune deficiency, cancer treatment)",
+    "en": "An immunocompromising condition (e.g., splenectomy, organ transplant, acquired immune deficiency, cancer treatment)",
     "de": "Immunschwäche (z.B. Splenektomie, Organtransplantation, erworbene Immunschwäche, Krebsbehandlung)"
   },
   "intake.Q11.rg.mcg.option.7": {
@@ -580,8 +580,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q12.helpGroup.text.1": {
-    "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection.",
-    "de": "Eine Schwangerschaft ist ein potenzieller Risikofaktor für einen schweren Verlauf von Infektionskrakheiten ist."
+    "en": "Pregnancy is a potential risk factor for severe symptoms in the event of infection. We would like to test this.",
+    "de": "Eine Schwangerschaft ist ein potenzieller Risikofaktor für einen schweren Verlauf von Infektionskrakheiten ist. Wir möchten dies gerne überprüfen."
   },
   "intake.Q12.rg.scg.option.0": {
     "en": "Yes",
@@ -604,8 +604,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "intake.Q12b.helpGroup.text.1": {
-    "en": "The risk of severe symptoms can vary depending on the pregnancy trimester, but this link has not yet been clearly established.",
-    "de": "Das Risiko eines schweren Verlaufs kann je nach Schwangerschaftstrimester variieren. Dieser Zusammenhang ist jedoch noch nicht eindeutig geklärt."
+    "en": "The risk of severe symptoms might vary depending on the pregnancy trimester. We would like to test this.",
+    "de": "Das Risiko eines schweren Verlaufs könnte je nach Schwangerschaftstrimester variieren. Wir möchten dies gerne testen."
   },
   "intake.Q12b.rg.scg.option.0": {
     "en": "First trimester (week 1-12)",
@@ -620,8 +620,8 @@
     "de": "Drittes Trimester (29. Woche - Entbindung)"
   },
   "intake.Q12b.rg.scg.option.3": {
-    "en": "Don't know/would rather not answer",
-    "de": "Ich weiss es nicht/diese Frage möchte ich lieber nicht beantworten"
+    "en": "Iwould rather not answer",
+    "de": "Diese Frage möchte ich lieber nicht beantworten"
   },
   "intake.Q13.title.0": {
     "en": "Do you smoke tobacco?",
@@ -633,7 +633,7 @@
   },
   "intake.Q13.helpGroup.text.1": {
     "en": "Smoking might make you more likely to get a more severe dose of viral disease. We would like to test this.",
-    "de": "Rauchen könnte die Wahrscheinlichkeit erhöhen, einer höheren Viruslast (viral load) ausgesetzt zu sein. Diesen Zusammenhang möchten wir gerne untersuchen."
+    "de": "Rauchen könnte die Wahrscheinlichkeit erhöhen, dass Sie eine schwerere Erkranken. Wir möchten dies gerne überprüfen."
   },
   "intake.Q13.helpGroup.text.2": {
     "en": "How should I answer it?",
@@ -709,7 +709,7 @@
   },
   "intake.Q14.rg.mcg.option.4": {
     "en": "I do not have an allergy that causes respiratory symptoms",
-    "de": "Ich habe keine Allergie, die Symptome vom Atemwegsinfektionen verursacht. "
+    "de": "Ich habe keine Allergie, die Symptome vom Atemwegsinfektionen verursacht."
   },
   "intake.Q15.title.0": {
     "en": "Do you follow a special diet?",
@@ -760,8 +760,8 @@
     "de": "Nein"
   },
   "intake.Q26.rg.scg.option.2": {
-    "en": "I don't know",
-    "de": "Ich weiss es nicht"
+    "en": "I don't know.",
+    "de": "Ich weiss es nicht."
   },
   "intake.Q26.rg.scg.option.3": {
     "en": "I don't want to answer.",
@@ -797,11 +797,11 @@
   },
   "intake.Q17.rg.mcg.option.3": {
     "en": "By poster",
-    "de": "Durch ein Poster/Flyer"
+    "de": "Durch Posters oder Flyer"
   },
   "intake.Q17.rg.mcg.option.4": {
     "en": "Via family or friends",
-    "de": "Durch Freunde und/oder Familie"
+    "de": "Durch Freunde bzw. Ihre Familie"
   },
   "intake.Q17.rg.mcg.option.5": {
     "en": "Via school or work",
