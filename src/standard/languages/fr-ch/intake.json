@@ -48,8 +48,8 @@
     "fr": "Afin d’examiner les éventuelles différences entre les groupes d’âge."
   },
   "intake.Q2.rg.feedback.text.1": {
-    "en": " years old",
-    "fr": " ans"
+    "en": "years old",
+    "fr": "ans"
   },
   "intake.Q3.title.0": {
     "en": "What is your home postal code?",
@@ -60,7 +60,7 @@
     "fr": "Pourquoi posons-nous cette question ?"
   },
   "intake.Q3.helpGroup.text.1": {
-    "en": "In order to verify the representativeness of our cohort (the group of participants in this study), and to examine the geographical differences in the spread of the coronavirus and influenza.",
+    "en": "To verify the representativeness of our cohort (the group of participants in this study), and to examine the geographical differences in the spread of the coronavirus and influenza.",
     "fr": "Afin de vérifier la représentativité de notre cohorte (le groupe de participant-es à cette étude) et d'examiner les différences géographiques au niveau de la propagation de la COVID-19 et de la grippe."
   },
   "intake.Q3.helpGroup.text.2": {
@@ -88,7 +88,7 @@
     "fr": "Veuillez entrer les chiffres de votre code postal"
   },
   "intake.Q3.error.4": {
-    "en": "Please enter at most 5 digits",
+    "en": "Please enter at most 4 digits",
     "fr": "Veuillez entrer au maximum 4 chiffres"
   },
   "intake.Q4.title.0": {
@@ -116,7 +116,7 @@
     "fr": "Employé-e, à temps plein"
   },
   "intake.Q4.rg.scg.option.1": {
-    "en": "Paid employment, part time",
+    "en": "Paid employment, part-time",
     "fr": "Employé-e, à temps partiel"
   },
   "intake.Q4.rg.scg.option.2": {
@@ -128,7 +128,7 @@
     "fr": "Fréquentant une crèche/école/collège/université"
   },
   "intake.Q4.rg.scg.option.4": {
-    "en": "Home-maker (e.g. housewife)",
+    "en": "Home-maker (e.g., childcare)",
     "fr": "Homme/femme au foyer"
   },
   "intake.Q4.rg.scg.option.5": {
@@ -148,8 +148,8 @@
     "fr": "Autre"
   },
   "intake.Q4b.title.0": {
-    "en": "What is the postal code of your school/college/workplace (where you spend the majority of your working/studying time)?",
-    "fr": "Quel est le code postal de votre école/collège/lieu de travail (lieu où vous passez la majorité de votre temps de travail ou d'étude) ?"
+    "en": "What is the postal code of the institution or workplace where you primarily study or work?",
+    "fr": "Quel est le code postal de l'établissement ou du lieu de travail où vous étudiez ou travaillez principalement ?"
   },
   "intake.Q4b.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -168,23 +168,23 @@
     "fr": "Code postal"
   },
   "intake.Q4b.rg.scg.option.1": {
-    "en": "I don’t know",
-    "fr": "Je ne sais pas"
+    "en": "I don’t know.",
+    "fr": "Je ne sais pas."
   },
   "intake.Q4b.rg.scg.option.2": {
     "en": "Not applicable (e.g. don’t have a fixed workplace)",
     "fr": "Non applicable (exemple : je n'ai pas de lieu de travail fixe)"
   },
   "intake.Q4b.error.3": {
-    "en": "Please enter the digits of your postal code",
+    "en": "Please enter the digits of your postal code.",
     "fr": "Veuillez entrer les chiffres de votre code postal"
   },
   "intake.Q4b.error.4": {
-    "en": "Please enter at most 5 digits",
+    "en": "Please enter at most four digits",
     "fr": "Veuillez entrer au maximum 4 chiffres"
   },
   "intake.Q4h.title.0": {
-    "en": "Which of the following descriptions most closely matches with your main occupation? ",
+    "en": "Which of the following descriptions most closely matches your main occupation?",
     "fr": "Laquelle des descriptions suivantes correspond le mieux à votre occupation principale ?"
   },
   "intake.Q4h.helpGroup.text.0": {
@@ -192,8 +192,8 @@
     "fr": "Pourquoi posons-nous cette question ?"
   },
   "intake.Q4h.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting COVID-19 or flu are different for people in different types of occupation.",
-    "fr": "Afin de vérifier la représentativité de notre échantillon par rapport à l'ensemble de la population et afin de savoir si les risques de contracter la COVID-19 ou la grippe sont différents selon le type de profession."
+    "en": "To check how representative our sample is compared to the population as a whole and to find out whether the chance of getting Infuenza-like-infections is different for people in different types of occupation.",
+    "fr": "Afin de vérifier la représentativité de notre échantillon par rapport à l'ensemble de la population et afin de savoir si les risques de contracter une affection grippale sont différents selon le type de profession."
   },
   "intake.Q4h.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -204,64 +204,60 @@
     "fr": "Veuillez sélectionner l'option qui correspond le mieux à votre activité ou à votre profession principale."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Services and sales workers (Personal Services Workers, Sales Workers, Personal Care Workers, Protective Services Workers)",
-    "fr": "Personnel des services directs aux particuliers, commerçant/commerçante et vendeur/vendeuse (personnel des services directs aux particuliers, commerçant/commerçante, vendeur/vendeuse, personnel soignant, personnel des services de protection et de sécurité)"
+    "en": "Commercial and administrative professions",
+    "fr": "Professions commerciales et administratives"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft and related trades workers (Handicraft and printing workers, Food processing, wood working, garment and other craft and related trades workers,  Metal, machinery and related trades workers, Electrical and electronic trades workers, Building and related trades workers, excluding electricians)",
-    "fr": "Métier qualifié de l’industrie et de l’artisanat (métier qualifié de l’artisanat et de l’imprimerie, métier de l’alimentation, du travail sur bois, de l’habillement et autre métier qualifié de l’industrie et de l’artisanat, métier qualifié de la métallurgie, de la construction mécanique et assimilés, métier de l’électricité et de l’électrotechnique, métier qualifié du bâtiment et assimilés, sauf électriciens)"
+    "en": "Craft-technical occupations (including installation jobs, etc.)",
+    "fr": "Métiers artisanaux et techniques (dont métiers de montage, etc.)"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Armed forces occupations (Commissioned armed forces officers, Armed forces occupations other ranks, Non-commissioned armed forces officers)",
-    "fr": "Profession militaire (officier/officière des forces armées, sous-officier/sous-officière des forces armées, autre membre des forces armées)"
+    "en": "Security personnel (in the military, police, etc.)",
+    "fr": "Personnel de sécurité (dans l'armée, la police, etc.)"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Managers (Chief Executives, Senior Officials and Legislators, Administrative and Commercial Managers, Production and Specialized Services Managers, Hospitality, Retail and Other Services Managers)",
-    "fr": "Directeur/directrice, cadre de direction et gérant/gérante (directeur/directrice général-e, cadre supérieur-e et membre de l’exécutif et des corps législatifs, directeur/directrice de services administratifs et commerciaux, directeur/directrice et cadre de direction dans la production et les services spécialisés, directeur/directrice et gérant-e dans l’hôtellerie, la restauration, le commerce et les autres services)"
+    "en": "Management personnel",
+    "fr": "Personnel de direction"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Professionals (Science and Engineering Professionals, Health Professionals,  Teaching Professionals, Business and Administration Professionals, Information and Communications Technology Professionals, Legal, Social and Cultural Professionals)",
-    "fr": "Profession intellectuelle et scientifique (spécialiste des sciences techniques, spécialiste de la santé, spécialiste de l’enseignement, spécialiste en administration d’entreprises, spécialiste des technologies de l’information et des communications, spécialiste de la justice, des sciences sociales et de la culture)"
+    "en": "Academically qualified professions (incl. teachers)",
+    "fr": "Professionnels académiquement qualifiés (y compris les enseignants)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Technicians and associate professionals (Science and Engineering Associate Professionals, Health Associate Professionals, Business and Administration Associate Professionals, Legal, Social, Cultural and Related Associate Professionals, Information and Communications Technicians)",
-    "fr": "Profession intermédiaire (profession intermédiaire des sciences et techniques, profession intermédiaire de la santé, profession intermédiaire dans la finance et l'administration, profession intermédiaire des services juridiques, des services sociaux et services similaires, technicien/technicienne dans l’information et les communications)"
+    "en": "Assistants and support staff (e.g. cleaning staff)",
+    "fr": "Professions auxiliaires et travailleurs non qualifiés (comme le personnel de nettoyage)"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Clerical support workers (General and Keyboard Clerks, Customer Services Clerks,  Numerical and Material Recording Clerks, Other Clerical Support Workers)",
-    "fr": "Employé-e administratif/administrative (employé-e de bureau, employé-e de réception, guichetier/guichetière et emploi similaire, employé-e des services comptables et de l’approvisionnement, autre employé-e de type administratif)"
+    "en": "Skilled agricultural, forestry and fishery workers",
+    "fr": "Travailleurs qualifiés en agriculture, foresterie et pêche"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "fr": "Agriculteur/agricultrice et ouvrier/ouvrière qualifié-e de l’agriculture, de la sylviculture et de la pêche"
+    "en": "Health professionals",
+    "fr": "Gesundheitspersonal"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Plant and machine operators and assemblers (Stationary Plant and Machine Operators, Assemblers, Drivers and Mobile Plant Operators)",
-    "fr": "Conducteur/conductrice d’installations et de machines, ouvrier/ouvrière dans l’assemblage (conducteur/conductrice de machines et d’installations fixes, ouvrier/ouvrière dans l’assemblage, conducteur/conductrice de véhicules et d’engins lourds de levage et de manœuvre)"
+    "en": "Art-related",
+    "fr": "Profession liée à l'art"
   },
   "intake.Q4h.rg.scg.option.9": {
-    "en": "Elementary occupations (Cleaners and Helpers, Agricultural, Forestry and Fishery Labourers, Labourers in Mining, Construction, Manufacturing and Transport, Food Preparation Assistants, Street and Related Sales and Services Workers, Refuse Workers and Other Elementary Workers)",
-    "fr": "Profession élémentaire (aide ménagère, manœuvre dans l’agriculture, la pêche et la sylviculture, manœuvre dans les mines, le bâtiment, les travaux publics, les industries manufacturières et les transports, assistant-e de fabrication dans l'alimentation, vendeur/vendeuse ambulant, autre travailleur/travailleuse des métiers de la rue et emploi similaire, éboueur/éboueuse et autre travailleur/travailleuse non qualifié-e)"
-  },
-  "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
     "fr": "Autre"
   },
-  "intake.Q4h.rg.scg.description.input.10": {
+  "intake.Q4h.rg.scg.description.input.9": {
     "en": "Describe here (optional)",
     "fr": "Veuillez fournir une description ici (facultatif)"
   },
   "intake.Q4d.title.0": {
-    "en": "What is the highest level of formal education/qualification that you have?",
-    "fr": "Quel est le plus haut niveau d'éducation formelle ou de qualification que vous possédez ?"
+    "en": "What is your highest level of education?",
+    "fr": "Quel est votre niveau d'études le plus élevé ?"
   },
   "intake.Q4d.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "fr": "Pourquoi posons-nous cette question ?"
   },
   "intake.Q4d.helpGroup.text.1": {
-    "en": "To check how representative our sample is compared to the population of the UK (Italy, Belgium..) as a whole.",
-    "fr": "Afin de vérifier la représentativité de notre échantillon par rapport à la population de la Suisse dans son ensemble."
+    "en": "To check how representative our sample is compared to the general population and other countries.",
+    "fr": "Afin de vérifier la représentativité de notre échantillon par rapport à la population de la Suisse et à d’autres pays."
   },
   "intake.Q4d.helpGroup.text.2": {
     "en": "How should I answer it?",
@@ -280,12 +276,12 @@
     "fr": "Je n'ai pas de qualification formelle"
   },
   "intake.Q4d.rg.mcg.option.1": {
-    "en": "GCSEs, levels, CSEs or equivalent",
+    "en": "Elementary School Diploma",
     "fr": "Scolarité obligatoire ou équivalent"
   },
   "intake.Q4d.rg.mcg.option.2": {
-    "en": "A-levels or equivalent (e.g. Higher, NVQ Level3, BTEC)",
-    "fr": "Maturité fédérale ou professionnelle, apprentissage ou équivalent "
+    "en": "High school diploma or an apprenticeship",
+    "fr": "Maturité fédérale ou professionnelle (lycée, baccalauréat spécialisé ou équivalent) ou diplôme d'apprentissage"
   },
   "intake.Q4d.rg.mcg.option.3": {
     "en": "Bachelor Degree (BA, BSc) or equivalent",
@@ -296,12 +292,12 @@
     "fr": "Diplôme de Master ou équivalent (par exemple : master, doctorat, diplôme de médecine, diplôme professionnel supérieur)"
   },
   "intake.Q4d.rg.mcg.option.5": {
-    "en": "I am still in education",
-    "fr": "Je suis encore en études"
+    "en": "I am still in education.",
+    "fr": "Je suis encore en études."
   },
   "intake.Q5.title.0": {
-    "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day (so without COVID-19 measures)?",
-    "fr": "A l'exception des personnes que vous rencontrez dans les transports publics, avez-vous des contacts avec l'une des catégories suivantes au cours d'une journée typique (sans les mesures liées à la COVID-19) ?"
+    "en": "Except people you meet on public transportation, do you have contact with any of the following during the course of a typical day?",
+    "fr": "A l'exception des personnes que vous rencontrez dans les transports publics, avez-vous des contacts avec l'une des catégories suivantes au cours d'une journée typique ?"
   },
   "intake.Q5.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -372,7 +368,7 @@
     "fr": "45 - 64 ans"
   },
   "intake.Q6.rg.mat.row4.l.label.0": {
-    "en": "65+",
+    "en": "65+ years",
     "fr": "Plus de 65 ans"
   },
   "intake.Q6c.title.0": {
@@ -404,8 +400,8 @@
     "fr": "Non"
   },
   "intake.Q6c.rg.scg.option.2": {
-    "en": "Don't know/would rather not answer",
-    "fr": "Je ne sais pas / Je préfère ne pas répondre à cette question"
+    "en": "Don't know",
+    "fr": "Je ne sais pas"
   },
   "intake.Q6b.title.0": {
     "en": "How many of the children in your household go to school or day-care?",
@@ -416,8 +412,8 @@
     "fr": "Pourquoi posons-nous cette question ?"
   },
   "intake.Q6b.helpGroup.text.1": {
-    "en": "Attending school, daycare or childcare can increase the risk of contracting the coronavirus or influenza, as well as other similar illnesses. We wish to study this issue.",
-    "fr": "Le fait de fréquenter une école, une crèche ou une garderie peut augmenter le risque de contracter la COVID-19 ou la grippe, ainsi que d'autres maladies similaires. Nous souhaitons étudier cette question."
+    "en": "Attending school, daycare or childcare can increase the risk of getting infected (e.g. with coronavirus or influenza). We wish to study this issue.",
+    "fr": "Le fait de fréquenter une école, une crèche ou une garderie peut augmenter le risque d'être infecté (par exemple par le coronavirus ou la grippe). Nous souhaitons étudier cette question."
   },
   "intake.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -596,8 +592,8 @@
     "fr": "Non"
   },
   "intake.Q12.rg.scg.option.2": {
-    "en": "Don't know/would rather not answer",
-    "fr": "Je ne sais pas / Je préfère ne pas répondre à cette question"
+    "en": "I would rather not answer.",
+    "fr": "Je préfère ne pas répondre à cette question.
   },
   "intake.Q12b.title.0": {
     "en": "Which trimester of the pregnancy are you in?",
@@ -624,8 +620,8 @@
     "fr": "Troisième trimestre (semaine 29 jusqu'à l'accouchement)"
   },
   "intake.Q12b.rg.scg.option.3": {
-    "en": "Don't know/would rather not answer",
-    "fr": "Je ne sais pas / Je préfère ne pas répondre à cette question"
+    "en": "I would rather not answer.",
+    "fr": "Je préfère ne pas répondre à cette question."
   },
   "intake.Q13.title.0": {
     "en": "Do you smoke tobacco?",
@@ -668,8 +664,8 @@
     "fr": "Oui, uniquement des e-cigarettes"
   },
   "intake.Q13.rg.scg.option.5": {
-    "en": "Dont know/would rather not answer",
-    "fr": "Je ne sais pas / Je préfère ne pas répondre à cette question"
+    "en": "I would rather not answer.",
+    "fr": "Je préfère ne pas répondre à cette question."
   },
   "intake.Q14.title.0": {
     "en": "Do you have one of the following allergies that can cause respiratory symptoms?",
@@ -680,8 +676,8 @@
     "fr": "Pourquoi posons-nous cette question ?"
   },
   "intake.Q14.helpGroup.text.1": {
-    "en": "Certain allergies provoke the same symptoms as respiratory infections.",
-    "fr": "Certaines allergies provoquent les mêmes symptômes que les infections des voies respiratoires."
+    "en": "Certain allergies lead to similar symptoms as respiratory infections.",
+    "fr": "Certaines allergies provoquent des symptômes similaires à ceux des infections respiratoires."
   },
   "intake.Q14.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -708,7 +704,7 @@
     "fr": "Allergie aux animaux domestiques"
   },
   "intake.Q14.rg.mcg.option.3": {
-    "en": "Other allergies that cause respiratory symptoms (e.g. sneezing, runny eyes)",
+    "en": "Other allergies that cause respiratory symptoms (e.g., sneezing, runny eyes)",
     "fr": "Autres allergies provoquant des symptômes respiratoires (par exemple : éternuements, écoulement oculaire)"
   },
   "intake.Q14.rg.mcg.option.4": {
@@ -744,8 +740,8 @@
     "fr": "Autre"
   },
   "intake.Q26.title.0": {
-    "en": "Are you taking or do you plan to take this winter homeopathic products in order to prevent COVID-19?",
-    "fr": "Prenez-vous ou envisagez-vous de prendre cet hiver un médicament homéopathique afin de prévenir la COVID-19 ?"
+    "en": "Are you taking or do you plan to take this winter homeopathic products to prevent (respiratory) infections?",
+    "fr": "Prenez-vous ou envisagez-vous de prendre un médicament homéopathique afin de prévenir les infections (respiratoires) ?"
   },
   "intake.Q26.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -764,12 +760,12 @@
     "fr": "Non"
   },
   "intake.Q26.rg.scg.option.2": {
-    "en": "I don't know",
-    "fr": "Je ne sais pas"
+    "en": "I don't know.",
+    "fr": "Je ne sais pas."
   },
   "intake.Q26.rg.scg.option.3": {
-    "en": "I don't want to answer",
-    "fr": "Je préfère ne pas répondre à cette question"
+    "en": "I don't want to answer.",
+    "fr": "Je préfère ne pas répondre à cette question."
   },
   "intake.Q17.title.0": {
     "en": "Where did you first hear about the platform?",
@@ -816,7 +812,7 @@
     "fr": "Autre"
   },
   "intake.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. Please come back or continue reporting symptoms you experience during the last week.",
-    "fr": "Merci beaucoup! C'était la dernière question. Après avoir sauvegardé vos réponses (cliquez sur \"Envoyer\"), vous pouvez aller à la page qui vous permettra d'indiquer si vous avez eu des symptômes ou non au cours de la semaine écoulée."
+    "en": "Thank you! Please submit your answer and afterwards, you can fill out the weekly symptom questionnaire.",
+    "fr": "Merci ! Veuillez soumettre votre réponse, puis vous pourrez remplir le questionnaire hebdomadaire sur les symptômes."
   }
 }
