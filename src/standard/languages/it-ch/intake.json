@@ -239,11 +239,15 @@
     "en": "Art-related",
     "it": "Professioni artistiche"
   },
-  "intake.Q4h.rg.scg.input.9": {
+    "intake.Q4h.rg.scg.input.9": {
+    "en": "Workin in service (or sales)",
+    "it": "Lavorare nel settore dei servizi (o delle vendite)"
+  },
+  "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
     "it": "Altro"
   },
-  "intake.Q4h.rg.scg.description.input.9": {
+  "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
     "it": "Descrivi qui (opzionale)"
   },
