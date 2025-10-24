@@ -239,11 +239,15 @@
     "en": "Art-related",
     "de": "Küstlerische Berufe"
   },
-  "intake.Q4h.rg.scg.input.9": {
+  "intake.Q4h.rg.scg.option.9": {
+    "en": "Service (and sales) workers",
+    "de": "Arbeiten im Service (oder im Verkauf)"
+  },
+  "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
     "de": "Sonstige"
   },
-  "intake.Q4h.rg.scg.description.input.9": {
+  "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
     "de": "Hier beschreiben (optional)"
   },
