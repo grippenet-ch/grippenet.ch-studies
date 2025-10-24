@@ -240,10 +240,14 @@
     "fr": "Profession liée à l'art"
   },
   "intake.Q4h.rg.scg.option.9": {
+    "en": "Work in service (or sales)",
+    "fr": "Travailler dans les services (ou dans la vente)"
+  },
+  "intake.Q4h.rg.scg.option.10": {
     "en": "Other",
     "fr": "Autre"
   },
-  "intake.Q4h.rg.scg.description.input.9": {
+  "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",
     "fr": "Veuillez fournir une description ici (facultatif)"
   },
