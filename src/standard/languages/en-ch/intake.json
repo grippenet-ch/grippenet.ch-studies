@@ -168,21 +168,24 @@
     "en": "Academically qualified professions (incl. teachers)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Assistants and support staff (such as cleaning staff)"
+    "en": "Health professionals"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Skilled agricultural, forestry and fishery workers"
+    "en": "Assistants and support staff (such as cleaning staff)"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Health professionals"
+    "en": "Skilled agricultural, forestry and fishery workers"
   },
   "intake.Q4h.rg.scg.option.8": {
     "en": "Art-related"
   },
-  "intake.Q4h.rg.scg.input.9": {
+  "intake.Q4h.rg.scg.option.9": {
+    "en": "Service (and sales) workers"
+  },
+  "intake.Q4h.rg.scg.input.10": {
     "en": "Other"
   },
-  "intake.Q4h.rg.scg.description.input.9": {
+  "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)"
   },
   "intake.Q4d.title.0": {
