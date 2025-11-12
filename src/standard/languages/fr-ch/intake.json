@@ -203,46 +203,67 @@
     "en": "Please tick the box that most closely resembles your main occupation.",
     "fr": "Veuillez sélectionner l'option qui correspond le mieux à votre activité ou à votre profession principale."
   },
+ {
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Commercial and administrative professions",
-    "fr": "Professions commerciales et administratives"
+    "en": "Service and sales workers",
+    "de": "Dienstleistungen und Verkauf",
+    "fr": "Professionnels des services et de la vente",
+    "it": "Addetti ai servizi e alle vendite"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft-technical occupations (including installation jobs, etc.)",
-    "fr": "Métiers artisanaux et techniques (dont métiers de montage, etc.)"
+    "en": "Craft and related trades workers (including technical and assembly work)",
+    "de": "Handwerklich-technisch Berufe (inkl. Arbeiten mit Maschinen und in der Montage)",
+    "fr": "Métiers de l'artisanat et métiers apparentés (y compris travaux techniques et de montage)",
+    "it": "Professioni artigianali e affini (inclusi lavori tecnici e di montaggio)"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Security personnel (in the military, police, etc.)",
-    "fr": "Personnel de sécurité (dans l'armée, la police, etc.)"
+    "en": "Security personnel",
+    "de": "Sicherheits- und Schutzpersonal",
+    "fr": "Personnel de sécurité",
+    "it": "Personale di sicurezza"
   },
   "intake.Q4h.rg.scg.option.3": {
     "en": "Management personnel",
-    "fr": "Personnel de direction"
+    "de": "Führungskraft",
+    "fr": "Personnel de direction",
+    "it": "Personale dirigente"
   },
   "intake.Q4h.rg.scg.option.4": {
     "en": "Academically qualified professions (incl. teachers)",
-    "fr": "Professionnels académiquement qualifiés (y compris les enseignants)"
+    "de": "Akademische Berufe (inkl. Lehrkräfte)",
+    "fr": "Professions académiques (y compris les enseignant·e·s)",
+    "it": "Professioni accademiche (incl. insegnanti)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Assistants and support staff (e.g. cleaning staff)",
-    "fr": "Professions auxiliaires et travailleurs non qualifiés (comme le personnel de nettoyage)"
+    "en": "Health professionals (nurses, doctors, therapists)",
+    "de": "Gesundheitspersonal (Pflegefachpersonen, Ärzt:innen, Therapeut:innen)",
+    "fr": "Professionnels de la santé (infirmier·ère·s, médecins, thérapeutes)",
+    "it": "Professionisti della salute (infermieri, medici, terapisti)"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "fr": "Travailleurs qualifiés en agriculture, foresterie et pêche"
+    "en": "Administrative workers",
+    "de": "Kaufmännisch-verwaltend Berufe",
+    "fr": "Personnel administratif et commercial",
+    "it": "Personale amministrativo e commerciale"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Health professionals",
-    "fr": "Gesundheitspersonal"
+    "en": "Skilled professionals in landscaping like agriculture",
+    "de": "Berufe im Bereich Landschaftspflege",
+    "fr": "Professions dans l'entretien paysager et l'agriculture",
+    "it": "Professioni nel settore della manutenzione del paesaggio e dell'agricoltura"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Art-related",
-    "fr": "Profession liée à l'art"
+    "en": "Art-related occupations",
+    "de": "Küstlerische Berufe",
+    "fr": "Professions artistiques",
+    "it": "Professioni artistiche"
   },
   "intake.Q4h.rg.scg.option.9": {
-    "en": "Work in service (or sales)",
-    "fr": "Travailler dans les services (ou dans la vente)"
-  },
+    "en": "Assistants and elementary occupations",
+    "de": "Assistenz- und Hilfsarbeitskräfte",
+    "fr": "Assistants et professions élémentaires",
+    "it": "Assistenti e professioni elementari"
+  }
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
     "fr": "Autre"
