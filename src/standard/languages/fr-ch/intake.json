@@ -203,7 +203,6 @@
     "en": "Please tick the box that most closely resembles your main occupation.",
     "fr": "Veuillez sélectionner l'option qui correspond le mieux à votre activité ou à votre profession principale."
   },
- {
   "intake.Q4h.rg.scg.option.0": {
     "en": "Service and sales workers",
     "de": "Dienstleistungen und Verkauf",
@@ -263,7 +262,7 @@
     "de": "Assistenz- und Hilfsarbeitskräfte",
     "fr": "Assistants et professions élémentaires",
     "it": "Assistenti e professioni elementari"
-  }
+  },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",
     "fr": "Autre"
