@@ -639,10 +639,10 @@
     "en": "Yes, negative for COVID-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
-    "en": "Yes, but the results are inconclusive"
+    "en": "Yes, but the results are inconclusive."
   },
   "weekly.EX.Qcov16b.rg.scg.option.3": {
-    "en": "No, I have not yet received the test results"
+    "en": "No, I have not yet received the test results."
   },
   "weekly.EX.Qcov16f.title.0": {
     "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (If several were performed and at least one was positive, check the “Positive” answer)"
@@ -660,7 +660,7 @@
     "en": "Yes, negative for COVID-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
-    "en": "Yes, but the results are inconclusive"
+    "en": "Yes, but the results are inconclusive."
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
     "en": "I don't know / I don't want to answer"
@@ -696,16 +696,16 @@
     "en": "We want to know which complaints lead people to get tested for the flu (influenza)."
   },
   "weekly.EX.Qcov19.rg.scg.option.0": {
-    "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample"
+    "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample."
   },
   "weekly.EX.Qcov19.rg.scg.option.1": {
-    "en": "Yes, a rapid detection test (result available in less than an hour)"
+    "en": "Yes, a rapid detection test (result available in less than an hour)."
   },
   "weekly.EX.Qcov19.rg.scg.option.2": {
-    "en": "Not yet, but I have a prescription and plan to shortly undergo a test"
+    "en": "Not yet, but I have a prescription and plan to shortly undergo a test."
   },
   "weekly.EX.Qcov19.rg.scg.option.3": {
-    "en": "No, I have a prescription but will not undergo a test"
+    "en": "No, I have a prescription but will not undergo a test."
   },
   "weekly.EX.Qcov19.rg.scg.option.4": {
     "en": "No"
@@ -720,16 +720,16 @@
     "en": "We want to understand how the flu is spreading within the population."
   },
   "weekly.EX.Qcov19b.rg.scg.option.0": {
-    "en": "Yes, the test is positive for Influenza"
+    "en": "Yes, the test is positive for Influenza."
   },
   "weekly.EX.Qcov19b.rg.scg.option.1": {
-    "en": "Yes, the test is negative for Influenza"
+    "en": "Yes, the test is negative for Influenza."
   },
   "weekly.EX.Qcov19b.rg.scg.option.2": {
-    "en": "Yes, but the results are inconclusive"
+    "en": "Yes, but the results are inconclusive."
   },
   "weekly.EX.Qcov19b.rg.scg.option.3": {
-    "en": "No, I have not yet received the test results"
+    "en": "No, I have not yet received the test results."
   },
   "weekly.EX.Q9.title.0": {
     "en": "Did you take medication for these symptoms?"

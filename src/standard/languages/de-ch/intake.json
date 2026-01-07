@@ -204,44 +204,34 @@
     "de": "Bitte kreuzen Sie das Kästchen an, das Ihrer Hauptbeschäftigung am nächsten kommt."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Commercial and administrative professions",
-    "de": "Kaufmännisch-verwaltend Berufe"
+    "de": "Dienstleistungen und Verkauf"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft-technical occupations (including installation jobs, etc.)",
-    "de": "Handwerklich-technisch Berufe (inkl. Montageberufe etc.)"
+    "de": "Handwerklich-technisch Berufe"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Security personnel (in the military, police, etc.)",
-    "de": "Sicherheitspersonal (in der Armee, bei der Polizei, usw.)"
+    "de": "Sicherheits- und Schutzpersonal"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Management personnel",
     "de": "Führungskraft"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Academically qualified professions (incl. teachers)",
     "de": "Akademische Berufe (inkl. Lehrkräfte)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Assistants and support staff (such as cleaning staff)",
-    "de": "Assistenzberufe und Hilfsarbeitskräfte (wie z.B. Reinigungspersonal)"
+    "de": "Technische Berufe"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "de": "Berufe im Bereich Landschaftspflege"
+    "de": "Kaufmännisch- und verwaltende Berufe"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Health professionals",
-    "de": "Gesundheitspersonal"
+    "de": "Berufe im Bereich Landschaftspflege (inkl. Landwirtschaft)"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Art-related",
-    "de": "Küstlerische Berufe"
+    "de": "Berufe mit Maschinen und in der Montage"
   },
   "intake.Q4h.rg.scg.option.9": {
-    "en": "Service (and sales) workers",
-    "de": "Arbeiten im Service (oder im Verkauf)"
+    "de": "Assistenz- und Hilfsarbeitskräfte"
   },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",

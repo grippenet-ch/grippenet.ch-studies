@@ -153,34 +153,34 @@
     "en": "Please tick the box that most closely describes your main occupation."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Commercial and administrative professions"
+    "en": "Services and sales"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft-technical occupations (including installation jobs, etc.)"
+    "en": "Craft and technical occupations"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Security personnel (in the military, police, etc.)"
+    "en": "Security and protection personnel"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Management personnel"
+    "en": "Management / executive position"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Academically qualified professions (incl. teachers)"
+    "en": "Academic professions (including teachers)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Health professionals"
+    "en": "Technical professions"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Assistants and support staff (such as cleaning staff)"
+    "en": "Commercial and administrative occupations"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Skilled agricultural, forestry and fishery workers"
+    "en": "Landscaping and land management occupations (including agriculture)"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Art-related"
+    "en": "Machine operation and assembly occupations"
   },
   "intake.Q4h.rg.scg.option.9": {
-    "en": "Service (and sales) workers"
+    "en": "Assistance and support workers"
   },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other"

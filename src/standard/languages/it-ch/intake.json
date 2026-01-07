@@ -204,48 +204,48 @@
     "it": "Seleziona l'opzione che meglio rappresenta la tua attività principale o professione."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Commercial and administrative professions",
-    "it": "Professioni commerciali e amministrative"
+    "en": "Services and sales",
+  "it": "Servizi e vendita"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft-technical occupations (including installation jobs, etc.)",
-    "it": "Professioni tecnico-artigianali (incl. lavori di installazione, ecc.)"
+    "en": "Craft and technical occupations",
+  "it": "Professioni artigianali e tecniche"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Security personnel (in the military, police, etc.)",
-    "it": "Personale di sicurezza (es. esercito, polizia, ecc.)"
+     "en": "Security and protection personnel",
+  "it": "Personale di sicurezza e di protezione"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Management personnel",
-    "it": "Dirigenti"
+      "en": "Security and protection personnel",
+  "it": "Personale di sicurezza e di protezione"
   },
   "intake.Q4h.rg.scg.option.4": {
-    "en": "Academically qualified professions (incl. teachers)",
-    "it": "Professioni accademiche (incl. insegnanti)"
+    "en": "Academic professions (including teachers)",
+  "it": "Professioni accademiche (compresi gli insegnanti)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Assistants and support staff (such as cleaning staff)",
-    "it": "Assistenti e personale di supporto (es. addetti alle pulizie)"
+"en": "Technical professions",
+  "it": "Professioni tecniche"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "it": "Operai qualificati dell'agricoltura, della silvicoltura e della pesca"
+  "en": "Commercial and administrative occupations",
+  "it": "Professioni commerciali e amministrative"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Health professionals",
-    "it": "Operatori sanitari"
+  "en": "Landscaping and land management occupations (including agriculture)",
+  "it": "Professioni nel settore della cura del paesaggio (compresa l’agricoltura)"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Art-related",
-    "it": "Professioni artistiche"
+  "en": "Machine operation and assembly occupations",
+  "it": "Professioni legate all’uso di macchinari e al montaggio"
   },
     "intake.Q4h.rg.scg.option.9": {
-    "en": "Workin in service (or sales)",
-    "it": "Lavorare nel settore dei servizi (o delle vendite)"
+  "en": "Assistance and support workers",
+  "it": "Personale di assistenza e ausiliario"
   },
   "intake.Q4h.rg.scg.input.10": {
-    "en": "Other",
-    "it": "Altro"
+  "en": "Other",
+  "it": "Altro"
   },
   "intake.Q4h.rg.scg.description.input.10": {
     "en": "Describe here (optional)",

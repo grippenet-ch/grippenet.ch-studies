@@ -204,44 +204,44 @@
     "fr": "Veuillez sélectionner l'option qui correspond le mieux à votre activité ou à votre profession principale."
   },
   "intake.Q4h.rg.scg.option.0": {
-    "en": "Commercial and administrative professions",
-    "fr": "Professions commerciales et administratives"
+    "en": "Services and sales",
+    "fr": "Services et vente"
   },
   "intake.Q4h.rg.scg.option.1": {
-    "en": "Craft-technical occupations (including installation jobs, etc.)",
-    "fr": "Métiers artisanaux et techniques (dont métiers de montage, etc.)"
+  "en": "Craft and technical occupations",
+  "fr": "Métiers artisanaux et techniques"
   },
   "intake.Q4h.rg.scg.option.2": {
     "en": "Security personnel (in the military, police, etc.)",
     "fr": "Personnel de sécurité (dans l'armée, la police, etc.)"
   },
   "intake.Q4h.rg.scg.option.3": {
-    "en": "Management personnel",
-    "fr": "Personnel de direction"
+    "en": "Management / executive position",
+    "fr": "Cadre dirigeant"
   },
   "intake.Q4h.rg.scg.option.4": {
     "en": "Academically qualified professions (incl. teachers)",
     "fr": "Professionnels académiquement qualifiés (y compris les enseignants)"
   },
   "intake.Q4h.rg.scg.option.5": {
-    "en": "Assistants and support staff (e.g. cleaning staff)",
-    "fr": "Professions auxiliaires et travailleurs non qualifiés (comme le personnel de nettoyage)"
+    "en": "Technical professions",
+    "fr": "Professions techniques"
   },
   "intake.Q4h.rg.scg.option.6": {
-    "en": "Skilled agricultural, forestry and fishery workers",
-    "fr": "Travailleurs qualifiés en agriculture, foresterie et pêche"
+    "en": "Commercial and administrative occupations",
+     "fr": "Professions commerciales et administratives"
   },
   "intake.Q4h.rg.scg.option.7": {
-    "en": "Health professionals",
-    "fr": "Gesundheitspersonal"
+    "en": "Landscaping and land management occupations (including agriculture)",
+    "fr": "Professions de l’entretien des espaces verts (y compris l’agriculture)"
   },
   "intake.Q4h.rg.scg.option.8": {
-    "en": "Art-related",
-    "fr": "Profession liée à l'art"
+    "en": "Machine operation and assembly occupations",
+    "fr": "Professions liées à l’utilisation de machines et au montage"
   },
   "intake.Q4h.rg.scg.option.9": {
-    "en": "Work in service (or sales)",
-    "fr": "Travailler dans les services (ou dans la vente)"
+    "en": "Support and auxiliary workers",
+    "fr": "Personnel d’assistance et auxiliaire"
   },
   "intake.Q4h.rg.scg.input.10": {
     "en": "Other",

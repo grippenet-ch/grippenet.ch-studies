@@ -824,24 +824,24 @@
     "de": "Ich weiss es nicht oder möchte diese Frage nicht beantworten."
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Have you taken a test due to your symptoms to find out what you have?",
-    "de": "Haben Sie wegen Ihrer Symptome einen Test gemacht, um herauszufinden, was Sie haben?"
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
+    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie COVID-19 haben?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
-    "en": "We would like to know which symptoms lead people to get tested.",
-    "de": "Wir möchten untersuchen, welche Symptome dazu führen, dass sich Personen testen."
+    "en": "We want to know which complaints lead people to get tested for the coronavirus.",
+    "de": "Wir möchten untersuchen, welche Symptome dazu führen, dass sich Menschen auf das Coronavirus testen lassen."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
     "en": "Yes",
     "de": "Ja"
   },
   "weekly.EX.Qcov16h.rg.scg.option.1": {
-    "en": "No, not yet, but I plan to do a test soon.",
-    "de": "Nein, noch nicht, aber ich möchte mich bald testen lassen."
+    "en": "Not yet, I plan to shortly undergo a test",
+    "de": "Nein, noch nicht. Ich plane jedoch mich in Kürze testen zu lassen."
   },
   "weekly.EX.Qcov16h.rg.scg.option.2": {
     "en": "No, I have a prescription but will not undergo a test",
@@ -852,39 +852,39 @@
     "de": "Nein"
   },
   "weekly.EX.Qcov16i.title.0": {
-    "en": "Which test(s) was it?",
-    "de": "Welche(n) Test(s) haben Sie gemacht?"
+    "en": "Which analyse(s) was it?",
+    "de": "Welche(n) COVID-19-Test(s) haben Sie gemacht?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.1": {
-    "en": "To investigate whether people with (flu-like) symptoms are getting tested.",
-    "de": "Um zu untersuchen, ob sich Personen mit (grippeähnlichen) Symptomen testen lassen."
+    "en": "We are interested in knowing how many people with symptoms have udergone a test",
+    "de": "Um zu untersuchen, wie viele Menschen mit grippeähnlichen Symptomen sich testen lassen haben"
   },
   "weekly.EX.Qcov16i.rg.tyZC.text.0": {
     "en": "Multiple answers possible",
     "de": "Mehrere Antworten sind möglich."
   },
   "weekly.EX.Qcov16i.rg.mcg.option.0": {
-    "en": "A PCR test (a swab in nose or mouth, or a sputum or saliva sample)",
+    "en": "A PCR test (virus search, on a swab in nose or mouth, or a sputum or saliva sample)",
     "de": "Ein PCR-Test (Nasen- oder Rachenabstrich oder eine Sputum- oder Speichelprobe)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.1": {
-    "en": "A serological analysis (screening for antibodies from a blood sample)",
+    "en": "A serological analysis (screening for antibodies against this virus, from a drop of blood at fingertip or a blood sample)",
     "de": "Eine serologische Analyse (Screening auf Antikörper anhand einer Blutprobe)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.2": {
-    "en": "A rapid antigen test (nasopharyngeal sampling, done by a health professional and results are obtained in less than one hour)",
-    "de": "Ein Antigen-Schnelltest (Nasenabstrich, der vom Gesunheitspersonal durchgeführt wird und das Ergebnis liegt in weniger als einer Stunde vor)"
+    "en": "A rapid antigen detection test on a sample realized in the back of the nose (nasopharyngeal sampling, done by a health professional or a trained person, with a swab inserted to 15 cm into the nose, result obtained in less than one hour)",
+    "de": "Ein Antigen-Schnelltest anhand einem Nasenabstrich (nasopharyngeale Probenahme, die von einer medizinisch geschulten Person mit einem bis zu 15 cm tief in die Nase eingeführten Tupfer durchgeführt wird; das Ergebnis liegt in weniger als einer Stunde vor)"
   },
   "weekly.EX.Qcov16i.rg.mcg.option.3": {
-    "en": "A rapid antigen self-test (nasopharyngeal sampling that can be done by oneself and results are obtained in a few minutes)",
-    "de": "Ein Antigen-Schnell-Selbsttest (Nasenabstrich wird selbst durchgeführt und das Ergebnis in wenigen Minuten vorliegt)"
+    "en": "A rapid antigen detection test or autotest done on a nasal sample (a swab inserted to 1 - 4 cm into the nostril, sampling that can be done by oneself, result obtained in a few minutes)",
+    "de": "Ein Antigen-Schnelltest oder ein Autotest, der anhand einem Nasenabstrich durchgeführt wird (ein Tupfer, der 1 - 4 cm tief in das Nasenloch eingeführt wird wobei die Probenahme selbst durchgeführt werden kann und das Ergebnis in wenigen Minuten vorliegt)"
   },
   "weekly.EX.Qcov16b.title.0": {
-    "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, choose the 'Positive' answer)",
+    "en": "Do you know the result of your PCR test? (if several were performed and at least one was positive, chose the “Positive” answer)",
     "de": "Kennen Sie das Ergebnis Ihres PCR-Tests? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'Positiv')"
   },
   "weekly.EX.Qcov16b.helpGroup.text.0": {
@@ -892,8 +892,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
-    "en": "We want to understand which virus is spreading within the population.",
-    "de": "Wir möchten verstehen, welcher Virus sich in der Bevölkerun verbreitet."
+    "en": "We want to understand how the coronavirus is spreading within the population.",
+    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerun verbreitet."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
@@ -904,23 +904,15 @@
     "de": "Ja, negativ für COVID-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive.",
-    "de": "Ja, das Resultat war nicht eindeutig."
+    "en": "Yes, the results are inconclusive",
+    "de": "Ja, das Resultat war jedoch nicht ausschlaggebend"
   },
   "weekly.EX.Qcov16b.rg.scg.option.3": {
-    "en": "No, I have not yet received the test results.",
-    "de": "Nein, ich habe mein Testresultat noch nicht erhalten."
-  },
-  "weekly.EX.Qcov16b.rg.scg.option.4": {
-    "en": "Yes, positive for the flu",
-    "de": "Ja, positiv für die Grippe"
-  },
-  "weekly.EX.Qcov16b.rg.scg.option.5": {
-    "en": "Yes, negative for the flu",
-    "de": "Ja, negativ für die Grippe"
+    "en": "No, I have not yet received the test results",
+    "de": "Nein, ich habe mein Testresultat noch nicht erhalten"
   },
   "weekly.EX.Qcov16f.title.0": {
-    "en": "Do you know the result of this rapid antigen detection test performed using a nasal swab? (if several were performed and at least one was positive, choose the 'Positive' answer)",
+    "en": "Do you know the result of this rapid antigen detection test on nasopharyngeal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
     "de": "Kennen Sie das Ergebnis Ihres Antigen-Schnelltests, der durch einem Nasenabstrich (nasopharyngeale Probenahme) durchgeführt wurde? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'positiv')"
   },
   "weekly.EX.Qcov16f.helpGroup.text.0": {
@@ -928,8 +920,8 @@
     "de": "Warum fragen wir Sie das?"
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
-    "en": "We want to understand which viruses are spreading within the population.",
-    "de": "Wir möchten verstehen, welche Viren sich in der Bevölkerung verbreiten."
+    "en": "We want to understand how the coronavirus is spreading within the population.",
+    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
     "en": "Yes, positive for COVID-19",
@@ -940,23 +932,15 @@
     "de": "Ja, negativ für COVID-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive.",
-    "de": "Ja, das Testresultat war nicht eindeutig."
+    "en": "Yes, the results are inconclusive",
+    "de": "Ja, das Resultat ist jedoch nicht ausschlaggebend"
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
-    "en": "I don't want to answer or do not know the result.",
-    "de": "Ich möchte diese Frage nicht beantworten oder kenne das Resultat nicht."
-  },
-  "weekly.EX.Qcov16f.rg.scg.option.4": {
-    "en": "Yes, positive for the flu.",
-    "de": "Ja, positiv für die Grippe."
-  },
-  "weekly.EX.Qcov16f.rg.scg.option.5": {
-    "en": "Yes, negative for for the flu.",
-    "de": "Ja, negativ für die Grippe."
+    "en": "I don't know / I don't want to answer",
+    "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
   },
   "weekly.EX.Qcov16k.title.0": {
-    "en": "Do you know the result of this antigenic test or self-test performed using a nasal swab? (if several were performed and at least one was positive, choose the “Positive” answer)",
+    "en": "Do you know the result of this antigenic test or self-test on nasal sample? (if several were performed and at least one was positive, chose the “Positive” answer)",
     "de": "Kennen Sie das Ergebnis Ihres Antigentests oder Selbsttests, der durch einen Nasenabstrich durchgeführt wurde? (Wenn mehrere Tests durchgeführt wurden und mindestens einer positiv war, wählen Sie die Antwort 'Positiv')"
   },
   "weekly.EX.Qcov16k.helpGroup.text.0": {
@@ -968,30 +952,81 @@
     "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19.",
-    "de": "Ja, positiv für COVID-19."
+    "en": "Yes, positive for COVID-19",
+    "de": "Ja, positiv für COVID-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19.",
-    "de": "Ja, negativ für COVID-19."
+    "en": "Yes, negative for COVID-19",
+    "de": "Ja, negativ für COVID-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive.",
-    "de": "Ja, das Resultat ist nicht eindeutig."
+    "en": "Yes, the results are inconclusive",
+    "de": "Ja, das Resultat ist jedoch nicht ausschlaggebend"
   },
   "weekly.EX.Qcov16k.rg.scg.option.3": {
-    "en": "I don't want to answer or do not know the result.",
-    "de": "Ich möchte diese Frage nicht beantworten oder kenne das Resultat nicht."
+    "en": "I don't know / I don't want to answer",
+    "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
   },
-   "weekly.EX.Qcov16k.rg.scg.option.4": {
-    "en": "Yes, positive for the flu.",
-    "de": "Ja, positiv für die Grippe."
+  "weekly.EX.Qcov19.title.0": {
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
+    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie die Grippe (Influenza) haben??"
   },
-  "weekly.EX.Qcov16k.rg.scg.option.5": {
-    "en": "Yes, negative for the flu.",
-    "de": "Ja, negativ für die Grippe."
+  "weekly.EX.Qcov19.helpGroup.text.0": {
+    "en": "Why are we asking this question?",
+    "de": "Warum fragen wir Sie das?"
   },
-  
+  "weekly.EX.Qcov19.helpGroup.text.1": {
+    "en": "We want to know which complaints lead people to get tested for the flu.",
+    "de": "Wir möchten untersuchen, welche Sympotme Menschen zum Testen für Grippe (Influenza) bewegen."
+  },
+  "weekly.EX.Qcov19.rg.scg.option.0": {
+    "en": "Yes, a PCR test based on a swab in nose or mouth, or a sputum or saliva sample",
+    "de": "Ja, einen PCR-Test mit einem Nasen-Rachen-Abstrich oder einer Sputum- oder Speichelprobe"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.1": {
+    "en": "Yes, a rapid detection test (result available in less than an hour)",
+    "de": "Ja, einen Schnelltest (das Reslutat ist in weniger als einer Stunde vorhanden)"
+  },
+  "weekly.EX.Qcov19.rg.scg.option.2": {
+    "en": "Not yet, I have a prescription and plan to shortly undergo a test",
+    "de": "Noch nicht, es wurde mir jedoch verschrieben mich testen zu lassen und das werde ich bald tun."
+  },
+  "weekly.EX.Qcov19.rg.scg.option.3": {
+    "en": "No, I have a prescription but will not undergo a test",
+    "de": "Nein, es wurde mir zwar verschrieben mich testen zu lassen, das werde ich jedoch nicht tun."
+  },
+  "weekly.EX.Qcov19.rg.scg.option.4": {
+    "en": "No",
+    "de": "Nein"
+  },
+  "weekly.EX.Qcov19b.title.0": {
+    "en": "Have you received the results of your Flu test?",
+    "de": "Haben Sie das Resultat Ihres Grippe(Influenza)-Tests bereits erhalten?"
+  },
+  "weekly.EX.Qcov19b.helpGroup.text.0": {
+    "en": "Why are we asking this question?",
+    "de": "Warum fragen wir Sie das?"
+  },
+  "weekly.EX.Qcov19b.helpGroup.text.1": {
+    "en": "We want to understand how the flu is spreading within the population.",
+    "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.0": {
+    "en": "Yes, the test is positive for influenza",
+    "de": "Ja, der Test ist postiv für Grippe (Influenza)"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.1": {
+    "en": "Yes, the test is negative for influenza",
+    "de": "Ja, der Test ist negativ für Grippe (Influenza)"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.2": {
+    "en": "Yes, the results are inconclusive",
+    "de": "Ja, der Test ist jedoch nicht ausschlaggebend"
+  },
+  "weekly.EX.Qcov19b.rg.scg.option.3": {
+    "en": "No, I have not yet received the test results",
+    "de": "Nein, ich habe das Resultat noch nicht erhalten"
+  },
   "weekly.EX.Q9.title.0": {
     "en": "Did you take medication for your symptoms?",
     "de": "Haben Sie Medikamente gegen Ihre Symptome genommen?"
