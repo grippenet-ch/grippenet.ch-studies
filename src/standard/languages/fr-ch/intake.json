@@ -212,8 +212,8 @@
   "fr": "Métiers artisanaux et techniques"
   },
   "intake.Q4h.rg.scg.option.2": {
-    "en": "Security personnel (in the military, police, etc.)",
-    "fr": "Personnel de sécurité (dans l'armée, la police, etc.)"
+    "en": "Security personnel",
+    "fr": "Personnel de sécurité"
   },
   "intake.Q4h.rg.scg.option.3": {
     "en": "Management / executive position",
@@ -221,7 +221,8 @@
   },
   "intake.Q4h.rg.scg.option.4": {
     "en": "Academically qualified professions (incl. teachers)",
-    "fr": "Professionnels académiquement qualifiés (y compris les enseignants)"
+    "fr": "Professions académiques (y compris les enseignant·e·s)"
+
   },
   "intake.Q4h.rg.scg.option.5": {
     "en": "Technical professions",
