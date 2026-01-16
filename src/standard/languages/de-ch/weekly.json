@@ -12,8 +12,8 @@
     "de": "Dauer 1-5 Minuten"
   },
   "weekly.Q1.title.0": {
-    "en": "Do you currently have, or have you had in the past week, one or more of the following symptoms?",
-    "de": "Haben Sie aktuell oder hatten Sie in der letzten Woche eines oder mehrere der folgenden Symptome?"
+    "en": "Do you currently have, or have you had during the past week, any of the following symptoms? Multiple answers are possible. Please select only symptoms that have appeared recently or have worsened.",
+    "de": "Haben Sie aktuell oder hatten Sie in der letzten Woche eines oder mehrere der folgenden Symptome? Mehrere Antworten sind möglich. Klicken Sie nur auf Symptome, die kürzlich aufgetreten sind oder sich verschlechtert haben."
   },
   "weekly.Q1.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -156,8 +156,8 @@
     "de": "Grippe (Influenza) oder grippeähnliche Erkrankung"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
-    "en": "COVID-19",
-    "de": "COVID-19"
+    "en": "Covid-19",
+    "de": "Covid-19"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold",
@@ -165,7 +165,7 @@
   },
   "weekly.EX.Q11.rg.scg.option.3": {
     "en": "Allergy incl. hay fever",
-    "de": "Allergie inkl. Heuschnupfen"
+    "de": "Allergien inkl. Heuschnupfen"
   },
   "weekly.EX.Q11.rg.scg.option.4": {
     "en": "Ashtma",
@@ -253,7 +253,7 @@
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
     "en": "The coronavirus and influenza can spread better indoors.",
-    "de": "COVID-19 und die Grippe (Influenza) sind leichter in geschlossenen Räumen übertragbar."
+    "de": "Covid-19 und die Grippe (Influenza) sind leichter in geschlossenen Räumen übertragbar."
   },
   "weekly.HS.Qcov3b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -333,7 +333,7 @@
   },
   "weekly.HS.Q4.rg.scg.option.2": {
     "en": "I am still ill",
-    "de": "Ich bin immer noch krank"
+    "de": "Ich habe immer noch Symptome."
   },
   "weekly.HS.Q5.title.0": {
     "en": "Did your symptoms develop suddenly?",
@@ -808,8 +808,8 @@
     "de": "Aus Sorge, dass eine Krankheit(sdiagnose) meinen Alltag, Job oder meine Freizeit einschränkt."
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against respiratory infections (like COVID-19 and flu).",
-    "de": "Weil ich gegen Atemwegsinfektionen (wie COVID-19 und die Grippe) geimpft bin."
+    "en": "Because I am vaccinated against respiratory infections (like Covid-19 and flu).",
+    "de": "Weil ich gegen Atemwegsinfektionen (wie Covid-19 und die Grippe) geimpft bin."
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
@@ -824,8 +824,8 @@
     "de": "Ich weiss es nicht oder möchte diese Frage nicht beantworten."
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie COVID-19 haben?"
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have Covid-19?",
+    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie Covid-19 haben?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -853,7 +853,7 @@
   },
   "weekly.EX.Qcov16i.title.0": {
     "en": "Which analyse(s) was it?",
-    "de": "Welche(n) COVID-19-Test(s) haben Sie gemacht?"
+    "de": "Welche(n) Covid-19-Test(s) haben Sie gemacht?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -896,12 +896,12 @@
     "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerun verbreitet."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "de": "Ja, positiv für COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "de": "Ja, positiv für Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "de": "Ja, negativ für COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "de": "Ja, negativ für Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -924,16 +924,16 @@
     "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "de": "Ja, positiv für COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "de": "Ja, positiv für Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "de": "Ja, negativ für COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "de": "Ja, negativ für Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
-    "en": "Yes, the results are inconclusive",
-    "de": "Ja, das Resultat ist jedoch nicht ausschlaggebend"
+    "en": "Yes, the results are inconclusive.",
+    "de": "Ja, das Resultat ist jedoch nicht klar."
   },
   "weekly.EX.Qcov16f.rg.scg.option.3": {
     "en": "I don't know / I don't want to answer",
@@ -952,12 +952,12 @@
     "de": "Wir möchten verstehen, wie das Coronavirus sich in der Bevölkerung verbreitet."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "de": "Ja, positiv für COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "de": "Ja, positiv für Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "de": "Ja, negativ für COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "de": "Ja, negativ für Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -966,16 +966,16 @@
   "weekly.EX.Qcov16k.rg.scg.option.3": {
     "en": "I don't know / I don't want to answer",
     "de": "Ich weiss es nicht / ich möchte diese Frage nicht beantworten"
-  },
+  }, 
   "weekly.EX.Qcov19.title.0": {
     "en": "Because of your symptoms, did you undergo a test/analyses to know if you have the Flu?",
-    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie die Grippe (Influenza) haben??"
+    "de": "Haben Sie sich aufgrund Ihrer Symptome einem Test/einer Analyse unterzogen, um festzustellen, ob Sie die Grippe (Influenza) haben?"
   },
   "weekly.EX.Qcov19.helpGroup.text.0": {
     "en": "Why are we asking this question?",
     "de": "Warum fragen wir Sie das?"
   },
-  "weekly.EX.Qcov19.helpGroup.text.1": {
+    "weekly.EX.Qcov19.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the flu.",
     "de": "Wir möchten untersuchen, welche Sympotme Menschen zum Testen für Grippe (Influenza) bewegen."
   },
@@ -998,6 +998,10 @@
   "weekly.EX.Qcov19.rg.scg.option.4": {
     "en": "No",
     "de": "Nein"
+  },
+  "weekly.EX.Qcov19b.title.0": {
+    "en": "Have you received the results of your Flu test?",
+    "de": "Haben Sie das Resultat Ihres Grippe(Influenza)-Tests bereits erhalten?"
   },
   "weekly.EX.Qcov19b.title.0": {
     "en": "Have you received the results of your Flu test?",

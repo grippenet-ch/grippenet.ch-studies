@@ -264,8 +264,8 @@
     "de": "Beschreiben Sie diese hier (optional)"
   },
   "vaccination.HV.Q35.title.0": {
-    "en": "Have you received a COVID-19 vaccine?",
-    "de": "Haben Sie sich gegen COVID-19 impfen lassen? "
+    "en": "Have you received a Covid-19 vaccine?",
+    "de": "Haben Sie sich gegen Covid-19 impfen lassen? "
   },
   "vaccination.HV.Q35.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -280,24 +280,24 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q35.helpGroup.text.3": {
-    "en": "Report yes, if you received a COVID-19 vaccine (since December 2020).",
-    "de": "Antworten Sie mit 'Ja', wenn Sie bereits mindestens eine COVID-19-Impfung erhalten haben (seit Dezember 2020)."
+    "en": "Report yes, if you received a Covid-19 vaccine (since December 2020).",
+    "de": "Antworten Sie mit 'Ja', wenn Sie bereits mindestens eine Covid-19-Impfung erhalten haben (seit Dezember 2020)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
-    "en": "Yes, I received at least one COVID-19 vaccine.",
-    "de": "Ja, ich habe bereits mindestens eine COVID-19-Impfdosis erhalten."
+    "en": "Yes, I received at least one Covid-19 vaccine.",
+    "de": "Ja, ich habe bereits mindestens eine Covid-19-Impfdosis erhalten."
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
-    "en": "No, I did not receive a COVID-19 vaccine.",
-    "de": "Nein, ich habe bis jetzt keine COVID-19-Impfung erhalten."
+    "en": "No, I did not receive a Covid-19 vaccine.",
+    "de": "Nein, ich habe bis jetzt keine Covid-19-Impfung erhalten."
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
     "en": "I don't know.",
     "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35i.title.0": {
-    "en": "Which COVID-19 vaccine(s) did you receive?",
-    "de": "Welche COVID-19-Impfung(en) haben Sie erhalten?"
+    "en": "Which Covid-19 vaccine(s) did you receive?",
+    "de": "Welche Covid-19-Impfung(en) haben Sie erhalten?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -360,8 +360,8 @@
     "de": "Wie soll ich diese Frage beantworten?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
-    "en": "Report the number of doses you received (which corresponds to the number of time you got vaccinated against COVID-19).",
-    "de": "Geben Sie die Anzahl der erhaltenen Impfdosen an (dies entspricht der gesamten Anzahl der erhaltenen Impfungen gegen COVID-19). "
+    "en": "Report the number of doses you received (which corresponds to the number of time you got vaccinated against Covid-19).",
+    "de": "Geben Sie die Anzahl der erhaltenen Impfdosen an (dies entspricht der gesamten Anzahl der erhaltenen Impfungen gegen Covid-19). "
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One",
@@ -384,8 +384,8 @@
     "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35j.title.0": {
-    "en": "When did you receive your last vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
-    "de": "Wann haben Sie die letzte COVID-19-Impfung erhalten? Wenn Sie sich nicht an das genaue Datum erinnern können, geben Sie bitte eine Schätzung an."
+    "en": "When did you receive your last vaccine against Covid-19? If you do not know the exact date, provide an estimate.",
+    "de": "Wann haben Sie die letzte Covid-19-Impfung erhalten? Wenn Sie sich nicht an das genaue Datum erinnern können, geben Sie bitte eine Schätzung an."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -412,8 +412,8 @@
     "de": "Ich weiss es nicht."
   },
   "vaccination.HV.Q35f.title.0": {
-    "en": "What are your reason(s) to get vaccinated against COVID-19?",
-    "de": "Was sind Ihre Gründe, sich gegen COVID-19 impfen zu lassen?"
+    "en": "What are your reason(s) to get vaccinated against COovid-19?",
+    "de": "Was sind Ihre Gründe, sich gegen Covid-19 impfen zu lassen?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -448,8 +448,8 @@
     "de": "Ich arbeite in engem Kontakt mit Personen mit einem besonderen Risiko (Arbeit in einem Pflegeheim, Gesundheitspersonal, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
-    "en": "Vaccination decreases my risk of getting COVID-19.",
-    "de": "Die Impfung senkt mein Risiko, an COVID-19 zu erkranken"
+    "en": "Vaccination decreases my risk of getting Covid-19.",
+    "de": "Die Impfung senkt mein Risiko, an Covid-19 zu erkranken"
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
     "en": "Vaccination decreases the risk to infect others.",
@@ -485,7 +485,7 @@
   },
   "vaccination.HV.Q35f.rg.mcg.option.12": {
     "en": "To obtain a valid vaccination passport.",
-    "de": "Ich möchte das COVID-19-Zertifikat erhalten."
+    "de": "Ich möchte das Covid-19-Zertifikat erhalten."
   },
   "vaccination.HV.Q35f.rg.mcg.input.13": {
     "en": "Other",
@@ -496,16 +496,16 @@
     "de": "Beschreiben Sie diese hier (optional)"
   },
   "vaccination.HV.Q35m.title.0": {
-    "en": "What were your reasons for NOT getting a COVID-19 vaccination? Select the options that are most applicable.",
-    "de": "Was sind Ihre Gründe, sich NICHT gegen COVID-19 impfen zu lassen? Wählen Sie die Antworten aus, die am meisten zutreffen."
+    "en": "What were your reasons for NOT getting a Covid-19 vaccination? Select the options that are most applicable.",
+    "de": "Was sind Ihre Gründe, sich NICHT gegen Covid-19 impfen zu lassen? Wählen Sie die Antworten aus, die am meisten zutreffen."
   },
   "vaccination.HV.Q35m.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "de": "Warum fragen wir Sie das?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
-    "en": "We would like to know the main reasons why people decline COVID-19 vaccination.",
-    "de": "Wir möchten die Gründe, warum Personen sich nicht gegen COVID-19 impfen lassen, untersuchen."
+    "en": "We would like to know the main reasons why people decline Covid-19 vaccination.",
+    "de": "Wir möchten die Gründe, warum Personen sich nicht gegen Covid-19 impfen lassen, untersuchen."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -540,32 +540,32 @@
     "de": "Ich gehöre zu keiner Risikogruppe."
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
-    "en": "I think it is better to build natural immunity against COVID-19",
-    "de": "Ich finde es ist besser die körpereigene Immunität gegen COVID-19 aufzubauen."
+    "en": "I think it is better to build natural immunity against Covid-19",
+    "de": "Ich finde es ist besser die körpereigene Immunität gegen Covid-19 aufzubauen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
-    "en": "I doubt that the COVID-19 vaccine is effective.",
-    "de": "Ich zweifle, dass die COVID-19 Impfung wirksam ist."
+    "en": "I doubt that the Covid-19 vaccine is effective.",
+    "de": "Ich zweifle, dass die Covid-19 Impfung wirksam ist."
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
-    "en": "I beleive that COVID-19 is a minor disease.",
-    "de": "Ich finde, COVID-19 ist eine milde Krankheit."
+    "en": "I beleive that Covid-19 is a minor disease.",
+    "de": "Ich finde, Covid-19 ist eine milde Krankheit."
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
     "en": "I avoid seeing doctors or going to the pharmacy.",
     "de": "Ich vermeide ärztliche Hilfe aufzusuchen oder in die Apotheke zu gehen."
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
-    "en": "I don't think I am likely to get the COVID-19.",
-    "de": "Ich glaube nicht, dass ich an COVID-19 erkranke."
+    "en": "I don't think I am likely to get the Covid-19.",
+    "de": "Ich glaube nicht, dass ich an Covid-19 erkranke."
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
-    "en": "I believe that the COVID-19 vaccine can cause COVID-19.",
-    "de": "Ich glaube, dass die COVID-19 Impfung eine COVID-19 hervorrufen kann."
+    "en": "I believe that the Covid-19 vaccine can cause Covid-19.",
+    "de": "Ich glaube, dass die Covid-19 Impfung eine Covid-19 hervorrufen kann."
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
     "en": "I am worried that the vaccine is not safe or causes other adverse events.",
-    "de": "Ich bin besorgt, dass die COVID-19 Impfung nicht sicher ist oder Nebenwirkungen hervorrufen kann."
+    "de": "Ich bin besorgt, dass die Covid-19 Impfung nicht sicher ist oder Nebenwirkungen hervorrufen kann."
   },
   "vaccination.HV.Q35m.rg.mcg.option.12": {
     "en": "I don't like getting vaccinated.",
@@ -596,7 +596,7 @@
     "de": "Beschreiben Sie diese hier (optional)"
   },
   "vaccination.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses.",
-    "de": "Bitte klicken Sie auf „Senden“, um Ihre Antwort zu senden. Vielen Dank für Ihre Hilfe."
+    "en": "Thank you for completing the questionnaire. Please submit it. Thank you for your support.",
+    "de": "Vielen Dank für das Ausfüllen des Fragebogens. Bitte klicken Sie auf „Senden“. Vielen Dank für Ihre Unterstützung."
   }
 }

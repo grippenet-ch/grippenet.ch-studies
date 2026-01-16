@@ -12,8 +12,8 @@
     "it": "Durata: 1-5 minuti"
   },
   "weekly.Q1.title.0": {
-    "en": "Have you had any of the following symptoms since your last questionnaire (or in the past week, if this the first tie you are taking this questionnaire)?",
-    "it": "Hai avuto uno dei seguenti sintomi dall'ultima volta che hai compilato il questionario (o nell'ultima settimana se è la prima volta che lo compili)?"
+    "en": "Do you currently have, or have you had during the past week, any of the following symptoms? Multiple answers are possible. Please select only symptoms that have appeared recently or have worsened.",
+    "it": "Ha attualmente o ha avuto, nel corso dell'ultima settimana, uno o più dei seguenti sintomi? Sono possibili più risposte. Selezionare solo i sintomi comparsi di recente o peggiorati."
   },
   "weekly.Q1.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -168,8 +168,8 @@
     "it": "Non si applica"
   },
   "weekly.HS.Qcov3.title.0": {
-    "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have COVID-19?",
-    "it": "Nelle due settimane prima dell'inizio dei tuoi sintomi, sei stato in contatto con qualcuno che è risultato positivo ad un test antigenico o molecolare (caso confermato) per il COVID-19?"
+    "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have Covid-19?",
+    "it": "Nelle due settimane prima dell'inizio dei tuoi sintomi, sei stato in contatto con qualcuno che è risultato positivo ad un test antigenico o molecolare (caso confermato) per il Covid-19?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -325,7 +325,7 @@
   },
   "weekly.HS.Q6.helpGroup.text.1": {
     "en": "Fever is an important diagnostic symptom, so we would like to know when the fever appeared.",
-    "it": "La febbre è un sintomo molto importante nella diagnosi per l’influenza o per il COVID-19, ecco perché vogliamo saperne la data di inizio."
+    "it": "La febbre è un sintomo molto importante nella diagnosi per l’influenza o per il Covid-19, ecco perché vogliamo saperne la data di inizio."
   },
   "weekly.HS.Q6.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -353,7 +353,7 @@
   },
   "weekly.HS.Q6b.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "it": "L’influenza e il COVID-19 sono spesso associati alla comparsa improvvisa di febbre."
+    "it": "L’influenza e il Covid-19 sono spesso associati alla comparsa improvvisa di febbre."
   },
   "weekly.HS.Q6b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -385,7 +385,7 @@
   },
   "weekly.HS.Q6c.helpGroup.text.1": {
     "en": "If you have taken your temperature, we would like to know the highest body temperature you have measured.",
-    "it": "L’influenza e il COVID-19 di solito causano febbre alta. Tuttavia non tutti si misurano la febbre quando sono ammalati."
+    "it": "L’influenza e il Covid-19 di solito causano febbre alta. Tuttavia non tutti si misurano la febbre quando sono ammalati."
   },
   "weekly.HS.Q6c.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -417,7 +417,7 @@
   },
   "weekly.HS.Q6d.helpGroup.text.1": {
     "en": "Certain infectious diseases cause a raised temperature.",
-    "it": "L’influenza e il COVID-19 causano spesso febbre alta."
+    "it": "L’influenza e il Covid-19 causano spesso febbre alta."
   },
   "weekly.HS.Q6d.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -752,12 +752,12 @@
     "it": "Per motivi economici."
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
-    "en": "For fear of consequences if the doctor thinks I have COVID-19",
-    "it": "Per paura delle conseguenze nel caso in cui il medico ritenga che io abbia il COVID-19."
+    "en": "For fear of consequences if the doctor thinks I have Covid-19",
+    "it": "Per paura delle conseguenze nel caso in cui il medico ritenga che io abbia il Covid-19."
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against COVID-19",
-    "it": "Perché sono vaccinato contro il COVID-19"
+    "en": "Because I am vaccinated against Covid-19",
+    "it": "Perché sono vaccinato contro il Covid-19"
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
@@ -772,8 +772,8 @@
     "it": "Non so/preferisco non rispondere"
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "it": "A causa dei tuoi sintomi, sei stato sottoposto ad analisi per accertare se hai il COVID-19?"
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have Covid-19?",
+    "it": "A causa dei tuoi sintomi, sei stato sottoposto ad analisi per accertare se hai il Covid-19?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -841,15 +841,15 @@
   },
   "weekly.EX.Qcov16b.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "it": "Vogliamo sapere quanti sono i casi confermati tra i partecipanti che presentano sintomi COVID-19."
+    "it": "Vogliamo sapere quanti sono i casi confermati tra i partecipanti che presentano sintomi Covid-19."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "it": "Sì, positivo al COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "it": "Sì, positivo al Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "it": "Sì, negativo al COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "it": "Sì, negativo al Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -869,15 +869,15 @@
   },
   "weekly.EX.Qcov16f.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "it": "Vogliamo sapere quante persone potenzialmente hanno contratto il COVID-19."
+    "it": "Vogliamo sapere quante persone potenzialmente hanno contratto il Covid-19."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "it": "Sì, positivo al COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "it": "Sì, positivo al Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "it": "Sì, negativo al COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "it": "Sì, negativo al Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -897,15 +897,15 @@
   },
   "weekly.EX.Qcov16k.helpGroup.text.1": {
     "en": "We want to understand how the coronavirus is spreading within the population.",
-    "it": "Vogliamo sapere quante persone potenzialmente hanno contratto il COVID-19."
+    "it": "Vogliamo sapere quante persone potenzialmente hanno contratto il Covid-19."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "it": "Sì, positivo al COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "it": "Sì, positivo al Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "it": "Sì, negativo al COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "it": "Sì, negativo al Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -1105,7 +1105,7 @@
   },
   "weekly.EX.Q10b.helpGroup.text.1": {
     "en": "To determine how the symptoms are impacting your daily life.",
-    "it": "Per stimare il tempo medio di assenteismo da scuola o lavoro causato dall’influenza o dal COVID-19, abbiamo bisogno di sapere se sei ancora assente da lavoro/scuola."
+    "it": "Per stimare il tempo medio di assenteismo da scuola o lavoro causato dall’influenza o dal Covid-19, abbiamo bisogno di sapere se sei ancora assente da lavoro/scuola."
   },
   "weekly.EX.Q10b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -1137,7 +1137,7 @@
   },
   "weekly.EX.Q10c.helpGroup.text.1": {
     "en": "To calculate the number of days a person misses work or school due to certain symptoms.",
-    "it": "Per calcolare il numero di giorni che vengono persi al lavoro o a scuola per via dei sintomi influenzali o COVID-19."
+    "it": "Per calcolare il numero di giorni che vengono persi al lavoro o a scuola per via dei sintomi influenzali o Covid-19."
   },
   "weekly.EX.Q10c.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -1548,8 +1548,8 @@
     "it": "Influenza o sindrome para-influenzale"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
-    "en": "New coronavirus (COVID-19)",
-    "it": "Nuovo coronavirus (COVID-19)"
+    "en": "Covid-19",
+    "it": "Covid-19"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold",
@@ -1576,7 +1576,7 @@
     "it": "Non so"
   },
   "weekly.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. We will ask you again next week.",
-    "it": "Grazie! Per ora è tutto, per favore invia le tue risposte premendo il pulsante « Invia ». Ti ricontatteremo la prossima settimana."
+    "en": "Once submitted, this week’s questionnaire is complete. You will be asked to complete it again next week. Thank you for your support!",
+    "it": "Una volta inviato il questionario di questa settimana, il questionario sarà completato. Lo compilerete nuovamente la prossima settimana. Grazie per il vostro sostegno!"
   }
 }

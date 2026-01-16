@@ -123,7 +123,7 @@
     "en": "I always get vaccinated"
   },
   "vaccination.HV.Q10c.rg.mcg.option.9": {
-    "en": "I try to protect myself against infections because of the ongoing COVID-19 pandemic"
+    "en": "I try to protect myself against infections because of the ongoing Covid-19 pandemic"
   },
   "vaccination.HV.Q10c.rg.mcg.input.10": {
     "en": "Other reason(s)"
@@ -198,7 +198,7 @@
     "en": "Describe here (optional)"
   },
   "vaccination.HV.Q35.title.0": {
-    "en": "Have you received a COVID-19 vaccine?"
+    "en": "Have you received a Covid-19 vaccine?"
   },
   "vaccination.HV.Q35.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -210,19 +210,19 @@
     "en": "How should I answer this question?"
   },
   "vaccination.HV.Q35.helpGroup.text.3": {
-    "en": "Check yes, if you have received at least one dose of the COVID-19 vaccine (since December 2020)."
+    "en": "Check yes, if you have received at least one dose of the Covid-19 vaccine (since December 2020)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
-    "en": "Yes, I have received at least one COVID-19 vaccine"
+    "en": "Yes, I have received at least one Covid-19 vaccine"
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
-    "en": "No, so far I did not receive the COVID-19 vaccine"
+    "en": "No, so far I did not receive the Covid-19 vaccine"
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
     "en": "I don't know/I can't remember."
   },
   "vaccination.HV.Q35i.title.0": {
-    "en": "Which COVID-19 vaccine(s) (of which producer) did you receive?"
+    "en": "Which Covid-19 vaccine(s) (of which producer) did you receive?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -270,7 +270,7 @@
     "en": "How should I answer this question?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
-    "en": "Report the number of doses you have received so far (which corresponds to the number of times you were vaccinated against COVID-19 )."
+    "en": "Report the number of doses you have received so far (which corresponds to the number of times you were vaccinated against Covid-19 )."
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One"
@@ -288,7 +288,7 @@
     "en": "I Don't know/I can't remember"
   },
   "vaccination.HV.Q35j.title.0": {
-    "en": "When did you receive your last dose of a vaccine against COVID-19? If you do not know the exact date please provide an estimate."
+    "en": "When did you receive your last dose of a vaccine against Covid-19? If you do not know the exact date please provide an estimate."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -348,10 +348,10 @@
     "en": "Select the option that best describes your situation"
   },
   "vaccination.HV.Q35l.rg.scg.option.0": {
-    "en": "I had a COVID-19 infection already before my first dose."
+    "en": "I had a Covid-19 infection already before my first dose."
   },
   "vaccination.HV.Q35l.rg.scg.option.1": {
-    "en": "I had a COVID-19 infection shortly after my first dose, and have to wait several months to be able to get the second dose."
+    "en": "I had a Covid-19 infection shortly after my first dose, and have to wait several months to be able to get the second dose."
   },
   "vaccination.HV.Q35l.rg.scg.option.2": {
     "en": " I received Janssen vaccine, which requires only one dose."
@@ -372,7 +372,7 @@
     "en": "I don't know"
   },
   "vaccination.HV.Q35f.title.0": {
-    "en": "What are your reason(s) for getting vaccinated against COVID-19?"
+    "en": "What are your reason(s) for getting vaccinated against Covid-19?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
     "en": "Why are we asking this?"
@@ -393,16 +393,16 @@
     "en": "The vaccination is recommended by public health authorities."
   },
   "vaccination.HV.Q35f.rg.mcg.option.1": {
-    "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.)."
+    "en": "I belong to a group who is at risk of complications in case of Covid-19 (over 65 of age, underlying health condition, obesity, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.2": {
-    "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff, etc.…)."
+    "en": "I work in close contact with people at risk of complications in case of Covid-19 (working in a nursing home, health staff, etc.…)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
-    "en": "Vaccination decreases my risk of getting COVID-19."
+    "en": "Vaccination decreases my risk of getting Covid-19."
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
-    "en": "Vaccination decreases the risk of spreading COVID-19 to others."
+    "en": "Vaccination decreases the risk of spreading Covid-19 to others."
   },
   "vaccination.HV.Q35f.rg.mcg.option.5": {
     "en": "My doctor recommended it."
@@ -426,7 +426,7 @@
     "en": "I have to be vaccinated to work."
   },
   "vaccination.HV.Q35f.rg.mcg.option.12": {
-    "en": "To obtain a valid vaccination passport (COVID-19 Certificate)."
+    "en": "To obtain a valid vaccination passport (Covid-19 Certificate)."
   },
   "vaccination.HV.Q35f.rg.mcg.input.13": {
     "en": "Other"
@@ -435,13 +435,13 @@
     "en": "Describe here (optional)"
   },
   "vaccination.HV.Q35m.title.0": {
-    "en": "What are your reasons for NOT getting vaccinated against COVID-19? Select the options that are most applicable."
+    "en": "What are your reasons for NOT getting vaccinated against Covid-19? Select the options that are most applicable."
   },
   "vaccination.HV.Q35m.helpGroup.text.0": {
     "en": "Why are we asking this?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
-    "en": "We would like understand the main reasons why people choose not to get vaccinated against COVID-19."
+    "en": "We would like understand the main reasons why people choose not to get vaccinated against Covid-19."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
     "en": "How should I answer this question?"
@@ -468,22 +468,22 @@
     "en": "I don’t belong to a risk group"
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
-    "en": "It is better to build up your body's own natural immunity against COVID-19"
+    "en": "It is better to build up your body's own natural immunity against Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
-    "en": "I doubt that the COVID-19 vaccine is effective"
+    "en": "I doubt that the Covid-19 vaccine is effective"
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
-    "en": "COVID-19 is a mild disease"
+    "en": "Covid-19 is a mild disease"
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
-    "en": "Because of the COVID-19 pandemic, I avoid seeking medical help or going to the pharmacy"
+    "en": "Because of the Covid-19 pandemic, I avoid seeking medical help or going to the pharmacy"
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
-    "en": "I don't think I am likely to get COVID-19"
+    "en": "I don't think I am likely to get Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
-    "en": "I believe that the COVID-19 vaccine can cause COVID-19"
+    "en": "I believe that the Covid-19 vaccine can cause Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
     "en": "I am worried that the vaccine is not safe/will cause illness or other adverse events"
@@ -508,5 +508,9 @@
   },
   "vaccination.HV.Q35m.rg.mcg.description.input.17": {
     "en": "Describe here (optional)"
+  },
+  "vaccination.surveyEnd.title.0": {
+    "en": "Thank you for completing the questionnaire. Please submit it. Thank you for your support."
   }
+}
 }

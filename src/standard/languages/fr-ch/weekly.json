@@ -32,8 +32,8 @@
     "fr": "Si vous souffrez d'une maladie chronique, n'indiquez que les symptômes qui ont récemment changé. Par exemple, si vous souffrez d'un essoufflement chronique, ne sélectionnez ce symptôme que s'il s'est récemment aggravé. Plusieurs réponses sont possibles."
   },
   "weekly.Q1.rg.cGJZ.text.0": {
-    "en": "Multiple answers possible. If you suffer from chronic illness, only indicate symptoms that have changed. For example, if you experience chronic shortness of breath, only mark this symptom if it has recently gotten worse.",
-    "fr": "Plusieurs réponses sont possibles. Si vous souffrez d'une maladie chronique, n'indiquez que les symptômes qui ont récemment changé. Par exemple, si vous souffrez d'un essoufflement chronique, ne sélectionnez ce symptôme que s'il s'est récemment aggravé."
+    "en": "Do you currently have, or have you had during the past week, any of the following symptoms? Multiple answers are possible. Please select only symptoms that have appeared recently or have worsened.",
+    "fr": "Avez-vous actuellement ou avez-vous eu l'un des symptômes suivants au cours de la semaine dernière ? Plusieurs réponses sont possibles. Cliquez uniquement sur les symptômes qui sont apparus récemment ou qui se sont aggravés."
   },
   "weekly.Q1.rg.mcg.option.0": {
     "en": "No symptoms",
@@ -168,8 +168,8 @@
     "fr": "Cela ne s'applique pas à ma situation"
   },
   "weekly.HS.Qcov3.title.0": {
-    "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have COVID-19?",
-    "fr": "Durant les 14 jours précédant le début de vos symptômes, avez-vous été en contact étroit avec une personne pour laquelle un test antigénique ou PCR a confirmé qu'elle était atteinte de la COVID-19 ?"
+    "en": "In the 14 days before your symptoms started, have you been in close contact with someone for whom an antigenic or PCR test has confirmed that they have Covid-19?",
+    "fr": "Durant les 14 jours précédant le début de vos symptômes, avez-vous été en contact étroit avec une personne pour laquelle un test antigénique ou PCR a confirmé qu'elle était atteinte de la Covid-19 ?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -177,7 +177,7 @@
   },
   "weekly.HS.Qcov3.helpGroup.text.1": {
     "en": "In  order to study how the coronavirus spreads within the general population.",
-    "fr": "Afin d'étudier le mode de propagation de la COVID-19 dans la population générale."
+    "fr": "Afin d'étudier le mode de propagation de la Covid-19 dans la population générale."
   },
   "weekly.HS.Qcov3.rg.scg.option.0": {
     "en": "Yes",
@@ -201,7 +201,7 @@
   },
   "weekly.HS.Qcov3b.helpGroup.text.1": {
     "en": "The coronavirus and influenza spread quickly indoors.",
-    "fr": "La COVID-19 et la grippe se propagent rapidement à l'intérieur."
+    "fr": "La Covid-19 et la grippe se propagent rapidement à l'intérieur."
   },
   "weekly.HS.Qcov3b.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -293,7 +293,7 @@
   },
   "weekly.HS.Q5.helpGroup.text.1": {
     "en": "The sudden onset of symptoms (within a few hours) is linked to the coronavirus and influenza.",
-    "fr": "L'apparition soudaine des symptômes (en quelques heures) est souvent liée à la COVID-19 et à la grippe."
+    "fr": "L'apparition soudaine des symptômes (en quelques heures) est souvent liée à la Covid-19 et à la grippe."
   },
   "weekly.HS.Q5.helpGroup.text.2": {
     "en": "How should I answer this question?",
@@ -752,12 +752,12 @@
     "fr": "Pour des raisons financières"
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
-    "en": "For fear of consequences if the doctor thinks I have COVID-19",
-    "fr": "Par crainte des conséquences si le médecin pense que j'ai contracté la COVID-19"
+    "en": "For fear of consequences if the doctor thinks I have Covid-19",
+    "fr": "Par crainte des conséquences si le médecin pense que j'ai contracté la Covid-19"
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against COVID-19",
-    "fr": "Parce que je suis vacciné-e contre la COVID-19"
+    "en": "Because I am vaccinated against Covid-19",
+    "fr": "Parce que je suis vacciné-e contre la Covid-19"
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reason",
@@ -772,8 +772,8 @@
     "fr": "Je ne sais pas / Je ne veux pas répondre"
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have COVID-19?",
-    "fr": "En raison de vos symptômes, avez-vous effectué un test ou des analyses afin de savoir si vous aviez la COVID-19 ?"
+    "en": "Because of your symptoms, did you undergo a test/analyses to know if you have Covid-19?",
+    "fr": "En raison de vos symptômes, avez-vous effectué un test ou des analyses afin de savoir si vous aviez la Covid-19 ?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this question?",
@@ -781,7 +781,7 @@
   },
   "weekly.EX.Qcov16h.helpGroup.text.1": {
     "en": "We want to know which complaints lead people to get tested for the coronavirus.",
-    "fr": "Nous voulons savoir quels symptômes conduisent les gens à se faire tester pour la COVID-19."
+    "fr": "Nous voulons savoir quels symptômes conduisent les gens à se faire tester pour la Covid-19."
   },
   "weekly.EX.Qcov16h.rg.scg.option.0": {
     "en": "Yes",
@@ -844,12 +844,12 @@
     "fr": "Nous voulons comprendre comment le coronavirus se propage au sein de la population."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "fr": "Oui, positif pour la COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "fr": "Oui, positif pour la Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "fr": "Oui, négatif pour la COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "fr": "Oui, négatif pour la Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -872,12 +872,12 @@
     "fr": "Nous voulons comprendre comment le coronavirus se propage au sein de la population."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "fr": "Oui, positif pour la COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "fr": "Oui, positif pour la Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "fr": "Oui, négatif pour la COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "fr": "Oui, négatif pour la Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -900,12 +900,12 @@
     "fr": "Nous voulons comprendre comment le coronavirus se propage au sein de la population."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19",
-    "fr": "Oui, positif pour la COVID-19"
+    "en": "Yes, positive for Covid-19",
+    "fr": "Oui, positif pour la Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19",
-    "fr": "Oui, négatif pour la COVID-19"
+    "en": "Yes, negative for Covid-19",
+    "fr": "Oui, négatif pour la Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, the results are inconclusive",
@@ -1540,8 +1540,8 @@
     "fr": "Grippe ou syndrome grippal"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
-    "en": "New coronavirus (COVID-19)",
-    "fr": "Nouveau coronavirus (COVID-19)"
+    "en": "Covid-19",
+    "fr": "Covid-19"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold",
@@ -1568,7 +1568,7 @@
     "fr": "Je ne sais pas"
   },
   "weekly.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (push « send ») your responses. We will ask you again next week.",
-    "fr": "Merci beaucoup ! C'est tout pour le moment. Veuillez soumettre vos réponses (appuyez sur \"Envoyer\"). Nous vous poserons à nouveau ces mêmes questions la semaine prochaine."
+    "en": "Once submitted, this week’s questionnaire is complete. You will be asked to complete it again next week. Thank you for your support!",
+    "fr": "Une fois envoyé, le questionnaire de cette semaine est terminé. Vous serez invité(e) à le remplir à nouveau la semaine prochaine. Merci de votre soutien !"
   }
 }

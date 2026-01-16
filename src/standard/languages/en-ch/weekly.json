@@ -9,7 +9,7 @@
     "en": "Duration 1-5 minutes"
   },
   "weekly.Q1.title.0": {
-    "en": "Have you suffered from any of the following symptoms since your last completion of the weekly questionnaire (or in the past week if this the first time you are filling out this questionnaire)?"
+    "en": "Do you currently have, or have you had in the past week, one or more of the following symptoms?"
   },
   "weekly.Q1.helpGroup.text.0": {
     "en": "Why are we asking this question?"
@@ -24,7 +24,7 @@
     "en": "If you suffer from a chronic illness only indicate the symptoms that have changed. For example, if you suffer from chronic shortness of breath only report this symptom if it has recently gotten worse. Multiple answers are possible."
   },
   "weekly.Q1.rg.cGJZ.text.0": {
-    "en": "Multiple answers are possible. If you suffer from a chronic illness, only indicate the symptoms that have changed. For example, if you suffer from chronic shortness of breath, only mark this symptom if it has recently gotten worse."
+    "en": "Do you currently have, or have you had during the past week, any of the following symptoms? Multiple answers are possible. Please select only symptoms that have appeared recently or have worsened."
   },
   "weekly.Q1.rg.mcg.option.0": {
     "en": "No symptoms"
@@ -126,7 +126,7 @@
     "en": "This does not apply to me"
   },
   "weekly.HS.Qcov3.title.0": {
-    "en": "In the 14 days before your symptoms started, have you been in close contact with someone who has tested positive for COVID-19 with an antigenic or PCR test?"
+    "en": "In the 14 days before your symptoms started, have you been in close contact with someone who has tested positive for Covid-19 with an antigenic or PCR test?"
   },
   "weekly.HS.Qcov3.helpGroup.text.0": {
     "en": "Why are we asking this question?"
@@ -564,10 +564,10 @@
     "en": "Because of financial reasons"
   },
   "weekly.EX.Qcov18.rg.scg.option.8": {
-    "en": "Out of fear of consequences if the doctor thinks I have COVID-19"
+    "en": "Out of fear of consequences if the doctor thinks I have Covid-19"
   },
   "weekly.EX.Qcov18.rg.scg.option.9": {
-    "en": "Because I am vaccinated against COVID-19"
+    "en": "Because I am vaccinated against Covid-19"
   },
   "weekly.EX.Qcov18.rg.scg.input.10": {
     "en": "For another reasons"
@@ -579,7 +579,7 @@
     "en": "I don't know / I don't want to answer"
   },
   "weekly.EX.Qcov16h.title.0": {
-    "en": "Because of your symptoms, did you undergo a test/analyses to test if you have COVID-19?"
+    "en": "Because of your symptoms, did you undergo a test/analyses to test if you have Covid-19?"
   },
   "weekly.EX.Qcov16h.helpGroup.text.0": {
     "en": "Why are we asking this question?"
@@ -600,7 +600,7 @@
     "en": "No"
   },
   "weekly.EX.Qcov16i.title.0": {
-    "en": "What kind of COVID-19-test/-analyse(s) did you do?"
+    "en": "What kind of Covid-19-test/-analyse(s) did you do?"
   },
   "weekly.EX.Qcov16i.helpGroup.text.0": {
     "en": "Why are we asking this question?"
@@ -633,10 +633,10 @@
     "en": "We want to understand how the coronavirus is spreading within the population."
   },
   "weekly.EX.Qcov16b.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19"
+    "en": "Yes, positive for Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19"
+    "en": "Yes, negative for Covid-19"
   },
   "weekly.EX.Qcov16b.rg.scg.option.2": {
     "en": "Yes, but the results are inconclusive."
@@ -654,10 +654,10 @@
     "en": "We want to understand how the coronavirus is spreading within the population."
   },
   "weekly.EX.Qcov16f.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19"
+    "en": "Yes, positive for Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19"
+    "en": "Yes, negative for Covid-19"
   },
   "weekly.EX.Qcov16f.rg.scg.option.2": {
     "en": "Yes, but the results are inconclusive."
@@ -675,10 +675,10 @@
     "en": "We want to understand how the coronavirus is spreading within the population."
   },
   "weekly.EX.Qcov16k.rg.scg.option.0": {
-    "en": "Yes, positive for COVID-19"
+    "en": "Yes, positive for Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.1": {
-    "en": "Yes, negative for COVID-19"
+    "en": "Yes, negative for Covid-19"
   },
   "weekly.EX.Qcov16k.rg.scg.option.2": {
     "en": "Yes, but the results are inconclusive"
@@ -879,7 +879,7 @@
     "en": "More than 15 days"
   },
   "weekly.EX.Qcov7.title.0": {
-    "en": "Did you begin to follow or increase any of the measures below, because of your symptoms (compared to the period before your symptoms began)?"
+    "en": "Did you begin to follow or increase any of the measures below because of your symptoms (compared to the period before your had symptoms)?"
   },
   "weekly.EX.Qcov7.helpGroup.text.0": {
     "en": "Why are we asking this question?"
@@ -1077,7 +1077,7 @@
     "en": "Not applicable"
   },
   "weekly.EX.Qcov7.rg.zuDa.text.25": {
-    "en": "Have your food/shopping delivered to your home by a store or a friend/family member"
+    "en": "Use home delivery (for food and shopping)"
   },
   "weekly.EX.Qcov7.rg.likert_13.option.0": {
     "en": " Yes, I am following this measure now for the first time, or in a stricter way"
@@ -1107,7 +1107,7 @@
     "en": "Not applicable"
   },
   "weekly.EX.Qcov7.rg.fRla.text.29": {
-    "en": "Avoid being in contact with people of over 65 years of age or people who suffer from (a) chronic disease(s)"
+    "en": "Avoid contact with people of over 65 years or people who suffer from chronic disease(s)"
   },
   "weekly.EX.Qcov7.rg.likert_15.option.0": {
     "en": " Yes, I am following this measure now for the first time, or in a stricter way"
@@ -1155,7 +1155,7 @@
     "en": "Flu (influenza) or flu-like illness"
   },
   "weekly.EX.Q11.rg.scg.option.1": {
-    "en": "New coronavirus (COVID-19)"
+    "en": "Covid-19"
   },
   "weekly.EX.Q11.rg.scg.option.2": {
     "en": "Common cold"
@@ -1176,6 +1176,6 @@
     "en": "I don't know"
   },
   "weekly.surveyEnd.title.0": {
-    "en": "Thank you! This was all for now, please submit (press \"send\") your responses. We will ask you again about possible flu-like symptoms next week."
+    "en": "Once submitted, this week’s questionnaire is complete. You will be asked to complete it again next week. Thank you for your support!"
   }
 }
