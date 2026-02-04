@@ -268,8 +268,8 @@
     "it": "Descrizione (opzionale)"
   },
   "vaccination.HV.Q35.title.0": {
-    "en": "Have you received a COVID-19 vaccine?",
-    "it": "Sei stato vaccinato per il COVID-19?"
+    "en": "Have you received a Covid-19 vaccine?",
+    "it": "Sei stato vaccinato per il Covid-19?"
   },
   "vaccination.HV.Q35.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -284,24 +284,24 @@
     "it": "Come devi rispondere a questa domanda?"
   },
   "vaccination.HV.Q35.helpGroup.text.3": {
-    "en": "Report yes, if you received a COVID-19 vaccine (since December 2020).",
-    "it": "Rispondi sì se sei stato vaccinato per il COVID-19 (a partire da Dicembre 2020)."
+    "en": "Report yes, if you received a Covid-19 vaccine (since December 2020).",
+    "it": "Rispondi sì se sei stato vaccinato per il Covid-19 (a partire da Dicembre 2020)."
   },
   "vaccination.HV.Q35.rg.scg.option.0": {
-    "en": "Yes, I received at least one COVID-19 vaccine",
-    "it": "Sì, sono stato vaccinato per il COVID-19"
+    "en": "Yes, I received at least one Covid-19 vaccine",
+    "it": "Sì, sono stato vaccinato per il Covid-19"
   },
   "vaccination.HV.Q35.rg.scg.option.1": {
-    "en": "No, I did not receive the COVID-19 vaccine",
-    "it": "No, non sono stato vaccinato per il COVID-19"
+    "en": "No, I did not receive the Covid-19 vaccine",
+    "it": "No, non sono stato vaccinato per il Covid-19"
   },
   "vaccination.HV.Q35.rg.scg.option.2": {
     "en": "I don't know/can't remember.",
     "it": "Non so/non ricordo."
   },
   "vaccination.HV.Q35i.title.0": {
-    "en": "Which COVID-19 vaccine(s) did you receive?",
-    "it": "Quale vaccino o vaccini per il COVID-19 ti è stato somministrato?"
+    "en": "Which Covid-19 vaccine(s) did you receive?",
+    "it": "Quale vaccino o vaccini per il Covid-19 ti è stato somministrato?"
   },
   "vaccination.HV.Q35i.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -364,8 +364,8 @@
     "it": "Come devi rispondere a questa domanda?"
   },
   "vaccination.HV.Q35c.helpGroup.text.3": {
-    "en": "Report the number of doses you received (which corresponds to the number of time you were vaccinated against COVID-19 ).",
-    "it": "Seleziona il numero di dosi che hai ricevuto (che corrisponde a quante volte sei stato vaccinato/a per il COVID-19)."
+    "en": "Report the number of doses you received (which corresponds to the number of time you were vaccinated against Covid-19 ).",
+    "it": "Seleziona il numero di dosi che hai ricevuto (che corrisponde a quante volte sei stato vaccinato/a per il Covid-19)."
   },
   "vaccination.HV.Q35c.rg.scg.option.0": {
     "en": "One",
@@ -388,8 +388,8 @@
     "it": "Non so/non ricordo"
   },
   "vaccination.HV.Q35j.title.0": {
-    "en": "When did you receive your last injection of a vaccine against COVID-19? If you do not know the exact date, provide an estimate.",
-    "it": "Quando hai ricevuto la più recente dose di vaccino per il COVID-19? Se non ricordi la data esatta, fornisci una data approssimata."
+    "en": "When did you receive your last injection of a vaccine against Covid-19? If you do not know the exact date, provide an estimate.",
+    "it": "Quando hai ricevuto la più recente dose di vaccino per il Covid-19? Se non ricordi la data esatta, fornisci una data approssimata."
   },
   "vaccination.HV.Q35j.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -468,12 +468,12 @@
     "it": "Seleziona l'opzione che si applica al tuo caso"
   },
   "vaccination.HV.Q35l.rg.scg.option.0": {
-    "en": "I had COVID-19 before my first injection.",
-    "it": "Ho contratto il COVID-19 prima di aver potuto ricevere la prima dose di vaccino."
+    "en": "I had Covid-19 before my first injection.",
+    "it": "Ho contratto il Covid-19 prima di aver potuto ricevere la prima dose di vaccino."
   },
   "vaccination.HV.Q35l.rg.scg.option.1": {
-    "en": "I had COVID-19 shortly after my first injection, and have to wait several months to receive the second injection.",
-    "it": "Ho contratto il COVID-19 poco dopo aver ricevuto la prima dose di vaccino e devo aspettare alcuni mesi prima di poter ricevere la seconda."
+    "en": "I had Covid-19 shortly after my first injection, and have to wait several months to receive the second injection.",
+    "it": "Ho contratto il Covid-19 poco dopo aver ricevuto la prima dose di vaccino e devo aspettare alcuni mesi prima di poter ricevere la seconda."
   },
   "vaccination.HV.Q35l.rg.scg.option.2": {
     "en": " I received Janssen vaccine, which requires only one injection.",
@@ -500,8 +500,8 @@
     "it": "Non so"
   },
   "vaccination.HV.Q35f.title.0": {
-    "en": "What are your reason(s) for getting a COVID-19 vaccination?",
-    "it": "Quali sono i motivi per cui hai deciso di vaccinarti contro il COVID-19?"
+    "en": "What are your reason(s) for getting a Covid-19 vaccination?",
+    "it": "Quali sono i motivi per cui hai deciso di vaccinarti contro il Covid-19?"
   },
   "vaccination.HV.Q35f.helpGroup.text.0": {
     "en": "Why are we asking this?",
@@ -528,20 +528,20 @@
     "it": "La vaccinazione è raccomandata dalle autorità sanitarie."
   },
   "vaccination.HV.Q35f.rg.mcg.option.1": {
-    "en": "I belong to a group who is at risk of complications in case of COVID-19 (over 65 of age, underlying health condition, obesity, etc.).",
-    "it": "Appartengo a un gruppo a rischio di complicazioni nel caso di COVID-19 (più di 65 anni di età, condizione di salute croniche, obesità, etc.)."
+    "en": "I belong to a group who is at risk of complications in case of Covid-19 (over 65 of age, underlying health condition, obesity, etc.).",
+    "it": "Appartengo a un gruppo a rischio di complicazioni nel caso di Covid-19 (più di 65 anni di età, condizione di salute croniche, obesità, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.2": {
-    "en": "I work in close contact with people at risk of complications in case of COVID-19 (working in a nursing home, health staff…).",
-    "it": "Lavoro a stretto contatto con persone a rischio di complicazioni nel caso di COVID-19 (casa di cura, ospedale, etc.)."
+    "en": "I work in close contact with people at risk of complications in case of Covid-19 (working in a nursing home, health staff…).",
+    "it": "Lavoro a stretto contatto con persone a rischio di complicazioni nel caso di Covid-19 (casa di cura, ospedale, etc.)."
   },
   "vaccination.HV.Q35f.rg.mcg.option.3": {
-    "en": "Vaccination decreases my risk of getting COVID-19.",
-    "it": "La vaccinazione diminuisce il mio rischio di ammalarmi di COVID-19."
+    "en": "Vaccination decreases my risk of getting Covid-19.",
+    "it": "La vaccinazione diminuisce il mio rischio di ammalarmi di Covid-19."
   },
   "vaccination.HV.Q35f.rg.mcg.option.4": {
-    "en": "Vaccination decreases the risk of spreading COVID-19 to others.",
-    "it": "La vaccinazione diminuisce il rischio di contagiare gli altri di COVID-19."
+    "en": "Vaccination decreases the risk of spreading Covid-19 to others.",
+    "it": "La vaccinazione diminuisce il rischio di contagiare gli altri di Covid-19."
   },
   "vaccination.HV.Q35f.rg.mcg.option.5": {
     "en": "My doctor recommended it.",
@@ -584,15 +584,15 @@
     "it": "Descrizone (Opzionale)"
   },
   "vaccination.HV.Q35m.title.0": {
-    "en": "What were your reasons for NOT getting a COVID-19 vaccination? Select the options that are most applicable.",
-    "it": "Per quale ragione non hai ricevuto la vaccinazione per il COVID-19? Seleziona le opzioni che si applicano al tuo caso."
+    "en": "What were your reasons for NOT getting a Covid-19 vaccination? Select the options that are most applicable.",
+    "it": "Per quale ragione non hai ricevuto la vaccinazione per il Covid-19? Seleziona le opzioni che si applicano al tuo caso."
   },
   "vaccination.HV.Q35m.helpGroup.text.0": {
     "en": "Why are we asking this?",
     "it": "Perché ti facciamo questa domanda?"
   },
   "vaccination.HV.Q35m.helpGroup.text.1": {
-    "en": "We would like to know the main reasons why people are declining COVID-19 vaccination.",
+    "en": "We would like to know the main reasons why people are declining Covid-19 vaccination.",
     "it": "Vogliamo conoscere quali sono i motivi per cui alcune persone decidono di non vaccinarsi."
   },
   "vaccination.HV.Q35m.helpGroup.text.2": {
@@ -628,28 +628,28 @@
     "it": "Non faccio parte di una categoria a rischio"
   },
   "vaccination.HV.Q35m.rg.mcg.option.5": {
-    "en": "It is better to build your own natural immunity against COVID-19",
-    "it": "E' meglio costruire le proprie difese immunitarie contro il COVID-19 in modo naturale"
+    "en": "It is better to build your own natural immunity against Covid-19",
+    "it": "E' meglio costruire le proprie difese immunitarie contro il Covid-19 in modo naturale"
   },
   "vaccination.HV.Q35m.rg.mcg.option.6": {
-    "en": "I doubt that the COVID-19 vaccine is effective",
-    "it": "Ho dei dubbi sull'efficacia del vaccino contro il COVID-19"
+    "en": "I doubt that the Covid-19 vaccine is effective",
+    "it": "Ho dei dubbi sull'efficacia del vaccino contro il Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.7": {
-    "en": "COVID-19 is a minor illness",
-    "it": "Il COVID-19 è una malattia di minore importanza"
+    "en": "Covid-19 is a minor illness",
+    "it": "Il Covid-19 è una malattia di minore importanza"
   },
   "vaccination.HV.Q35m.rg.mcg.option.8": {
-    "en": "Because of COVID-19 pandemic, I avoid seeing doctors or going to the pharmacy",
-    "it": "A causa della pandemia da COVID-19, evito di vedere dottori o di andare in farmacia"
+    "en": "Because of Covid-19 pandemic, I avoid seeing doctors or going to the pharmacy",
+    "it": "A causa della pandemia da Covid-19, evito di vedere dottori o di andare in farmacia"
   },
   "vaccination.HV.Q35m.rg.mcg.option.9": {
-    "en": "I don't think I am likely to get the COVID-19",
-    "it": "Non credo che mi ammalero' di COVID-19"
+    "en": "I don't think I am likely to get the Covid-19",
+    "it": "Non credo che mi ammalero' di Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.10": {
-    "en": "I believe that the COVID-19 vaccine can cause COVID-19",
-    "it": "Ritengo che il vaccino possa causare un'infezione da COVID-19"
+    "en": "I believe that the Covid-19 vaccine can cause Covid-19",
+    "it": "Ritengo che il vaccino possa causare un'infezione da Covid-19"
   },
   "vaccination.HV.Q35m.rg.mcg.option.11": {
     "en": "I am worried that the vaccine is not safe or will cause illness or other adverse events",
